@@ -15856,3 +15856,110 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 18:16:41.562] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [22Feb2025 18:17:46.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Not Today, Thank You]
 [22Feb2025 18:20:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Delightful Decade]
+[22Feb2025 18:21:41.555] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 18:21:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Delightful Decade]
+[22Feb2025 18:22:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Sweet Dreams]
+[22Feb2025 18:26:36.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [World Tier: Haven]
+[22Feb2025 18:26:41.546] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 18:27:20.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Timed out
+[22Feb2025 18:27:20.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[22Feb2025 18:28:01.037] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-641, y=55, z=583} with deep BlockPos{x=-641, y=-61, z=583}
+[22Feb2025 18:28:02.430] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-598, y=69, z=437} with deep BlockPos{x=-598, y=-61, z=437}
+[22Feb2025 18:28:09.744] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[22Feb2025 18:28:09.745] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[22Feb2025 18:28:16.853] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-687, y=62, z=465} with deep BlockPos{x=-687, y=-60, z=465}
+[22Feb2025 18:28:18.254] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-635, y=61, z=411} with deep BlockPos{x=-635, y=-61, z=411}
+[22Feb2025 18:28:18.501] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-725, y=66, z=576} with deep BlockPos{x=-725, y=-60, z=576}
+[22Feb2025 18:28:21.124] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-737, y=56, z=513} with deep BlockPos{x=-737, y=-59, z=513}
+[22Feb2025 18:28:28.175] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-664, y=55, z=374} with deep BlockPos{x=-664, y=-62, z=374}
+[22Feb2025 18:28:58.784] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-465, y=80, z=909} with deep BlockPos{x=-465, y=-60, z=909}
+[22Feb2025 18:28:59.195] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-445, y=77, z=897} with deep BlockPos{x=-445, y=-60, z=897}
+[22Feb2025 18:29:20.615] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-735, y=69, z=904} with deep BlockPos{x=-735, y=-59, z=904}
+[22Feb2025 18:29:20.797] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-657, y=65, z=960} with deep BlockPos{x=-657, y=-59, z=960}
+[22Feb2025 18:29:28.165] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:28.166] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:28.219] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:28.264] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:28.265] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:31.778] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:31.779] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:32.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:32.241] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:32.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:32.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:32.310] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-540 | 65 | 1156).
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[22Feb2025 18:29:34.220] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[22Feb2025 18:29:34.221] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(2) Nodes and 6(0) Rooms
+[22Feb2025 18:29:34.221] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[22Feb2025 18:29:34.221] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(5) Nodes and 6(0) Rooms
+[22Feb2025 18:29:34.221] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[22Feb2025 18:29:34.221] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
+[22Feb2025 18:29:35.690] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:35.691] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:36.029] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:36.030] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:36.495] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:36.496] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:37.331] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:37.332] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:39.110] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:39.111] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:39.182] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:39.183] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:40.014] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:40.014] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:40.478] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-772, y=73, z=752} with deep BlockPos{x=-772, y=-60, z=752}
+[22Feb2025 18:29:40.555] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:42.196] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:42.197] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:42.353] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 18:29:44.039] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-875, y=72, z=795} with deep BlockPos{x=-875, y=-60, z=795}
+[22Feb2025 18:29:44.118] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-827, y=74, z=749} with deep BlockPos{x=-827, y=-61, z=749}
+[22Feb2025 18:29:48.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [People Are Strange]
+[22Feb2025 18:29:50.768] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-904, y=80, z=733} with deep BlockPos{x=-904, y=-61, z=733}
+[22Feb2025 18:29:51.880] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-955, y=66, z=918} with deep BlockPos{x=-955, y=-61, z=918}
+[22Feb2025 18:29:56.251] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=-952, y=87, z=992} with deep BlockPos{x=-952, y=-63, z=992}
+[22Feb2025 18:30:13.123] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@358f5211 into net.minecraft.network.Connection@775d4f99
+[22Feb2025 18:30:13.915] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[22Feb2025 18:30:14.916] [Netty Epoll Server IO #4/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@24be4a2a into net.minecraft.network.Connection@775d4f99
+[22Feb2025 18:30:14.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/[::1]:42044] logged in with entity id 11160 at (-400.9396613476637, 86.0, 622.6999999880791)
+[22Feb2025 18:30:15.029] [Server thread/INFO] [owo/]: Sending server config values to client
+[22Feb2025 18:30:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[22Feb2025 18:30:15.065] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to ShenYugen (9f853302-1406-31d6-a049-113165f8432f)
+[22Feb2025 18:30:15.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/10711, l='ServerLevel[world]', x=-797.30, y=67.00, z=896.50] died, message: 'Cartographer was shot by Pillager'
+[22Feb2025 18:30:16.191] [Server thread/INFO] [owo/]: Receiving client config
+[22Feb2025 18:30:46.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/10771, l='ServerLevel[world]', x=-796.15, y=63.00, z=866.83] died, message: 'Mason was shot by Pillager'
+[22Feb2025 18:30:47.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/10713, l='ServerLevel[world]', x=-782.88, y=67.00, z=893.98] died, message: 'Cleric was shot by Pillager'
+[22Feb2025 18:30:49.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 18:31:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [People Are Strange]
+[22Feb2025 18:31:16.605] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1064, y=76, z=923} with deep BlockPos{x=-1064, y=-59, z=923}
+[22Feb2025 18:31:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Close Quarters]
+[22Feb2025 18:31:41.566] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 18:32:22.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10834, l='ServerLevel[world]', x=-825.49, y=64.00, z=869.10] died, message: 'Fisherman was shot by Pillager'
+[22Feb2025 18:32:56.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/10799, l='ServerLevel[world]', x=-863.30, y=63.75, z=837.45] died, message: 'Mason was shot by Pillager'
+[22Feb2025 18:33:44.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Close Quarters]
+[22Feb2025 18:34:16.268] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-905, y=105, z=1107} with deep BlockPos{x=-905, y=-60, z=1107}
+[22Feb2025 18:35:18.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/10692, l='ServerLevel[world]', x=-800.25, y=66.25, z=896.64] died, message: 'Weaponsmith was shot by Pillager'
+[22Feb2025 18:35:32.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/11668, l='ServerLevel[world]', x=-867.62, y=71.00, z=952.62] died, message: 'Cartographer was slain by Zombie'
+[22Feb2025 18:35:36.500] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[22Feb2025 18:35:36.500] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Feb2025 18:35:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Fortuitous Militia]
+[22Feb2025 18:35:48.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10712, l='ServerLevel[world]', x=-803.07, y=70.00, z=909.16] died, message: 'Fletcher was shot by Pillager'
+[22Feb2025 18:36:13.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11687, l='ServerLevel[world]', x=-893.52, y=63.00, z=856.90] died, message: 'Shepherd was shot by Pillager'
+[22Feb2025 18:36:27.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/11686, l='ServerLevel[world]', x=-924.51, y=63.00, z=854.40] died, message: 'Nitwit was shot by Pillager'
+[22Feb2025 18:36:41.558] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 18:37:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Isn't It Iron Pick]
+[22Feb2025 18:37:14.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Suit Up]
+[22Feb2025 18:37:19.767] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1063, y=48, z=1087} with deep BlockPos{x=-1063, y=-62, z=1087}
+[22Feb2025 18:37:20.513] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1012, y=49, z=1108} with deep BlockPos{x=-1012, y=-59, z=1108}
+[22Feb2025 18:37:20.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/11669, l='ServerLevel[world]', x=-872.40, y=70.23, z=956.36] died, message: 'Nitwit was slain by Zombie'
+[22Feb2025 18:39:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Hunt and Gather]
+[22Feb2025 18:39:42.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Half-Century]
+[22Feb2025 18:39:45.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/10792, l='ServerLevel[world]', x=-838.43, y=65.00, z=947.84] died, message: 'Fisherman was shot by Pillager'
+[22Feb2025 18:39:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [World Tier: Frontier]
+[22Feb2025 18:39:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Half-Century]
