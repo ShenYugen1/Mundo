@@ -3337,3 +3337,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 23:30:37.082] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 23:30:42.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1991.500000, 61.500000, -13997.500000]
 [22Feb2025 23:30:59.969] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[22Feb2025 23:34:06.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[22Feb2025 23:34:06.019] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 23:34:11.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2165.500000, 67.500000, -13985.500000]
+[22Feb2025 23:36:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was burned to a crisp while fighting Zombie
+[22Feb2025 23:36:37.644] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 23:36:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2161.500000, 64.500000, -14004.500000]
+[22Feb2025 23:40:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[22Feb2025 23:40:26.131] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 23:41:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Deepling Brute
+[22Feb2025 23:41:21.441] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 23:41:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1051.500000, 60.500000, -15609.500000]
