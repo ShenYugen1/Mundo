@@ -3206,8 +3206,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-02-22 20:07:00 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
+      "minecraft:forest": "2025-02-22 20:06:19 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:snowy_plains": "2025-02-22 18:36:55 +0000",
       "minecraft:stony_shore": "2025-02-22 18:57:01 +0000",
@@ -3890,9 +3892,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/oak_log/hollow_oak_log": {
+    "criteria": {
+      "has_block": "2025-02-22 20:06:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-02-22 19:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:04:03 +0000"
     },
     "done": true
   },
@@ -3962,6 +3982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
@@ -3977,6 +4003,12 @@
   "tombstone:recipe/green_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
     },
     "done": true
   },
@@ -4010,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:04:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-02-22 19:17:51 +0000"
@@ -4025,6 +4063,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-02-22 19:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-22 20:04:03 +0000"
     },
     "done": true
   },
@@ -4070,9 +4114,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 20:06:59 +0000"
     },
     "done": true
   },
@@ -4130,6 +4186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 20:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-22 19:17:51 +0000"
@@ -4184,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
@@ -4235,6 +4303,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
     },
     "done": true
   },
@@ -4322,6 +4396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
@@ -4349,6 +4429,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-02-22 20:01:02 +0000"
     },
     "done": true
   },
@@ -4391,6 +4477,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-22 19:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-22 20:03:50 +0000"
     },
     "done": true
   },

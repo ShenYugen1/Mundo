@@ -15983,3 +15983,24 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:55:57.282] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
 [22Feb2025 19:56:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [22Feb2025 19:57:42.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 19.89072086055006,10.0,-63.24439052729463
+[22Feb2025 19:57:55.234] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:58:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 20:01:02.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Centennial]
+[22Feb2025 20:02:55.214] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 20:07:00.687] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:00.688] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.140] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-684, y=45, z=1656} with deep BlockPos{x=-684, y=-59, z=1656}
+[22Feb2025 20:07:04.196] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.197] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.198] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.234] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.235] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:04.236] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:07.648] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:07.650] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:07.650] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:07.651] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:07.651] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:07:29.807] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-313, y=40, z=1558} with deep BlockPos{x=-313, y=-61, z=1558}
+[22Feb2025 20:07:55.285] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 20:07:56.896] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=-654, y=70, z=1824} with deep BlockPos{x=-654, y=-61, z=1824}
