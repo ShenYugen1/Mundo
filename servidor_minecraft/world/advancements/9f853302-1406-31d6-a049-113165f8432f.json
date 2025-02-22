@@ -2472,7 +2472,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-02-22 17:30:19 +0000",
-      "cooked_mutton": "2025-02-22 17:57:09 +0000"
+      "cooked_mutton": "2025-02-22 17:57:09 +0000",
+      "pumpkin_pie": "2025-02-22 18:57:30 +0000"
     },
     "done": false
   },
@@ -3206,7 +3207,9 @@
     "criteria": {
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:snowy_plains": "2025-02-22 18:36:55 +0000",
+      "minecraft:stony_shore": "2025-02-22 18:57:01 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:41 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000"
     },
@@ -3292,7 +3295,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-02-22 18:14:59 +0000"
+      "apple": "2025-02-22 18:14:59 +0000",
+      "golden_apple": "2025-02-22 19:02:33 +0000"
     },
     "done": false
   },
@@ -3839,6 +3843,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-02-22 18:42:16 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-02-22 18:54:44 +0000"
     },
     "done": true
   },

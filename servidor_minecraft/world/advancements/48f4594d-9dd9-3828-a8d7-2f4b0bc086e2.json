@@ -4195,8 +4195,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-02-22 18:55:28 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:20 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:58 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-22 18:53:08 +0000",
+      "minecraft:stony_shore": "2025-02-22 18:56:23 +0000",
       "minecraft:snowy_plains": "2025-02-22 18:50:32 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:32 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000"
@@ -4362,6 +4365,36 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-22 18:43:06 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/misc/source_berry_crate": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-02-22 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-22 19:00:27 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/source_berry_cookie": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-02-22 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-22 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-02-22 18:54:37 +0000"
     },
     "done": true
   },
