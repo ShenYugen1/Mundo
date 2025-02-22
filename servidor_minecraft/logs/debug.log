@@ -15891,3 +15891,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:14:01.666] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
 [22Feb2025 19:14:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Most Useful Key]
 [22Feb2025 19:14:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [A Fast Comeback]
+[22Feb2025 19:17:55.232] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:18:00.739] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=-230, y=149, z=1290} with deep BlockPos{x=-230, y=-60, z=1290}
+[22Feb2025 19:22:55.222] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:23:56.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:26:08.913] [Server thread/DEBUG] [mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.world.CompoundContainer
+[22Feb2025 19:26:08.913] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[22Feb2025 19:26:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Unbreaking X]

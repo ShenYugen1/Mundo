@@ -1360,3 +1360,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:13:59.150] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 19:14:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Most Useful Key]
 [22Feb2025 19:14:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [A Fast Comeback]
+[22Feb2025 19:23:56.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:26:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Unbreaking X]
