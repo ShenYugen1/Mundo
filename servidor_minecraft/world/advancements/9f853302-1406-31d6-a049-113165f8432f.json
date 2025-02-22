@@ -3206,6 +3206,7 @@
     "criteria": {
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
+      "minecraft:snowy_plains": "2025-02-22 18:36:55 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:41 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000"
     },
@@ -3733,9 +3734,9 @@
     },
     "done": false
   },
-  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "has_emerald": "2025-02-22 18:36:20 +0000"
+      "location0": "2025-02-22 18:31:12 +0000"
     },
     "done": true
   },
@@ -3751,15 +3752,93 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-02-22 18:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-02-22 18:36:20 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_illager_campsite": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "location0": "2025-02-22 18:31:12 +0000"
+      "iron_pickaxe": "2025-02-22 18:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-22 18:37:14 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-02-22 18:38:45 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-02-22 18:38:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-02-22 18:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-22 18:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-02-22 18:39:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-02-22 18:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-02-22 18:42:01 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 18:42:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 18:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-02-22 18:42:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 18:42:16 +0000"
     },
     "done": true
   },
