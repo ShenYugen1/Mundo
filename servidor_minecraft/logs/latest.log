@@ -1590,3 +1590,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 21:47:43.441] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 21:48:55.528] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [22Feb2025 21:49:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:50:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:51:31.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:51:40.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:53:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:53:58.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 1202.500000, 64.500000, 2376.500000]
+[22Feb2025 21:54:01.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:57:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Ice Bucket Challenge]
+[22Feb2025 21:58:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Ice Bucket Challenge]

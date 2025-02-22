@@ -4972,12 +4972,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-22 21:47:58 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-02-22 21:47:15 +0000"
@@ -4987,6 +4981,12 @@
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-02-22 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-02-22 21:49:42 +0000"
     },
     "done": true
   },

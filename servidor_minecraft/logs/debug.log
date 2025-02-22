@@ -22104,3 +22104,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 21:48:55.761] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=1279, y=43, z=2423} with deep BlockPos{x=1279, y=-62, z=2423}
 [22Feb2025 21:48:55.962] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=1298, y=44, z=2426} with deep BlockPos{x=1298, y=-60, z=2426}
 [22Feb2025 21:49:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:50:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:51:31.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:51:40.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:52:58.376] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 21:53:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:53:58.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 1202.500000, 64.500000, 2376.500000]
+[22Feb2025 21:54:01.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:57:58.365] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 21:57:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Ice Bucket Challenge]
+[22Feb2025 21:58:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Ice Bucket Challenge]
