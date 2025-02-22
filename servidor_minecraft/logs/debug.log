@@ -20341,3 +20341,24 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 20:56:40.804] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (14 | 22 | 2694)
 [22Feb2025 20:57:06.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [22Feb2025 20:57:55.215] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 21:00:21.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:01:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:01:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:01:48.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:02:31.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/25611, l='ServerLevel[world]', x=172.87, y=73.00, z=2324.50] died, message: 'Shepherd was slain by Zombie'
+[22Feb2025 21:02:31.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:02:50.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:02:55.216] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 21:04:01.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:06:26.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Timed out
+[22Feb2025 21:06:26.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[22Feb2025 21:06:26.824] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 21:06:28.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was doomed to fall by Skeleton
+[22Feb2025 21:06:28.610] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:38, y:88, z:2377, dim:minecraft:overworld]
+[22Feb2025 21:06:28.611] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 21:06:29.838] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[22Feb2025 21:07:55.220] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 21:08:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was killed while trying to hurt General Pigoxrune the Boring
+[22Feb2025 21:08:35.854] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:71, y:64, z:2311, dim:minecraft:overworld]
+[22Feb2025 21:08:35.855] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 21:08:37.265] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
