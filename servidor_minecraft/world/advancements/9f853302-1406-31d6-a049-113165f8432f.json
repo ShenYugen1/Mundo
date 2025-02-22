@@ -4972,9 +4972,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-22 22:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-22 22:10:36 +0000",
+      "minecraft:soul_sand_valley": "2025-02-22 22:12:03 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-02-22 22:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-22 22:10:36 +0000"
     },
     "done": true
   },
@@ -4989,6 +5008,18 @@
       "location0": "2025-02-22 21:30:14 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-22 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_enderman": "2025-02-22 22:17:40 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
@@ -5014,6 +5045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-22 22:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-02-22 21:26:17 +0000"
@@ -5026,9 +5063,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-22 22:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-22 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-22 22:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-22 22:04:38 +0000"
+    },
+    "done": true
+  },
+  "dimensionalpocketsii:pocket/material": {
+    "criteria": {
+      "materials": "2025-02-22 22:11:04 +0000"
     },
     "done": true
   },
@@ -5068,6 +5129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-22 22:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-22 22:04:38 +0000"
@@ -5080,11 +5147,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-22 22:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-02-22 21:26:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-22 22:10:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {

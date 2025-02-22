@@ -4418,6 +4418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-22 22:12:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -5450,6 +5456,12 @@
     },
     "done": true
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-02-22 22:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-02-22 19:00:25 +0000"
@@ -5675,6 +5687,12 @@
   "arsdelight:recipes/food/bastion_pie": {
     "criteria": {
       "has_bastion_pod": "2025-02-22 20:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-22 22:16:38 +0000"
     },
     "done": true
   },
