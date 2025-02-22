@@ -2297,7 +2297,8 @@
       "biomeswevegone:frosted_coniferous_forest": "2025-02-22 17:22:20 +0000",
       "biomeswevegone:shattered_glacier": "2025-02-22 18:30:49 +0000",
       "biomeswevegone:cika_woods": "2025-02-22 20:09:16 +0000",
-      "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000"
+      "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000",
+      "biomeswevegone:zelkova_forest": "2025-02-22 20:36:28 +0000"
     },
     "done": false
   },
@@ -3867,6 +3868,12 @@
     },
     "done": true
   },
+  "arsdelight:recipes/misc/source_berry_crate": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-02-22 20:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-22 19:27:26 +0000"
@@ -4026,6 +4033,12 @@
   "minecraft:recipes/misc/workbench/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2025-02-22 20:18:15 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/food/source_berry_cookie": {
+    "criteria": {
+      "has_sourceberry_bush": "2025-02-22 20:31:02 +0000"
     },
     "done": true
   },
@@ -4299,9 +4312,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-22 20:29:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/dust_of_frost": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-22 20:31:23 +0000"
     },
     "done": true
   },
@@ -4467,6 +4492,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-22 20:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
@@ -4494,6 +4525,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-22 20:29:25 +0000"
     },
     "done": true
   },
@@ -4554,6 +4591,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-22 20:03:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-22 20:29:19 +0000"
     },
     "done": true
   },

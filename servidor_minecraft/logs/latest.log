@@ -1444,3 +1444,20 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 20:14:06.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Hunt and Gather]
 [22Feb2025 20:15:20.618] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
 [22Feb2025 20:17:19.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Mage's Spell Book]
+[22Feb2025 20:30:32.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego77> iuli??
+[22Feb2025 20:31:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 20:31:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Unbreaking X]
+[22Feb2025 20:32:17.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Best Friends Forever]
+[22Feb2025 20:32:36.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.27832544072907694
+[22Feb2025 20:32:36.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.6952661467325925
+[22Feb2025 20:34:12.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 20:34:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 20:36:15.431] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 20:36:15.432] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 20:36:15.432] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 20:36:36.838] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[22Feb2025 20:36:42.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 20:36:44.234] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[22Feb2025 20:36:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Warped]
+[22Feb2025 20:38:32.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.4018304434316633
+[22Feb2025 20:38:32.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.3565128005220686

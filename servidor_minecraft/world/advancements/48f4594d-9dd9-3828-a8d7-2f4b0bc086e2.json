@@ -2135,7 +2135,9 @@
       "biomeswevegone:frosted_coniferous_forest": "2025-02-22 17:26:54 +0000",
       "biomeswevegone:shattered_glacier": "2025-02-22 18:29:11 +0000",
       "biomeswevegone:cika_woods": "2025-02-22 20:09:03 +0000",
-      "biomeswevegone:crimson_tundra": "2025-02-22 17:30:55 +0000"
+      "biomeswevegone:weeping_witch_forest": "2025-02-22 20:36:23 +0000",
+      "biomeswevegone:crimson_tundra": "2025-02-22 17:30:55 +0000",
+      "biomeswevegone:zelkova_forest": "2025-02-22 20:36:14 +0000"
     },
     "done": false
   },
@@ -4560,6 +4562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-22 19:20:00 +0000"
@@ -4581,6 +4589,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-02-22 20:36:51 +0000"
     },
     "done": true
   },
@@ -4668,6 +4682,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
@@ -4677,6 +4697,18 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
     },
     "done": true
   },
@@ -4713,6 +4745,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-22 20:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-22 20:32:17 +0000"
     },
     "done": true
   },
@@ -4839,6 +4877,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-02-22 20:14:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-02-22 20:31:49 +0000"
     },
     "done": true
   },
@@ -5304,9 +5348,27 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
     },
     "done": true
   },
