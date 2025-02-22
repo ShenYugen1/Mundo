@@ -1352,3 +1352,36 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 17:57:40.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [A Strange Grave Dust]
 [22Feb2025 17:58:43.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was poked to death by a sweet berry bush
 [22Feb2025 17:58:43.173] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 18:01:35.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Berrily Alive]
+[22Feb2025 18:01:35.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Timed out
+[22Feb2025 18:01:35.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[22Feb2025 18:04:48.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Ambush]
+[22Feb2025 18:04:54.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was poked to death by a sweet berry bush
+[22Feb2025 18:04:54.144] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 18:05:48.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/[::1]:54534] logged in with entity id 5082 at (-205.66760590827192, 80.0, 162.23141338070658)
+[22Feb2025 18:05:48.817] [Server thread/INFO] [owo/]: Sending server config values to client
+[22Feb2025 18:05:48.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[22Feb2025 18:05:49.261] [Server thread/INFO] [owo/]: Receiving client config
+[22Feb2025 18:05:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Chain Death]
+[22Feb2025 18:05:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Provoker
+[22Feb2025 18:05:51.967] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 18:06:37.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Vex
+[22Feb2025 18:06:37.013] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 18:07:11.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Created team [Minecraft]]
+[22Feb2025 18:07:33.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Added ShenYugen to team [Minecraft]]
+[22Feb2025 18:08:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Made Diego77 a server operator]
+[22Feb2025 18:08:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Added Diego77 to team [Minecraft]]
+[22Feb2025 18:11:10.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 18:12:25.332] [Worker-Main-5/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[22Feb2025 18:12:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Funeral Theft]
+[22Feb2025 18:12:37.086] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[22Feb2025 18:12:37.111] [Worker-Main-4/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[22Feb2025 18:13:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Barrel Booty]
+[22Feb2025 18:14:34.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Suit Up]
+[22Feb2025 18:14:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Barrel Booty]
+[22Feb2025 18:15:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Ashes 'n Bones]
+[22Feb2025 18:15:44.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Skeleton
+[22Feb2025 18:15:44.660] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 18:16:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Acquire Hardware]
+[22Feb2025 18:17:46.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Not Today, Thank You]
+[22Feb2025 18:20:15.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Delightful Decade]
