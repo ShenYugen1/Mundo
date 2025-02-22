@@ -1493,3 +1493,65 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 21:06:28.611] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [22Feb2025 21:08:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was killed while trying to hurt General Pigoxrune the Boring
 [22Feb2025 21:08:35.855] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 21:10:18.180] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22Feb2025 21:10:18.763] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 21:10:18.764] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 21:10:18.764] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:11:05.547] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 21:11:05.548] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 21:11:05.548] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:11:08.250] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22Feb2025 21:13:05.803] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 21:13:05.803] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 21:13:05.804] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:13:08.550] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22Feb2025 21:13:13.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 21:13:13.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 21:13:13.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:13:14.719] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22Feb2025 21:15:52.539] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:52.541] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:55.232] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:55.831] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:57.604] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:57.847] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:57.848] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.271] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.272] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.344] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.466] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.467] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.467] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.468] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:15:58.468] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.750] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.750] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.751] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.751] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.751] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:16:01.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 21:20:42.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/[::1]:44800] logged in with entity id 35341 at (24.77410231020511, 138.0, 2415.293471616132)
+[22Feb2025 21:20:42.129] [Server thread/INFO] [owo/]: Sending server config values to client
+[22Feb2025 21:20:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[22Feb2025 21:20:42.596] [Server thread/INFO] [owo/]: Receiving client config
+[22Feb2025 21:20:46.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35392, l='ServerLevel[world]', x=29.30, y=76.00, z=2394.70] died, message: 'Farmer was poked to death by a sweet berry bush'
+[22Feb2025 21:20:54.222] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35394, l='ServerLevel[world]', x=44.20, y=75.06, z=2395.30] died, message: 'Farmer was slain by Zombie'
+[22Feb2025 21:21:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:22:27.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:24:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 21:25:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:25:19.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Vindicator
+[22Feb2025 21:25:19.229] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 21:25:27.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:25:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Chain Death]
+[22Feb2025 21:25:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Vindicator
+[22Feb2025 21:25:50.929] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 21:25:58.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:26:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Vindicator
+[22Feb2025 21:26:20.827] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 21:26:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Vindicator
+[22Feb2025 21:26:32.826] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 21:26:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 21:27:44.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Vindicator
+[22Feb2025 21:27:44.775] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 21:27:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Voluntary Exile]
