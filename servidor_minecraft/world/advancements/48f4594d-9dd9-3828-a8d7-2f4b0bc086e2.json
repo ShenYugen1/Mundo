@@ -3217,8 +3217,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 18:33:32 +0000",
-      "minecraft:cave_spider": "2025-02-22 19:26:20 +0000",
       "minecraft:skeleton": "2025-02-22 17:36:32 +0000",
+      "minecraft:husk": "2025-02-22 17:58:14 +0000",
+      "minecraft:hoglin": "2025-02-22 23:07:15 +0000",
+      "minecraft:cave_spider": "2025-02-22 19:26:20 +0000",
       "minecraft:vindicator": "2025-02-22 18:05:36 +0000",
       "minecraft:silverfish": "2025-02-22 17:52:23 +0000",
       "minecraft:stray": "2025-02-22 18:42:56 +0000",
@@ -3226,7 +3228,6 @@
       "minecraft:spider": "2025-02-22 17:32:22 +0000",
       "minecraft:vex": "2025-02-22 18:07:48 +0000",
       "minecraft:zombie": "2025-02-22 17:32:07 +0000",
-      "minecraft:husk": "2025-02-22 17:58:14 +0000",
       "minecraft:evoker": "2025-02-22 18:06:26 +0000"
     },
     "done": false
@@ -4492,7 +4493,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-22 22:07:52 +0000"
+      "minecraft:crimson_forest": "2025-02-22 22:43:12 +0000",
+      "minecraft:nether_wastes": "2025-02-22 22:07:52 +0000",
+      "minecraft:soul_sand_valley": "2025-02-22 23:02:56 +0000"
     },
     "done": false
   },
@@ -4598,6 +4601,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -4676,6 +4685,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
+    },
+    "done": true
+  },
   "arsdelight:recipes/misc/mendosteen_crate": {
     "criteria": {
       "has_mendosteen_pod": "2025-02-22 20:10:44 +0000"
@@ -4709,6 +4724,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-02-22 19:20:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
     },
     "done": true
   },
@@ -4823,6 +4844,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-02-22 20:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
     },
     "done": true
   },
@@ -5146,6 +5173,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-02-22 23:02:06 +0000",
       "incendium:volcanic_deltas": "2025-02-22 22:04:45 +0000"
     },
     "done": false
@@ -5180,6 +5208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-22 22:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-22 20:05:19 +0000"
@@ -5189,6 +5223,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-22 21:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-22 22:43:17 +0000"
     },
     "done": true
   },
@@ -5231,6 +5271,18 @@
   "dungeons_arise:find_thornborn_towers": {
     "criteria": {
       "location0": "2025-02-22 20:57:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
     },
     "done": true
   },
@@ -5297,6 +5349,18 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-22 22:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-22 23:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-02-22 22:49:41 +0000"
     },
     "done": true
   },
@@ -5492,6 +5556,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-02-22 19:20:00 +0000"
@@ -5612,6 +5682,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -5660,6 +5736,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-22 22:39:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-02-22 21:34:04 +0000"
@@ -5669,6 +5751,12 @@
   "ars_additions:find_ruined_portal": {
     "criteria": {
       "find_ruined_portal": "2025-02-22 18:54:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
     },
     "done": true
   },
@@ -5750,6 +5838,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-22 23:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-02-22 21:29:50 +0000"
@@ -5767,6 +5861,12 @@
       "has_planks": "2025-02-22 20:05:30 +0000"
     },
     "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_hand": "2025-02-22 22:43:41 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
@@ -5861,6 +5961,12 @@
   "undergarden:recipes/transportation/wigglewood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 22:38:35 +0000"
     },
     "done": true
   },

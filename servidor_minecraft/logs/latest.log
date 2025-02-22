@@ -2441,3 +2441,581 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 22:40:23.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was burned to a crisp while fighting Netherite Monstrosity
 [22Feb2025 22:40:23.577] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 22:40:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 22:41:06.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 50.500000, 63.500000, 32.500000]
+[22Feb2025 22:41:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 22:41:44.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 22:42:06.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[22Feb2025 22:42:06.891] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 22:42:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 22:42:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 22:42:26.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 50.500000, 63.500000, 32.500000]
+[22Feb2025 22:42:29.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 22:42:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 50.500000, 63.500000, 32.500000]
+[22Feb2025 22:42:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 50.500000, 63.500000, 32.500000]
+[22Feb2025 22:44:34.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 22:46:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:46:01.834] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:46:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:46:28.525] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:46:35.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 113.500000, 26.500000, 7.500000]
+[22Feb2025 22:46:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 22:47:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:47:00.420] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:47:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 130.500000, 31.500000, 10.500000]
+[22Feb2025 22:47:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:47:16.374] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:47:24.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 130.500000, 31.500000, 10.500000]
+[22Feb2025 22:47:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:47:36.036] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:47:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 128.500000, 29.500000, 9.500000]
+[22Feb2025 22:47:50.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:47:50.374] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:47:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 burned to death
+[22Feb2025 22:47:55.432] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 22:47:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:48:02.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:48:02.336] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:48:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:48:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:48:14.175] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:48:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:48:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:48:25.078] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:48:31.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:48:35.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:48:35.548] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:48:41.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:48:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:48:50.173] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:48:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 127.500000, 29.500000, 10.500000]
+[22Feb2025 22:49:41.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [This Boat Has Legs]
+[22Feb2025 22:50:13.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen was kicked for floating too long!
+[22Feb2025 22:50:13.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Flying is not enabled on this server
+[22Feb2025 22:50:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[22Feb2025 22:50:20.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/[::1]:33982] logged in with entity id 71076 at (110.46866349151853, 80.28549238931866, 6.863197711869022)
+[22Feb2025 22:50:20.219] [Server thread/INFO] [owo/]: Sending server config values to client
+[22Feb2025 22:50:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[22Feb2025 22:50:20.628] [Server thread/INFO] [owo/]: Receiving client config
+[22Feb2025 22:50:25.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen was kicked for floating too long!
+[22Feb2025 22:50:25.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Flying is not enabled on this server
+[22Feb2025 22:50:25.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[22Feb2025 22:50:29.650] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/[::1]:48078] logged in with entity id 71097 at (108.23969252619197, 70.10580092229972, 6.469967543552249)
+[22Feb2025 22:50:29.674] [Server thread/INFO] [owo/]: Sending server config values to client
+[22Feb2025 22:50:29.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[22Feb2025 22:50:30.049] [Server thread/INFO] [owo/]: Receiving client config
+[22Feb2025 22:50:48.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 22:51:07.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:51:07.973] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:51:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Set own game mode to Spectator Mode]
+[22Feb2025 22:51:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 30.500000, 24.500000]
+[22Feb2025 22:51:22.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:51:22.022] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:51:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 25.500000]
+[22Feb2025 22:51:38.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:51:38.771] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:51:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 25.500000]
+[22Feb2025 22:51:51.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:51:51.071] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:52:03.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 25.500000]
+[22Feb2025 22:52:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Set own game mode to Survival Mode]
+[22Feb2025 22:53:02.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 22:53:05.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:53:05.724] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:53:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 129.500000, 31.500000, 18.500000]
+[22Feb2025 22:55:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:55:02.733] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:55:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 118.500000, 27.500000, 11.500000]
+[22Feb2025 22:55:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:55:31.672] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:55:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 125.500000, 31.500000, 22.500000]
+[22Feb2025 22:55:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:55:59.225] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:56:11.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 124.500000, 31.500000, 21.500000]
+[22Feb2025 22:56:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:56:20.126] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:56:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 124.500000, 31.500000, 21.500000]
+[22Feb2025 22:57:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:57:15.276] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:57:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:57:34.774] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:57:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 120.500000, 29.500000, 30.500000]
+[22Feb2025 22:57:46.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:57:46.674] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:57:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 30.500000]
+[22Feb2025 22:58:00.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:58:00.023] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:58:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 30.500000]
+[22Feb2025 22:58:11.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:58:11.127] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:58:18.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 30.500000]
+[22Feb2025 22:58:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:58:24.872] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:58:33.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 119.500000, 29.500000, 30.500000]
+[22Feb2025 22:59:09.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/76934, l='ServerLevel[world]', x=102.48, y=49.77, z=-184.48] died: Village Guard burned to death
+[22Feb2025 22:59:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:59:10.833] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:59:15.965] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77358, l='ServerLevel[world]', x=239.00, y=31.00, z=-283.00] as it would cause deadlock
+[22Feb2025 22:59:51.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 22:59:51.381] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 22:59:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 124.500000, 31.500000, 23.500000]
+[22Feb2025 23:00:16.191] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.191] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.192] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.198] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.198] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.198] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.198] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.206] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.212] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.214] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.214] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.216] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.216] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.216] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.225] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.225] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.225] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.225] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.225] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.238] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.244] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.244] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.244] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.261] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.267] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.267] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.267] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.273] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.276] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.276] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.276] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.276] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.288] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.288] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.288] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.288] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.288] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.303] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.303] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.303] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.308] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.342] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.343] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.383] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.482] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.482] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.483] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.526] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.534] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.541] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.560] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.567] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.567] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.567] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.567] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.633] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.648] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.654] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.701] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.701] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.701] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.701] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.702] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.702] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.702] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.702] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.702] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.787] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.787] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.787] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.787] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.798] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.798] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.799] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.799] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.799] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.799] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.799] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.827] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.827] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.828] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.850] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.850] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.892] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.892] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.892] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.893] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.902] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.902] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.902] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.902] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.902] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.903] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.903] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.909] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.922] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.947] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:16.989] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:17.015] [Worker-Main-4/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:18.060] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:18.061] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:19.167] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.168] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.172] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.173] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.174] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.175] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.175] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.175] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.176] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.176] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.176] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.181] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.181] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.183] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.183] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.186] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.186] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.190] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.193] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.199] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.202] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.202] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.203] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.203] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.219] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.221] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.222] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[22Feb2025 23:00:19.222] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.222] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.223] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.230] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.233] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.257] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.257] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.257] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.261] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.261] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.271] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.272] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.272] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.272] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.272] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.309] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.309] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.309] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.310] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.312] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.313] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.313] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.313] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.325] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.325] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.325] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.329] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:19.340] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:00:26.967] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/78191, l='ServerLevel[world]', x=-367.00, y=31.00, z=-145.00] as it would cause deadlock
+[22Feb2025 23:00:35.531] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:36.602] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:36.603] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:36.603] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:46.417] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:46.418] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:46.646] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:46.713] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:46.713] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:51.810] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:51.813] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:00:57.856] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/78437, l='ServerLevel[world]', x=-214.00, y=31.00, z=-289.00] as it would cause deadlock
+[22Feb2025 23:01:12.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/78196, l='ServerLevel[world]', x=-246.25, y=53.00, z=-213.18] died: Village Brewer burned to death
+[22Feb2025 23:01:29.680] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.681] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.681] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.681] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.681] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.681] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.682] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.682] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.688] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.689] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.689] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.689] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.689] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.690] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.690] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.698] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[22Feb2025 23:01:29.698] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.698] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.698] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.698] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.703] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.704] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.705] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.706] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.706] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.712] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.712] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.712] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.712] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.723] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.726] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.727] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.727] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.742] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.746] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.746] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.748] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.748] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.749] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.749] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.749] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.749] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.772] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.785] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.788] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.826] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.827] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.830] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.830] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.839] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.839] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.839] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.839] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.843] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.843] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.844] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[22Feb2025 23:01:29.852] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.852] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.852] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.859] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.878] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.878] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.878] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.897] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.897] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.935] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.935] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.939] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.940] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[22Feb2025 23:01:29.940] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.940] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.985] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:29.985] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.022] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:30.033] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:01:41.893] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/78752, l='ServerLevel[world]', x=-76.00, y=31.00, z=-376.00] as it would cause deadlock
+[22Feb2025 23:01:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen tried to swim in lava
+[22Feb2025 23:01:57.832] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 23:02:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 110.500000, 26.500000, 5.500000]
+[22Feb2025 23:02:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Hellish Paradise]
+[22Feb2025 23:02:10.189] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:02:10.191] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:02:44.602] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:02:44.603] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:02:44.603] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[22Feb2025 23:03:51.599] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.600] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.601] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.601] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.606] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.606] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.609] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.609] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.609] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.609] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.609] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.610] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.619] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.620] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.620] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.621] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.621] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.621] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.621] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.622] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.626] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.626] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.626] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.634] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.635] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.635] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.643] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.643] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.645] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.645] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.645] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.646] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.650] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.660] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.665] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.672] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.672] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.676] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.685] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.688] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.703] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.704] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.706] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.706] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.706] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.714] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.714] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.714] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.723] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.724] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.725] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.725] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.725] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.725] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.725] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.730] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.731] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.739] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.739] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.740] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.740] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.740] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.743] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.747] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.761] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.771] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.771] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.771] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.771] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.771] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.775] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.783] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.783] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.798] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.799] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.804] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.804] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.804] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.819] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.963] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.964] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.971] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.971] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.973] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.975] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:51.975] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[22Feb2025 23:03:52.158] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.165] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.166] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.166] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.171] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.177] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.183] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.195] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.217] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.217] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.218] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.242] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.243] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.243] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.243] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:03:52.294] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[22Feb2025 23:04:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 23:05:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:06:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 tried to swim in lava to escape Hoglin
+[22Feb2025 23:06:52.334] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 23:07:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -325.500000, 31.500000, -868.500000]
+[22Feb2025 23:07:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Hoglin
+[22Feb2025 23:07:17.935] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 23:07:24.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -322.500000, 32.500000, -865.500000]
+[22Feb2025 23:07:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:10:30.221] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/81093, l='ServerLevel[world]', x=-397.00, y=31.00, z=-1098.00] as it would cause deadlock
+[22Feb2025 23:10:40.716] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/81125, l='ServerLevel[world]', x=-343.00, y=31.00, z=-1123.00] as it would cause deadlock
