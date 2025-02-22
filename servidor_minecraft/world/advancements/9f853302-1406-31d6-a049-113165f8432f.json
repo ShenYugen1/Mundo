@@ -2296,6 +2296,7 @@
     "criteria": {
       "biomeswevegone:frosted_coniferous_forest": "2025-02-22 17:22:20 +0000",
       "biomeswevegone:shattered_glacier": "2025-02-22 18:30:49 +0000",
+      "biomeswevegone:cika_woods": "2025-02-22 20:09:16 +0000",
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000"
     },
     "done": false
@@ -3208,11 +3209,14 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-22 20:07:00 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-02-22 20:09:31 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
       "minecraft:forest": "2025-02-22 20:06:19 +0000",
+      "minecraft:taiga": "2025-02-22 20:08:06 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:snowy_plains": "2025-02-22 18:36:55 +0000",
       "minecraft:stony_shore": "2025-02-22 18:57:01 +0000",
+      "minecraft:lush_caves": "2025-02-22 20:08:56 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:41 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000"
     },
@@ -3828,7 +3832,8 @@
       "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
       "minecraft:stray": "2025-02-22 19:33:44 +0000",
       "minecraft:spider": "2025-02-22 19:42:25 +0000",
-      "minecraft:zombie": "2025-02-22 19:03:37 +0000"
+      "minecraft:zombie": "2025-02-22 19:03:37 +0000",
+      "minecraft:creeper": "2025-02-22 20:17:54 +0000"
     },
     "done": false
   },
@@ -3967,6 +3972,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-22 19:13:02 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-02-22 20:17:19 +0000"
     },
     "done": true
   },
