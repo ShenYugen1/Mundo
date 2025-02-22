@@ -2139,7 +2139,8 @@
       "biomeswevegone:prairie": "2025-02-22 21:23:43 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-02-22 20:36:23 +0000",
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:55 +0000",
-      "biomeswevegone:zelkova_forest": "2025-02-22 20:36:14 +0000"
+      "biomeswevegone:zelkova_forest": "2025-02-22 20:36:14 +0000",
+      "biomeswevegone:dacite_ridges": "2025-02-22 21:44:46 +0000"
     },
     "done": false
   },
@@ -4218,6 +4219,7 @@
       "minecraft:frozen_river": "2025-02-22 18:12:58 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-22 18:53:08 +0000",
       "minecraft:ocean": "2025-02-22 21:21:09 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-22 21:44:45 +0000",
       "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000",
       "minecraft:plains": "2025-02-22 21:23:58 +0000"
     },
@@ -4487,6 +4489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-22 21:47:15 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -4558,6 +4566,12 @@
       "has_boat": "2025-02-22 20:06:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-02-22 21:47:58 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
@@ -4916,6 +4930,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-22 20:05:30 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-02-22 21:41:24 +0000"
     },
     "done": true
   },
