@@ -3839,12 +3839,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 18:42:01 +0000",
-      "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
       "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
+      "minecraft:zombified_piglin": "2025-02-22 22:18:36 +0000",
+      "minecraft:witch": "2025-02-22 20:45:45 +0000",
+      "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
+      "minecraft:piglin": "2025-02-22 22:26:40 +0000",
       "minecraft:vindicator": "2025-02-22 21:27:03 +0000",
       "minecraft:stray": "2025-02-22 19:33:44 +0000",
-      "minecraft:witch": "2025-02-22 20:45:45 +0000",
+      "minecraft:magma_cube": "2025-02-22 22:26:52 +0000",
       "minecraft:spider": "2025-02-22 19:42:25 +0000",
+      "minecraft:piglin_brute": "2025-02-22 22:27:27 +0000",
       "minecraft:zombie": "2025-02-22 19:03:37 +0000",
       "minecraft:creeper": "2025-02-22 20:17:54 +0000"
     },
@@ -4978,6 +4982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-02-22 22:10:36 +0000",
@@ -5009,9 +5019,33 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-22 22:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-22 22:10:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
     },
     "done": true
   },
@@ -5033,9 +5067,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-22 21:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-02-22 22:27:37 +0000"
     },
     "done": true
   },
@@ -5081,9 +5127,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-22 22:28:03 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-22 22:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
     },
     "done": true
   },
@@ -5099,6 +5175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "incendium:volcanic_deltas/root": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-02-22 22:04:40 +0000"
@@ -5111,6 +5193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2025-02-22 21:38:01 +0000"
@@ -5120,6 +5208,12 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-22 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
     },
     "done": true
   },
@@ -5165,9 +5259,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-22 22:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-02-22 21:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-22 22:28:06 +0000"
     },
     "done": true
   },
