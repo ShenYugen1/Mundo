@@ -3348,3 +3348,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 23:41:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Deepling Brute
 [22Feb2025 23:41:21.441] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 23:41:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 1051.500000, 60.500000, -15609.500000]
+[22Feb2025 23:42:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 23:43:18.038] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: biomeswevegone:village/pumpkin_patch/streetsa
+[22Feb2025 23:43:42.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -5.398833849149582,1.252203340253729,8.424690388965246
+[22Feb2025 23:43:47.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 23:44:02.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! -4.988987351638457,0.880039138572954,-8.726711477655044
+[22Feb2025 23:45:25.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:47:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:47:40.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Sweet Dreams]
+[22Feb2025 23:48:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:49:15.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 23:51:37.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
