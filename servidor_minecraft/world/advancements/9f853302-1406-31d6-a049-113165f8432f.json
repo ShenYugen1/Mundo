@@ -3890,6 +3890,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-22 19:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
@@ -4046,6 +4052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
@@ -4055,6 +4067,12 @@
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-02-22 19:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
     },
     "done": true
   },
@@ -4079,6 +4097,12 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-02-22 19:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
     },
     "done": true
   },
@@ -4172,6 +4196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/bone_needle": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
@@ -4190,9 +4220,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-02-22 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
     },
     "done": true
   },
@@ -4220,6 +4262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/white_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
@@ -4235,6 +4283,12 @@
   "tombstone:recipe/fishing_rod_of_misadventure": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
     },
     "done": true
   },
@@ -4289,6 +4343,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-22 19:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-22 19:50:41 +0000"
     },
     "done": true
   },

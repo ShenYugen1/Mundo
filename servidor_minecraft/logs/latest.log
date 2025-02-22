@@ -1392,3 +1392,26 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:41:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported Diego77 to ShenYugen]
 [22Feb2025 19:41:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Ashes 'n Bones]
 [22Feb2025 19:45:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Take Aim]
+[22Feb2025 19:48:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen froze to death
+[22Feb2025 19:48:17.890] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:48:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 hit the ground too hard
+[22Feb2025 19:48:18.283] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:49:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:51:05.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Skeleton
+[22Feb2025 19:51:05.178] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:52:10.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:52:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 hit the ground too hard
+[22Feb2025 19:52:23.776] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:52:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -490.500000, 30.500000, 1231.500000]
+[22Feb2025 19:52:44.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Strange Grave Dust]
+[22Feb2025 19:52:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[22Feb2025 19:52:59.938] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:53:01.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Set own game mode to Spectator Mode]
+[22Feb2025 19:53:16.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Set own game mode to Survival Mode]
+[22Feb2025 19:53:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 19:53:36.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 19:55:47.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! -219.45357822175566,70.0,165.57646073444766
+[22Feb2025 19:55:55.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 suffocated in a wall
+[22Feb2025 19:55:55.877] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:56:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[22Feb2025 19:57:42.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 19.89072086055006,10.0,-63.24439052729463
