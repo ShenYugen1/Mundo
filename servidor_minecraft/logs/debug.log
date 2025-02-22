@@ -15898,3 +15898,35 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:26:08.913] [Server thread/DEBUG] [mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.world.CompoundContainer
 [22Feb2025 19:26:08.913] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [22Feb2025 19:26:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Unbreaking X]
+[22Feb2025 19:27:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Not Today, Thank You]
+[22Feb2025 19:27:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen froze to death
+[22Feb2025 19:27:34.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-492, y:57, z:1302, dim:minecraft:overworld]
+[22Feb2025 19:27:34.883] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:27:36.380] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[22Feb2025 19:27:55.223] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:28:09.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Enapigdin the Superior'/8252, l='ServerLevel[world]', x=-491.74, y=47.00, z=1285.26] died: Enapigdin the Superior was slain by Diego77
+[22Feb2025 19:29:56.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[22Feb2025 19:29:56.025] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:-490, y:48, z:1254, dim:minecraft:overworld]
+[22Feb2025 19:29:56.029] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:29:57.480] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[22Feb2025 19:30:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:30:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -489.500000, 48.500000, 1253.500000]
+[22Feb2025 19:32:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Stray
+[22Feb2025 19:32:52.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:-499, y:48, z:1302, dim:minecraft:overworld]
+[22Feb2025 19:32:52.282] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:32:53.741] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[22Feb2025 19:32:55.228] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:32:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -497.500000, 48.500000, 1303.500000]
+[22Feb2025 19:33:01.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Cave Spider
+[22Feb2025 19:33:01.340] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-490, y:48, z:1301, dim:minecraft:overworld]
+[22Feb2025 19:33:01.344] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:33:02.941] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[22Feb2025 19:33:32.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:33:45.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:34:00.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Best Friends Forever]
+[22Feb2025 19:34:17.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Diego77
+[22Feb2025 19:34:17.319] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-488, y:57, z:1303, dim:minecraft:overworld]
+[22Feb2025 19:34:17.350] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:34:18.567] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[22Feb2025 19:34:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:36:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Knowledge raises the soul]

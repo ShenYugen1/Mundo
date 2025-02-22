@@ -3211,6 +3211,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 18:33:32 +0000",
+      "minecraft:cave_spider": "2025-02-22 19:26:20 +0000",
       "minecraft:skeleton": "2025-02-22 17:36:32 +0000",
       "minecraft:vindicator": "2025-02-22 18:05:36 +0000",
       "minecraft:silverfish": "2025-02-22 17:52:23 +0000",
@@ -4446,6 +4447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-22 19:20:00 +0000"
@@ -4482,9 +4489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
+    },
+    "done": true
+  },
   "arsdelight:recipes/food/source_berry_cookie": {
     "criteria": {
       "has_sourceberry_bush": "2025-02-22 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
     },
     "done": true
   },
@@ -4503,6 +4522,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
     },
     "done": true
   },
@@ -4644,6 +4669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
@@ -4659,6 +4690,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
     },
     "done": true
   },

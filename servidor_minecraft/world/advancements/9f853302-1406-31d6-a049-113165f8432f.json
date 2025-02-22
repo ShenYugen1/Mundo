@@ -3821,6 +3821,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 18:42:01 +0000",
+      "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
+      "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
       "minecraft:zombie": "2025-02-22 19:03:37 +0000"
     },
     "done": false
@@ -3849,9 +3851,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-22 19:32:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-22 19:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-22 19:27:26 +0000"
     },
     "done": true
   },
@@ -3867,6 +3881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-02-22 19:28:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/blue_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
@@ -3879,9 +3899,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-22 19:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-22 19:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-22 19:31:39 +0000"
     },
     "done": true
   },
@@ -3993,6 +4025,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-02-22 19:24:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-02-22 19:14:07 +0000"
@@ -4008,6 +4046,12 @@
   "tombstone:recipe/dark_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-02-22 19:26:47 +0000"
     },
     "done": true
   },
@@ -4041,9 +4085,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-22 19:31:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-02-22 19:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-02-22 19:28:30 +0000"
     },
     "done": true
   },
@@ -4092,6 +4148,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-22 19:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-22 19:31:39 +0000"
     },
     "done": true
   },
