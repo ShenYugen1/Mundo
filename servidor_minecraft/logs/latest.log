@@ -1382,3 +1382,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:34:17.350] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [22Feb2025 19:34:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
 [22Feb2025 19:36:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Knowledge raises the soul]
+[22Feb2025 19:37:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Die Classy]
+[22Feb2025 19:38:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [A True Source of Evil]
+[22Feb2025 19:38:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has completed the challenge [Centennial]
+[22Feb2025 19:40:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[22Feb2025 19:40:59.427] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:41:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [The Most Useful Key]
+[22Feb2025 19:41:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [A Fast Comeback]
+[22Feb2025 19:41:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:41:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Ashes 'n Bones]
+[22Feb2025 19:45:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Take Aim]

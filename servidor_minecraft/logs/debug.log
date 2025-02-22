@@ -15930,3 +15930,17 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:34:18.567] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
 [22Feb2025 19:34:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
 [22Feb2025 19:36:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Knowledge raises the soul]
+[22Feb2025 19:37:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Die Classy]
+[22Feb2025 19:37:55.219] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:38:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [A True Source of Evil]
+[22Feb2025 19:38:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has completed the challenge [Centennial]
+[22Feb2025 19:40:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[22Feb2025 19:40:59.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:-457, y:48, z:1262, dim:minecraft:overworld]
+[22Feb2025 19:40:59.427] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:41:00.730] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[22Feb2025 19:41:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [The Most Useful Key]
+[22Feb2025 19:41:06.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [A Fast Comeback]
+[22Feb2025 19:41:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported Diego77 to ShenYugen]
+[22Feb2025 19:41:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Ashes 'n Bones]
+[22Feb2025 19:42:55.219] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Feb2025 19:45:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Take Aim]

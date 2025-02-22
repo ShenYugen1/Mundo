@@ -2471,6 +2471,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-02-22 19:33:39 +0000",
       "rotten_flesh": "2025-02-22 17:30:19 +0000",
       "cooked_mutton": "2025-02-22 17:57:09 +0000",
       "pumpkin_pie": "2025-02-22 18:57:30 +0000"
@@ -3823,6 +3824,8 @@
       "minecraft:pillager": "2025-02-22 18:42:01 +0000",
       "minecraft:cave_spider": "2025-02-22 19:23:45 +0000",
       "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
+      "minecraft:stray": "2025-02-22 19:33:44 +0000",
+      "minecraft:spider": "2025-02-22 19:42:25 +0000",
       "minecraft:zombie": "2025-02-22 19:03:37 +0000"
     },
     "done": false
@@ -3851,12 +3854,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-22 19:32:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-22 19:17:51 +0000"
@@ -3869,9 +3866,27 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-22 19:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-02-22 19:34:00 +0000"
+    },
+    "done": false
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-02-22 19:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-22 19:40:44 +0000"
     },
     "done": true
   },
@@ -3947,6 +3962,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-22 19:40:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/green_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
@@ -3986,6 +4007,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-02-22 19:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-22 19:34:00 +0000"
     },
     "done": true
   },
@@ -4061,6 +4088,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-02-22 19:40:03 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipe/enchanted_grave_key": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:11:48 +0000"
@@ -4082,6 +4115,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-22 19:40:44 +0000"
     },
     "done": true
   },
@@ -4157,6 +4196,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-22 19:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
@@ -4178,6 +4223,12 @@
   "tombstone:recipe/white_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-22 19:38:25 +0000"
     },
     "done": true
   },
@@ -4268,6 +4319,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:41:50 +0000"
     },
     "done": true
   },

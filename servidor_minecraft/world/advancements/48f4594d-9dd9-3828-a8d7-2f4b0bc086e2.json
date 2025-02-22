@@ -3288,6 +3288,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-22 18:08:09 +0000",
       "mutton": "2025-02-22 17:33:01 +0000",
+      "golden_apple": "2025-02-22 19:33:53 +0000",
       "cooked_beef": "2025-02-22 18:26:16 +0000",
       "beef": "2025-02-22 17:33:10 +0000"
     },
@@ -4417,6 +4418,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-02-22 19:38:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/stone/twisted_stone": {
     "criteria": {
       "has_block": "2025-02-22 19:20:00 +0000"
@@ -4531,6 +4538,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-22 19:33:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
@@ -4588,6 +4607,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:36:26 +0000"
     },
     "done": true
   },
@@ -4675,6 +4700,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:37:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
@@ -4693,9 +4724,21 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-02-22 19:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-22 19:41:00 +0000"
     },
     "done": true
   },
