@@ -3222,6 +3222,7 @@
       "minecraft:vindicator": "2025-02-22 18:05:36 +0000",
       "minecraft:silverfish": "2025-02-22 17:52:23 +0000",
       "minecraft:stray": "2025-02-22 18:42:56 +0000",
+      "minecraft:magma_cube": "2025-02-22 22:07:03 +0000",
       "minecraft:spider": "2025-02-22 17:32:22 +0000",
       "minecraft:vex": "2025-02-22 18:07:48 +0000",
       "minecraft:zombie": "2025-02-22 17:32:07 +0000",
@@ -4471,6 +4472,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-22 22:07:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-22 22:04:44 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-02-22 19:38:31 +0000"
@@ -4807,6 +4820,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-22 22:00:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -4903,6 +4922,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-22 22:04:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-02-22 20:05:30 +0000"
@@ -4924,6 +4949,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-02-22 20:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-22 21:58:36 +0000"
     },
     "done": true
   },
@@ -5016,6 +5047,12 @@
       "has_novice_spell_book": "2025-02-22 20:31:49 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-22 22:04:45 +0000"
+    },
+    "done": false
   },
   "chunkloaders:recipes/misc/basic_chunk_loader": {
     "criteria": {
@@ -5188,6 +5225,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-22 20:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-22 22:04:44 +0000"
     },
     "done": true
   },
@@ -5383,6 +5426,12 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-02-22 22:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-22 21:29:50 +0000"
@@ -5470,6 +5519,12 @@
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-22 22:04:44 +0000"
     },
     "done": true
   },
@@ -5644,6 +5699,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-22 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-22 21:58:36 +0000"
     },
     "done": true
   },
