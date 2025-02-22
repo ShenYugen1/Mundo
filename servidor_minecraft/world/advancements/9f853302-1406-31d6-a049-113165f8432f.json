@@ -3957,6 +3957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2025-02-22 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-22 19:31:39 +0000"
@@ -4014,6 +4020,12 @@
   "tombstone:recipe/green_marble": {
     "criteria": {
       "has_ingredient": "2025-02-22 19:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
@@ -4086,6 +4098,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/glassblower": {
+    "criteria": {
+      "has_glassblower": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
@@ -4209,6 +4227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2025-02-22 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
@@ -4224,6 +4248,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-02-22 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "dimensionalpocketsii:pocket/root": {
+    "criteria": {
+      "craft": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
@@ -4329,9 +4359,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/loom_table": {
+    "criteria": {
+      "has_loom_table": "2025-02-22 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-22 19:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/mason_table": {
+    "criteria": {
+      "has_mason_table": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
@@ -4344,6 +4386,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-22 19:16:58 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
@@ -4431,6 +4479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/alchemy_bench": {
+    "criteria": {
+      "has_alchemy_bench": "2025-02-22 20:18:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-22 19:03:09 +0000"
@@ -4488,6 +4542,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-22 19:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-22 20:18:15 +0000"
     },
     "done": true
   },
