@@ -3224,7 +3224,8 @@
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:ocean": "2025-02-22 21:21:14 +0000",
-      "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000"
+      "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000",
+      "minecraft:plains": "2025-02-22 21:31:51 +0000"
     },
     "done": false
   },
@@ -4971,6 +4972,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-22 21:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-02-22 21:26:17 +0000"
@@ -4986,6 +4993,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-22 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-02-22 21:34:03 +0000"
     },
     "done": true
   },
