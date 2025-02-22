@@ -4374,6 +4374,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:03:53 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-02-22 19:00:27 +0000"
@@ -4395,6 +4401,12 @@
   "ars_additions:find_ruined_portal": {
     "criteria": {
       "find_ruined_portal": "2025-02-22 18:54:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-22 19:09:27 +0000"
     },
     "done": true
   },

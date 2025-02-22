@@ -1347,3 +1347,16 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 19:03:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Mutual Aid]
 [22Feb2025 19:05:49.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
 [22Feb2025 19:05:49.763] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[22Feb2025 19:09:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Bone Crusher]
+[22Feb2025 19:10:43.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 18.404755526934593,1.0,-27.508528176886102
+[22Feb2025 19:10:59.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:11:46.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Strong or Careful]
+[22Feb2025 19:11:46.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Zombie
+[22Feb2025 19:11:46.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Your First Grave]
+[22Feb2025 19:11:46.032] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:12:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported ShenYugen to Diego77]
+[22Feb2025 19:13:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Here They Come]
+[22Feb2025 19:13:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Diego77
+[22Feb2025 19:13:59.150] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[22Feb2025 19:14:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Most Useful Key]
+[22Feb2025 19:14:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [A Fast Comeback]
