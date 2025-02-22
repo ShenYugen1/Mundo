@@ -1461,3 +1461,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [22Feb2025 20:36:51.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Warped]
 [22Feb2025 20:38:32.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.4018304434316633
 [22Feb2025 20:38:32.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Diego77) moved wrongly! 0.3565128005220686
+[22Feb2025 20:38:37.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Mage's Spell Book]
+[22Feb2025 20:44:45.854] [Worker-Main-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[22Feb2025 20:45:04.100] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[22Feb2025 20:45:04.101] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[22Feb2025 20:45:04.101] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'

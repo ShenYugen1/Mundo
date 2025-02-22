@@ -4202,6 +4202,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-22 18:55:28 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:20 +0000",
+      "minecraft:beach": "2025-02-22 20:41:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-22 20:09:15 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:58 +0000",
       "minecraft:forest": "2025-02-22 20:05:12 +0000",
@@ -4610,6 +4611,24 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/raw_platinum_blockblock": {
+    "criteria": {
+      "has_raw_platinum": "2025-02-22 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/platinum_ingot_from_smelting_raw_platinum": {
+    "criteria": {
+      "has_raw_platinum": "2025-02-22 20:43:23 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-02-22 20:38:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -4850,6 +4869,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/skyris_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 20:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-22 20:04:16 +0000"
@@ -5009,6 +5034,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-22 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_planks": {
+    "criteria": {
+      "has_log": "2025-02-22 20:47:06 +0000"
     },
     "done": true
   },
@@ -5180,6 +5211,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/platinum_ingot_from_blasting_raw_platinum": {
+    "criteria": {
+      "has_raw_platinum": "2025-02-22 20:43:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-22 20:06:47 +0000"
@@ -5321,6 +5358,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2025-02-22 19:37:49 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-22 20:45:43 +0000"
     },
     "done": true
   },
