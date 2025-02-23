@@ -1542,3 +1542,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:18:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Oritech]
 [23Feb2025 17:19:48.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
 [23Feb2025 17:21:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:26:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
