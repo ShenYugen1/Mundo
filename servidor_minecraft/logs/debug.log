@@ -16352,3 +16352,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 19:09:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 19:12:43.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Magic Mod Mechanic]
 [23Feb2025 19:14:30.516] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 19:19:30.520] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 19:20:40.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[23Feb2025 19:20:40.581] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:347, y:146, z:-15542, dim:minecraft:overworld]
+[23Feb2025 19:20:40.582] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 19:20:41.746] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[23Feb2025 19:21:13.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[23Feb2025 19:21:13.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:350, y:146, z:-15540, dim:minecraft:overworld]
+[23Feb2025 19:21:13.231] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 19:21:14.435] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[23Feb2025 19:23:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Magebloom]
+[23Feb2025 19:24:30.517] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
