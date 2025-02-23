@@ -1520,3 +1520,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 16:51:20.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [23Feb2025 16:51:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [23Feb2025 16:52:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Not a Fluid!]
+[23Feb2025 16:55:54.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[23Feb2025 16:55:54.432] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 16:56:49.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 25.08375663684103,10.5625,47.372659747075886
+[23Feb2025 16:57:07.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 16:59:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -975.500000, 102.500000, 1004.500000]
+[23Feb2025 17:00:12.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Fortuitous Militia]
+[23Feb2025 17:00:20.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 17:02:08.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:02:39.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14114, l='ServerLevel[world]', x=-877.63, y=72.00, z=770.58] died, message: 'Nitwit was shot by Pillager'
+[23Feb2025 17:03:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 17:04:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Not a Fluid!]
