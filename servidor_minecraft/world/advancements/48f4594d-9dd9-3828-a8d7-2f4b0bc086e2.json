@@ -3231,6 +3231,7 @@
       "minecraft:spider": "2025-02-22 17:32:22 +0000",
       "minecraft:vex": "2025-02-22 18:07:48 +0000",
       "minecraft:zombie": "2025-02-22 17:32:07 +0000",
+      "minecraft:creeper": "2025-02-23 17:15:50 +0000",
       "minecraft:evoker": "2025-02-22 18:06:26 +0000"
     },
     "done": false
@@ -6326,6 +6327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-02-23 16:40:28 +0000"
@@ -6350,6 +6357,18 @@
     },
     "done": true
   },
+  "minecraft:oritech/root": {
+    "criteria": {
+      "got_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
@@ -6368,9 +6387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-23 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
     },
     "done": true
   },
@@ -6416,6 +6447,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-02-23 15:55:58 +0000"
@@ -6449,6 +6492,12 @@
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-02-23 15:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-23 17:15:52 +0000"
     },
     "done": true
   },
@@ -6542,6 +6591,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/raw_nickel_blockblock": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
@@ -6560,15 +6615,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/blue_sand": {
     "criteria": {
       "has_sand": "2025-02-23 16:48:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
+    "criteria": {
+      "has_block": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 17:21:14 +0000"
     },
     "done": true
   },
@@ -6614,6 +6705,12 @@
     },
     "done": true
   },
+  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:source_jar": {
     "criteria": {
       "has_source_jar": "2025-02-23 16:52:39 +0000"
@@ -6635,6 +6732,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-02-23 16:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-23 17:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-23 17:18:54 +0000"
     },
     "done": true
   },

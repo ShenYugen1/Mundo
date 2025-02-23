@@ -5200,7 +5200,8 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
-      "baby_enderman": "2025-02-22 22:17:40 +0000"
+      "baby_enderman": "2025-02-22 22:17:40 +0000",
+      "baby_skeleton": "2025-02-23 17:14:34 +0000"
     },
     "done": false
   },
@@ -5666,6 +5667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 17:19:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:44 +0000"
@@ -5675,6 +5682,18 @@
   "minecraft:oritech/root": {
     "criteria": {
       "got_nickel": "2025-02-23 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-23 17:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-02-23 17:16:09 +0000"
     },
     "done": true
   },
@@ -5699,6 +5718,18 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-02-23 17:16:09 +0000"
     },
     "done": true
   },
@@ -5744,6 +5775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-23 17:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
@@ -5774,6 +5811,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 17:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:44 +0000"
@@ -5795,6 +5838,18 @@
   "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-02-23 15:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-23 17:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 17:19:02 +0000"
     },
     "done": true
   },
@@ -5870,6 +5925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
@@ -5894,9 +5955,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:09 +0000"
+    },
+    "done": true
+  },
   "oritech:recipes/misc/raw_nickel_blockblock": {
     "criteria": {
       "has_raw_nickel": "2025-02-23 16:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-02-23 17:16:09 +0000"
     },
     "done": true
   },
@@ -5981,6 +6054,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-23 16:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-23 17:24:16 +0000"
     },
     "done": true
   },

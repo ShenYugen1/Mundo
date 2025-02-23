@@ -16240,3 +16240,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:14:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [23Feb2025 17:14:30.525] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 17:15:03.634] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=727, y=45, z=-15748} with deep BlockPos{x=727, y=-60, z=-15748}
+[23Feb2025 17:15:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:15:58.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:18:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:18:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Oritech]
+[23Feb2025 17:19:30.520] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:19:48.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:21:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:24:30.521] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
