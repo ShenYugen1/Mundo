@@ -1578,3 +1578,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 18:33:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
 [23Feb2025 18:33:54.022] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [23Feb2025 18:36:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 120.500000, 29.500000, 31.500000]
+[23Feb2025 18:38:15.210] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Feb2025 18:38:15.211] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Feb2025 18:38:15.211] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Feb2025 18:38:54.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Hellish Paradise]
+[23Feb2025 18:41:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Darude - Firestorm]
+[23Feb2025 18:42:25.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/32329, l='ServerLevel[world]', x=325.58, y=56.88, z=254.32] died: Desert Blaze was slain by ShenYugen using [Daño]
+[23Feb2025 18:42:50.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
