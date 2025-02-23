@@ -1531,3 +1531,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:02:39.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/14114, l='ServerLevel[world]', x=-877.63, y=72.00, z=770.58] died, message: 'Nitwit was shot by Pillager'
 [23Feb2025 17:03:26.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 17:04:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Not a Fluid!]
+[23Feb2025 17:10:41.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 17:11:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 127.500000, 110.500000, -15598.500000]
+[23Feb2025 17:12:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 82.500000, 185.500000, -15169.500000]
+[23Feb2025 17:12:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Multi-Tool]
+[23Feb2025 17:14:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]

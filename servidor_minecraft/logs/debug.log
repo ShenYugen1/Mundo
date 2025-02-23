@@ -16231,3 +16231,12 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:04:22.270] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor from mod fabric_transfer_api_v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
 [23Feb2025 17:04:30.521] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 17:04:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Not a Fluid!]
+[23Feb2025 17:09:30.520] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:10:41.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 17:11:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 127.500000, 110.500000, -15598.500000]
+[23Feb2025 17:12:23.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 82.500000, 185.500000, -15169.500000]
+[23Feb2025 17:12:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Multi-Tool]
+[23Feb2025 17:13:27.720] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=102, y=90, z=-14910} with deep BlockPos{x=102, y=-61, z=-14910}
+[23Feb2025 17:14:26.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 17:14:30.525] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:15:03.634] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=727, y=45, z=-15748} with deep BlockPos{x=727, y=-60, z=-15748}
