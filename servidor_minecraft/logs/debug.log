@@ -16251,3 +16251,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:26:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 17:29:30.541] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 17:34:30.517] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:38:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:38:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has completed the challenge [It Spreads]
+[23Feb2025 17:39:30.524] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:39:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 17:44:30.526] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 17:44:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]

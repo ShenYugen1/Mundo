@@ -6393,6 +6393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-23 17:10:51 +0000"
@@ -6486,6 +6492,12 @@
   "biomeswevegone:recipes/building_blocks/black_sand": {
     "criteria": {
       "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:52 +0000"
     },
     "done": true
   },
@@ -6654,6 +6666,12 @@
   "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
     "criteria": {
       "has_block": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-23 17:38:28 +0000"
     },
     "done": true
   },

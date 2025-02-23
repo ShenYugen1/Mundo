@@ -5697,6 +5697,12 @@
     },
     "done": true
   },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-02-23 17:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-02-23 17:16:09 +0000"
@@ -5742,6 +5748,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-23 17:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:16 +0000"
     },
     "done": true
   },
@@ -5883,6 +5895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:16 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-02-23 17:29:16 +0000"
@@ -5967,6 +5985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:40:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-02-23 16:38:26 +0000"
@@ -6045,6 +6069,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:44 +0000"
@@ -6054,6 +6084,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/chisel": {
+    "criteria": {
+      "has_chisel": "2025-02-23 17:42:05 +0000"
     },
     "done": true
   },
@@ -6108,6 +6144,12 @@
   "twilightforest:recipes/building_blocks/stonecutting/spruce_log/hollow_spruce_log": {
     "criteria": {
       "has_block": "2025-02-23 16:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:40:14 +0000"
     },
     "done": true
   },
