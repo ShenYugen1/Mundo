@@ -3748,6 +3748,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_chest": "2025-02-22 18:26:38 +0000",
+      "kill_apothic_invader": "2025-02-23 15:55:00 +0000",
       "uncommon_hand": "2025-02-22 19:06:39 +0000",
       "uncommon_helm": "2025-02-22 20:47:01 +0000",
       "uncommon_feet": "2025-02-22 20:46:58 +0000"
@@ -5631,6 +5632,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-22 23:47:40 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-02-23 15:57:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/pink_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_pink_dye]": "2025-02-23 15:53:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-02-23 15:53:21 +0000"
     },
     "done": true
   },

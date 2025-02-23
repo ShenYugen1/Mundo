@@ -1338,3 +1338,20 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 15:49:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 15:49:26.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell from a high place
 [23Feb2025 15:49:26.647] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[23Feb2025 15:54:40.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: You logged in from another location
+[23Feb2025 15:54:40.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[23Feb2025 15:54:40.623] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 15:54:42.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/[::1]:56884] logged in with entity id 2349 at (339.5332720547421, 130.32806759283721, -15521.74625085086)
+[23Feb2025 15:54:42.437] [Server thread/INFO] [owo/]: Sending server config values to client
+[23Feb2025 15:54:42.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[23Feb2025 15:54:43.137] [Server thread/INFO] [owo/]: Receiving client config
+[23Feb2025 15:55:00.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mistjon the Boring'/1951, l='ServerLevel[world]', x=328.37, y=101.00, z=-15549.37] died: Mistjon the Boring was slain by ShenYugen
+[23Feb2025 15:55:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 15:57:04.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 15:57:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A True Source of Evil]
+[23Feb2025 16:00:18.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 16:01:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 16:03:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 16:04:13.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 16:04:15.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell from a high place
+[23Feb2025 16:04:15.702] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
