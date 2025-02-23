@@ -1495,3 +1495,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 16:33:51.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
 [23Feb2025 16:33:51.781] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [23Feb2025 16:33:57.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Discreet Search]
+[23Feb2025 16:37:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 125.500000, 110.500000, -15597.500000]
+[23Feb2025 16:37:05.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Your First Receptacle]
+[23Feb2025 16:38:03.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 16:38:47.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Imbued]
+[23Feb2025 16:39:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 16:40:28.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Imbued]
+[23Feb2025 16:43:26.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -975.500000, 102.500000, 1004.500000]
+[23Feb2025 16:43:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 16:44:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 16:44:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
