@@ -16326,3 +16326,10 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 18:42:25.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/32329, l='ServerLevel[world]', x=325.58, y=56.88, z=254.32] died: Desert Blaze was slain by ShenYugen using [Daño]
 [23Feb2025 18:42:50.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 18:44:30.514] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 18:47:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 18:49:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[23Feb2025 18:49:30.514] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 18:52:50.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Neighborhood Brawl]
+[23Feb2025 18:53:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 18:53:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 18:54:30.513] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
