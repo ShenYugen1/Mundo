@@ -16368,3 +16368,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 19:34:30.517] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 19:39:30.514] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 19:44:30.514] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 19:49:30.515] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 19:52:53.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[23Feb2025 19:52:53.584] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:342, y:156, z:-15520, dim:minecraft:overworld]
+[23Feb2025 19:52:53.584] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 19:52:54.793] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[23Feb2025 19:54:30.517] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
