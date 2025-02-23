@@ -6045,6 +6045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-23 18:08:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-23 17:16:09 +0000"

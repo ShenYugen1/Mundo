@@ -16273,3 +16273,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 17:59:30.519] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [23Feb2025 18:01:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 18:04:30.530] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 18:06:12.165] [Worker-Main-5/DEBUG] [oritech/]: placing resource node at BlockPos{x=614, y=58, z=-15832} with deep BlockPos{x=614, y=-59, z=-15832}
+[23Feb2025 18:07:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[23Feb2025 18:07:17.082] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:335, y:146, z:-15536, dim:minecraft:overworld]
+[23Feb2025 18:07:17.083] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 18:07:18.632] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[23Feb2025 18:07:27.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[23Feb2025 18:09:30.515] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[23Feb2025 18:14:30.513] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
