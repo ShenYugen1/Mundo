@@ -5636,6 +5636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-02-23 16:34:51 +0000"
@@ -5660,6 +5666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:oritech/root": {
     "criteria": {
       "got_nickel": "2025-02-23 16:05:53 +0000"
@@ -5672,6 +5684,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-02-23 16:49:50 +0000"
+    },
+    "done": true
+  },
   "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
     "criteria": {
       "has_raw_nickel": "2025-02-23 16:05:53 +0000"
@@ -5681,6 +5717,18 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-02-23 16:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-23 16:49:22 +0000"
     },
     "done": true
   },
@@ -5702,6 +5750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-02-23 16:38:26 +0000"
@@ -5711,6 +5765,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
     },
     "done": true
   },
@@ -5732,9 +5792,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/decorations/archwood_cabinet": {
+    "criteria": {
+      "has_archwood_slab": "2025-02-23 16:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
     },
     "done": true
   },
@@ -5762,9 +5840,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-23 16:52:00 +0000"
     },
     "done": true
   },
@@ -5777,6 +5867,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
     },
     "done": true
   },
@@ -5798,6 +5894,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
@@ -5810,9 +5924,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 16:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-23 16:52:44 +0000"
     },
     "done": true
   },
