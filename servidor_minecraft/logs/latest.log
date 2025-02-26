@@ -1609,3 +1609,38 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Feb2025 19:30:44.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [23Feb2025 19:52:53.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
 [23Feb2025 19:52:53.584] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[23Feb2025 20:00:07.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[23Feb2025 20:00:19.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Timed out
+[23Feb2025 20:00:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[23Feb2025 20:00:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Feb2025 20:00:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Feb2025 20:00:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Feb2025 20:00:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Feb2025 20:00:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Feb2025 20:00:39.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:venus
+[23Feb2025 20:00:39.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Feb2025 20:00:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:moon
+[23Feb2025 20:00:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[23Feb2025 20:00:39.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:mercury
+[23Feb2025 20:00:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dimensionalpocketsii:pocket
+[23Feb2025 20:00:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[23Feb2025 20:00:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Feb2025 20:00:39.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23Feb2025 20:00:39.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/stellaris:mars
+[23Feb2025 20:00:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[23Feb2025 20:00:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23Feb2025 20:00:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[23Feb2025 20:00:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[23Feb2025 20:00:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Feb2025 20:00:39.268] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config enchantinginfuser-server.toml
+[23Feb2025 20:00:39.268] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config illagerinvasion-server.toml
+[23Feb2025 20:00:39.275] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config magnumtorch-server.toml
