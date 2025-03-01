@@ -1761,3 +1761,57 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [01Mar2025 21:52:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was doomed to fall
 [01Mar2025 21:52:50.017] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [01Mar2025 21:54:10.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:55:28.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:55:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has completed the challenge [The Bee Warrior Rises!]
+[01Mar2025 21:57:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[01Mar2025 21:57:54.573] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 22:00:16.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:00:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:02:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 478.500000, 77.500000, 548.500000]
+[01Mar2025 22:02:12.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:03:23.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Captain Jack Sparrow'/50926, l='ServerLevel[world]', x=575.65, y=42.00, z=297.50] died: Captain Jack Sparrow died
+[01Mar2025 22:04:03.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['First Mate Penny Finch'/50885, l='ServerLevel[world]', x=581.50, y=52.90, z=307.65] died: First Mate Penny Finch died
+[01Mar2025 22:04:04.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Quartermaster Robert Tucker'/50892, l='ServerLevel[world]', x=578.74, y=54.27, z=340.24] died: Quartermaster Robert Tucker died
+[01Mar2025 22:04:07.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:04:07.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Cabin Boy Sam Hopkins'/50884, l='ServerLevel[world]', x=577.53, y=40.40, z=304.43] died: Cabin Boy Sam Hopkins died
+[01Mar2025 22:04:08.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Quartermaster Robert Tucker'/50927, l='ServerLevel[world]', x=577.65, y=40.40, z=300.65] died: Quartermaster Robert Tucker died
+[01Mar2025 22:05:23.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! -1.8784351778903101,-13.746956090073006,-0.5734448576952786
+[01Mar2025 22:08:39.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:09:44.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:11:54.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:13:14.453] [Server thread/ERROR] [net.minecraft.world.level.block.entity.BlockEntity/]: Failed to create block entity the_bumblezone:honey_cocoon
+java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoon // com.telepathicgrunt.the_bumblezone.blocks.blockentities.HoneyCocoonBlockEntity state at BlockPos{x=20, y=188, z=315}, got Block{minecraft:cave_air}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntity.validateBlockState(BlockEntity.java:52) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntity.<init>(BlockEntity.java:46) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BaseContainerBlockEntity.<init>(BaseContainerBlockEntity.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.RandomizableContainerBlockEntity.<init>(RandomizableContainerBlockEntity.java:25) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/the_bumblezone@7.7.20+1.21.1-neoforge/com.telepathicgrunt.the_bumblezone.blocks.blockentities.BzRandomizableContainerBlockEntity.<init>(BzRandomizableContainerBlockEntity.java:14) ~[the_bumblezone-7.7.20+1.21.1-neoforge.jar%23432!/:?]
+	at TRANSFORMER/the_bumblezone@7.7.20+1.21.1-neoforge/com.telepathicgrunt.the_bumblezone.blocks.blockentities.HoneyCocoonBlockEntity.<init>(HoneyCocoonBlockEntity.java:38) ~[the_bumblezone-7.7.20+1.21.1-neoforge.jar%23432!/:?]
+	at TRANSFORMER/the_bumblezone@7.7.20+1.21.1-neoforge/com.telepathicgrunt.the_bumblezone.blocks.blockentities.HoneyCocoonBlockEntity.<init>(HoneyCocoonBlockEntity.java:42) ~[the_bumblezone-7.7.20+1.21.1-neoforge.jar%23432!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntityType.create(BlockEntityType.java:298) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntity.lambda$loadStatic$4(BlockEntity.java:171) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntity.loadStatic(BlockEntity.java:169) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.promotePendingBlockEntity(LevelChunk.java:575) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.getBlockEntity(LevelChunk.java:338) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.getBlockEntity(LevelChunk.java:325) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.postProcessGeneration(LevelChunk.java:556) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$prepareTickingChunk$27(ChunkMap.java:677) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkResult$Success.ifSuccess(ChunkResult.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$prepareTickingChunk$28(ChunkMap.java:676) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.doRunTask(ServerChunkCache.java:559) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.pollTask(ServerChunkCache.java:568) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.pollTask(ServerChunkCache.java:275) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:860) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01Mar2025 22:13:14.458] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id the_bumblezone:honey_cocoon

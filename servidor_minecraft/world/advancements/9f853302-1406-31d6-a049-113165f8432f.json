@@ -2271,10 +2271,14 @@
     "criteria": {
       "in_bee_house": "2025-03-01 21:41:32 +0000",
       "in_goliath_honey_fountain": "2025-02-22 17:22:20 +0000",
+      "in_ancient_shrine": "2025-03-01 22:11:55 +0000",
       "in_cell_maze": "2025-03-01 21:52:21 +0000",
+      "in_cannon_range": "2025-03-01 22:08:43 +0000",
       "in_mite_fortress": "2025-02-22 17:22:20 +0000",
+      "in_hive_temple": "2025-03-01 21:59:55 +0000",
       "in_ice_monolith": "2025-03-01 21:40:10 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000",
+      "in_pirate_ship": "2025-03-01 22:02:09 +0000",
       "in_dance_floor": "2025-03-01 21:33:49 +0000",
       "in_honey_cave_room": "2025-03-01 21:44:51 +0000"
     },
@@ -7055,6 +7059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 22:09:01 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:tools/honey_compass_use": {
     "criteria": {
       "honey_compass": "2025-03-01 21:43:44 +0000"
@@ -7073,9 +7083,21 @@
     },
     "done": true
   },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_full_blocks": "2025-03-01 21:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-03-01 21:55:46 +0000"
     },
     "done": true
   },
@@ -7091,9 +7113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-01 22:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2025-03-01 22:09:33 +0000"
     },
     "done": true
   },
@@ -7118,6 +7152,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-03-01 21:54:29 +0000"
     },
     "done": true
   },
@@ -7194,6 +7234,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-03-01 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-03-01 22:00:49 +0000"
     },
     "done": true
   },
@@ -7328,6 +7374,12 @@
   "bhc:recipes/misc/soul_heart_canister_smithing": {
     "criteria": {
       "has_totem": "2025-03-01 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-03-01 21:54:25 +0000"
     },
     "done": true
   },
