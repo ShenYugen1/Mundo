@@ -6603,6 +6603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_foxglove": {
+    "criteria": {
+      "has_foxglove": "2025-03-01 12:26:30 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-03-01 12:31:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/diamond_barrel": {
     "criteria": {
       "has_gold_barrel": "2025-03-01 11:47:59 +0000"
@@ -6672,6 +6684,12 @@
   "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-01 12:26:41 +0000"
     },
     "done": true
   },
