@@ -1849,3 +1849,8 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [01Mar2025 22:33:51.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 0.0,-10.485141640506697,0.0
 [01Mar2025 22:34:00.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -913.500000, 86.500000, 179.500000]
 [01Mar2025 22:34:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -895.500000, 56.500000, 175.500000]
+[01Mar2025 22:35:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:36:30.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Masterful Collector]
+[01Mar2025 22:36:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:38:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Gaining Royal Powers]
+[01Mar2025 22:38:48.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Gaining Royal Powers]

@@ -6855,6 +6855,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/drink_royal_jelly_bottle": {
+    "criteria": {
+      "drink_royal_jelly_bottle": "2025-03-01 22:38:48 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/food/relic_apple_rotated": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
