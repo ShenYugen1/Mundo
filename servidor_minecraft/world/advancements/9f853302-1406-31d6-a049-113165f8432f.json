@@ -7037,77 +7037,77 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "mekanism:steel_ingot": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "ingot_steel": "2025-03-01 20:10:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "oritech:recipes/redstone/crafting/techdoor": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_tech_door": "2025-03-01 20:11:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_nether_wart": "2025-03-01 20:27:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_nether_wart": "2025-03-01 20:27:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_quartz": "2025-03-01 20:28:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 20:08:55 +0000"
+      "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3955
 }
