@@ -6915,6 +6915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 20:52:49 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/misc/green_heart": {
     "criteria": {
       "has_heart": "2025-03-01 20:40:12 +0000"
@@ -6945,6 +6951,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-03-01 20:52:49 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-03-01 20:40:06 +0000"
@@ -6963,9 +6975,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-01 20:52:49 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-03-01 20:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 20:52:49 +0000"
     },
     "done": true
   },
@@ -6978,6 +7002,12 @@
   "minecraft:recipes/misc/host_armor_trim_smithing_template": {
     "criteria": {
       "has_host_armor_trim_smithing_template": "2025-03-01 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 20:52:49 +0000"
     },
     "done": true
   },
