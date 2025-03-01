@@ -22046,3 +22046,14 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [01Mar2025 22:55:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
 [01Mar2025 22:55:15.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [01Mar2025 22:55:15.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[01Mar2025 22:59:18.234] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 23:00:28.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Disconnected
+[01Mar2025 23:00:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[01Mar2025 23:00:49.715] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fabd7213: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[01Mar2025 23:00:49.726] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fabd7213: RandomSpreadSearchWorker succeeded with 208 radius, 1 samples
+[01Mar2025 23:02:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -854.500000, 121.500000, -1811.500000]
+[01Mar2025 23:03:05.284] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fabd7213: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[01Mar2025 23:03:06.323] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager fabd7213: RandomSpreadSearchWorker succeeded with 8436 radius, 119 samples
+[01Mar2025 23:04:18.223] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 23:09:18.224] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 23:14:18.222] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
