@@ -1836,3 +1836,16 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [01Mar2025 22:20:02.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -911.500000, 149.500000, 176.500000]
 [01Mar2025 22:20:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 22:20:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:25:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:26:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was stung to death
+[01Mar2025 22:26:39.102] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 22:26:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:26:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -845.500000, 40.500000, 184.500000]
+[01Mar2025 22:27:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:28:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:32:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:33:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -910.500000, 94.500000, 187.500000]
+[01Mar2025 22:33:06.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:33:51.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 0.0,-10.485141640506697,0.0
+[01Mar2025 22:34:00.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -913.500000, 86.500000, 179.500000]
+[01Mar2025 22:34:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -895.500000, 56.500000, 175.500000]

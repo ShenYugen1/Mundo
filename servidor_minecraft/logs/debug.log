@@ -22001,3 +22001,20 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [01Mar2025 22:20:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 22:20:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 22:24:12.614] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 22:25:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:26:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was stung to death
+[01Mar2025 22:26:39.087] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:-846, y:41, z:185, dim:the_bumblezone:the_bumblezone]
+[01Mar2025 22:26:39.102] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 22:26:43.108] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[01Mar2025 22:26:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 22:26:57.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -845.500000, 40.500000, 184.500000]
+[01Mar2025 22:27:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:28:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:29:12.602] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 22:32:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:33:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -910.500000, 94.500000, 187.500000]
+[01Mar2025 22:33:06.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 22:33:51.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 0.0,-10.485141640506697,0.0
+[01Mar2025 22:34:00.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -913.500000, 86.500000, 179.500000]
+[01Mar2025 22:34:12.592] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 22:34:54.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to -895.500000, 56.500000, 175.500000]
