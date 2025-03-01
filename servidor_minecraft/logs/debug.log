@@ -15591,3 +15591,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Mar2025 12:00:58.257] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Mar2025 12:02:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Seedy Place]
 [01Mar2025 12:05:58.254] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:10:58.260] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:15:58.262] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:18:20.368] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=569, y=61, z=-15902} with deep BlockPos{x=569, y=-61, z=-15902}
+[01Mar2025 12:18:28.241] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (116 | 26 | -16252).
+[01Mar2025 12:18:28.242] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Mar2025 12:18:28.243] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[01Mar2025 12:18:28.243] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Mar2025 12:18:28.243] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[01Mar2025 12:18:28.243] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Mar2025 12:18:28.243] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(0) Nodes and 5(0) Rooms
+[01Mar2025 12:18:28.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Mar2025 12:18:28.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 10(2) Nodes and 6(0) Rooms
+[01Mar2025 12:18:28.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Mar2025 12:18:28.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 6(0) Rooms
+[01Mar2025 12:18:57.469] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=369, y=96, z=-16043} with deep BlockPos{x=369, y=-60, z=-16043}

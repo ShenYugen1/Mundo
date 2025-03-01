@@ -6739,6 +6739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-01 12:06:38 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/misc/blue_heart": {
     "criteria": {
       "has_heart": "2025-03-01 11:40:20 +0000"
