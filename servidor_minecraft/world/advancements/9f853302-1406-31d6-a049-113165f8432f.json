@@ -6359,6 +6359,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-01 13:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
@@ -6437,6 +6443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-03-01 13:13:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2025-03-01 12:02:47 +0000"
@@ -6473,6 +6485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-01 13:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
@@ -6488,6 +6506,12 @@
   "sophisticatedstorage:recipes/misc/gold_barrel": {
     "criteria": {
       "has_iron_barrel": "2025-03-01 11:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-03-01 13:12:40 +0000"
     },
     "done": true
   },
@@ -6533,6 +6557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-03-01 13:12:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-03-01 12:02:50 +0000"
@@ -6560,6 +6590,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-01 13:19:31 +0000"
     },
     "done": true
   },
@@ -6611,6 +6647,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-03-01 13:13:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-03-01 12:46:22 +0000"
@@ -6632,6 +6674,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-03-01 13:16:04 +0000"
     },
     "done": true
   },
@@ -6698,6 +6746,12 @@
   "bhc:recipes/misc/red_heart_melted_from_smelting": {
     "criteria": {
       "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-01 13:12:30 +0000"
     },
     "done": true
   },
@@ -6824,6 +6878,12 @@
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-03-01 11:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-03-01 13:13:02 +0000"
     },
     "done": true
   },
