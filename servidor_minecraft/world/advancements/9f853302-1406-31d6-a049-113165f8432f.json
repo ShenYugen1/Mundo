@@ -6313,5 +6313,131 @@
     },
     "done": true
   },
+  "bhc:recipes/misc/soul_heart_crystal": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/limited_copper_barrel_4": {
+    "criteria": {
+      "has_limited_barrel_4": "2025-03-01 11:45:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/green_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/limited_iron_barrel_4": {
+    "criteria": {
+      "has_limited_barrel_4": "2025-03-01 11:45:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/heart_amulet": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-03-01 11:45:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/combat/red_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
