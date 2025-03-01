@@ -1819,9 +1819,13 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_bee_house": "2025-03-01 21:41:26 +0000",
       "in_goliath_honey_fountain": "2025-02-22 17:26:54 +0000",
       "in_mite_fortress": "2025-02-22 17:26:54 +0000",
-      "in_gazebuzz_cluster": "2025-03-01 21:28:19 +0000"
+      "in_ice_monolith": "2025-03-01 21:39:59 +0000",
+      "in_gazebuzz_cluster": "2025-03-01 21:28:19 +0000",
+      "in_dance_floor": "2025-03-01 21:33:43 +0000",
+      "in_honey_cave_room": "2025-03-01 21:43:27 +0000"
     },
     "done": false
   },
@@ -6820,6 +6824,12 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-03-01 21:38:24 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/food/relic_apple_rotated": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
@@ -6898,6 +6908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-03-01 21:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
@@ -6938,6 +6954,7 @@
     "criteria": {
       "sugar_water_floor": "2025-03-01 21:27:55 +0000",
       "hive_wall": "2025-03-01 21:28:18 +0000",
+      "hive_pillar": "2025-03-01 21:33:40 +0000",
       "pollinated_fields": "2025-03-01 21:27:03 +0000"
     },
     "done": false
@@ -6945,6 +6962,12 @@
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-03-01 20:37:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 21:41:53 +0000"
     },
     "done": true
   },
@@ -6972,6 +6995,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-03-01 21:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-03-01 20:48:52 +0000"
@@ -6983,6 +7012,18 @@
       "has_heart": "2025-03-01 20:40:12 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_2": "2025-03-01 21:35:00 +0000",
+      "carve_wax_1": "2025-03-01 21:34:57 +0000",
+      "carve_wax_9": "2025-03-01 21:34:57 +0000",
+      "carve_wax_6": "2025-03-01 21:34:56 +0000",
+      "carve_wax_5": "2025-03-01 21:34:56 +0000",
+      "carve_wax_8": "2025-03-01 21:34:57 +0000",
+      "carve_wax_7": "2025-03-01 21:34:57 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/trade": {
     "criteria": {
@@ -6999,6 +7040,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-01 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-03-01 21:31:40 +0000"
     },
     "done": true
   },
@@ -7026,6 +7073,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 21:41:53 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
@@ -7038,9 +7091,21 @@
     },
     "done": true
   },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_drowning_in_despair": "2025-03-01 21:35:12 +0000"
+    },
+    "done": false
+  },
   "bhc:recipes/misc/heart_amulet": {
     "criteria": {
       "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/consume_bee_soup": {
+    "criteria": {
+      "consume_bee_soup": "2025-03-01 21:41:53 +0000"
     },
     "done": true
   },
@@ -7065,6 +7130,12 @@
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-03-01 21:37:45 +0000"
     },
     "done": true
   },

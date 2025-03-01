@@ -21879,3 +21879,22 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [01Mar2025 21:32:15.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [01Mar2025 21:32:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 21:32:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Sticky Situation]
+[01Mar2025 21:34:12.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:34:16.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Rachel the Happy Bee'/37905, l='ServerLevel[world]', x=119.35, y=136.40, z=1233.58] died: Rachel the Happy Bee died
+[01Mar2025 21:34:47.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:34:52.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Diablo the Thieving Bee'/37904, l='ServerLevel[world]', x=94.63, y=112.78, z=1243.53] died: Diablo the Thieving Bee died
+[01Mar2025 21:36:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 103.500000, 47.500000, 868.500000]
+[01Mar2025 21:36:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:37:32.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:37:36.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Dirty Return]
+[01Mar2025 21:38:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:39:12.583] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:39:55.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:41:03.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VariantBeeEntity['Dinnerbone'/44148, l='ServerLevel[world]', x=353.50, y=50.40, z=495.50] died: Dinnerbone drowned
+[01Mar2025 21:41:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:41:53.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [A Stingy Delicacy]
+[01Mar2025 21:43:25.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 4.2533752628039,12.253203486522565,-2.1581022047981264
+[01Mar2025 21:43:32.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! -1.1932668658732268,-10.731373740830193,0.019024785553142465
+[01Mar2025 21:43:37.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:44:12.587] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:44:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
