@@ -2270,7 +2270,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_goliath_honey_fountain": "2025-02-22 17:22:20 +0000",
-      "in_mite_fortress": "2025-02-22 17:22:20 +0000"
+      "in_mite_fortress": "2025-02-22 17:22:20 +0000",
+      "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000"
     },
     "done": false
   },
@@ -2298,6 +2299,7 @@
       "biomeswevegone:shattered_glacier": "2025-02-22 18:30:49 +0000",
       "biomeswevegone:cika_woods": "2025-02-22 20:09:16 +0000",
       "biomeswevegone:orchard": "2025-03-01 20:48:25 +0000",
+      "biomeswevegone:crag_gardens": "2025-03-01 21:24:35 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-02-22 20:38:12 +0000",
       "biomeswevegone:skyrise_vale": "2025-03-01 12:25:15 +0000",
       "biomeswevegone:coconino_meadow": "2025-02-22 23:45:12 +0000",
@@ -7095,6 +7097,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-01 21:20:59 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-03-01 20:10:23 +0000"
@@ -7104,6 +7112,20 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-03-01 21:28:26 +0000",
+      "hive_wall": "2025-03-01 21:28:27 +0000",
+      "pollinated_fields": "2025-03-01 21:26:58 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-03-01 21:26:56 +0000"
     },
     "done": true
   },
@@ -7122,6 +7144,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bistort": {
+    "criteria": {
+      "has_bistort": "2025-03-01 21:22:54 +0000"
     },
     "done": true
   },
@@ -7182,6 +7210,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_white_sage": {
+    "criteria": {
+      "has_white_sage": "2025-03-01 21:24:20 +0000"
     },
     "done": true
   },

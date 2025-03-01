@@ -1820,7 +1820,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_goliath_honey_fountain": "2025-02-22 17:26:54 +0000",
-      "in_mite_fortress": "2025-02-22 17:26:54 +0000"
+      "in_mite_fortress": "2025-02-22 17:26:54 +0000",
+      "in_gazebuzz_cluster": "2025-03-01 21:28:19 +0000"
     },
     "done": false
   },
@@ -6932,6 +6933,14 @@
       "has_granite": "2025-03-01 20:36:56 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-03-01 21:27:55 +0000",
+      "hive_wall": "2025-03-01 21:28:18 +0000",
+      "pollinated_fields": "2025-03-01 21:27:03 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {

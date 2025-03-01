@@ -21849,3 +21849,33 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [01Mar2025 21:10:19.485] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (1392 | 25 | 3841)
 [01Mar2025 21:10:19.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 21:12:42.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[01Mar2025 21:14:10.535] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:19:10.540] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:24:00.296] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=373, y=79, z=3029} with deep BlockPos{x=373, y=-62, z=3029}
+[01Mar2025 21:24:05.930] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=356, y=77, z=2948} with deep BlockPos{x=356, y=-59, z=2948}
+[01Mar2025 21:24:07.959] [Worker-Main-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[01Mar2025 21:24:10.578] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:24:12.566] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[01Mar2025 21:24:12.566] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Mar2025 21:24:12.566] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Mar2025 21:24:39.447] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=296, y=97, z=3298} with deep BlockPos{x=296, y=-61, z=3298}
+[01Mar2025 21:24:39.577] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=303, y=106, z=3319} with deep BlockPos{x=303, y=-60, z=3319}
+[01Mar2025 21:26:15.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Benjamin the Cracked'/29229, l='ServerLevel[world]', x=655.62, y=78.00, z=3079.96] died: Benjamin the Cracked was slain by ShenYugen
+[01Mar2025 21:26:58.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[01Mar2025 21:27:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:28:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:28:14.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 2.189748783697496,11.116803727837791,5.568857240463558
+[01Mar2025 21:28:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:29:12.598] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:29:43.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:29:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:30:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:31:40.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Sticky Situation]
+[01Mar2025 21:32:05.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:32:09.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was stung to death
+[01Mar2025 21:32:09.140] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:175, y:198, z:1098, dim:the_bumblezone:the_bumblezone]
+[01Mar2025 21:32:09.159] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 21:32:10.374] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[01Mar2025 21:32:15.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:32:35.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:32:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Sticky Situation]
