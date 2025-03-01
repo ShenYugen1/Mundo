@@ -1,0 +1,17 @@
+[01Mar2025 00:00:29.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.97.196.169:53359] logged in with entity id 661 at (342.9278713777607, 146.0, -15522.339268923923)
+[01Mar2025 00:00:29.464] [Server thread/INFO] [owo/]: Sending server config values to client
+[01Mar2025 00:00:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[01Mar2025 00:00:38.810] [Server thread/INFO] [owo/]: Receiving client config
+[01Mar2025 00:04:25.197] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'biomeswevegone:recipes/misc/red_dye_from_bwg_tag' in progress file ./world/advancements/48f4594d-9dd9-3828-a8d7-2f4b0bc086e2.json - it doesn't exist anymore?
+[01Mar2025 00:04:25.199] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'biomeswevegone:recipes/misc/purple_dye_from_bwg_tag' in progress file ./world/advancements/48f4594d-9dd9-3828-a8d7-2f4b0bc086e2.json - it doesn't exist anymore?
+[01Mar2025 00:04:25.200] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'biomeswevegone:recipes/misc/pink_dye_from_bwg_tag' in progress file ./world/advancements/48f4594d-9dd9-3828-a8d7-2f4b0bc086e2.json - it doesn't exist anymore?
+[01Mar2025 00:04:25.229] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:purple_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:pink_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:red_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:purple_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.231] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:pink_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: biomeswevegone:red_dye_from_bwg_tag removed now.
+[01Mar2025 00:04:25.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.59.159.210:51529] logged in with entity id 1095 at (341.048019591225, 146.0, -15541.70854361786)
+[01Mar2025 00:04:25.306] [Server thread/INFO] [owo/]: Sending server config values to client
+[01Mar2025 00:04:25.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[01Mar2025 00:04:26.854] [Server thread/INFO] [owo/]: Receiving client config
