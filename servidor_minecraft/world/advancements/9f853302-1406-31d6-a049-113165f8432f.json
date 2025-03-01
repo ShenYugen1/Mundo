@@ -7314,6 +7314,12 @@
     },
     "done": true
   },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "orange_string_curtain": "2025-03-01 22:44:34 +0000"
+    },
+    "done": false
+  },
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-03-01 20:51:04 +0000"

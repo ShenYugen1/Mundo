@@ -6903,6 +6903,12 @@
     },
     "done": true
   },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "red_super_candle": "2025-03-01 22:52:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
@@ -6972,6 +6978,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-03-01 22:49:05 +0000"
     },
     "done": true
   },
