@@ -2480,6 +2480,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2025-02-22 19:33:39 +0000",
+      "bread": "2025-03-01 20:33:49 +0000",
       "rotten_flesh": "2025-02-22 17:30:19 +0000",
       "cooked_mutton": "2025-02-22 17:57:09 +0000",
       "pumpkin_pie": "2025-02-22 18:57:30 +0000"
@@ -7100,6 +7101,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
+    "criteria": {
+      "has_block": "2025-03-01 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-01 20:36:00 +0000"
     },
     "done": true
   },
