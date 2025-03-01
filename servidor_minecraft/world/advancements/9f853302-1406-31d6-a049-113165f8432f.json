@@ -6437,6 +6437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_slab_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-03-01 13:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-01 12:02:50 +0000"
@@ -6527,6 +6533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dacite_cobblestone_wall_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-03-01 13:21:11 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_destruction": {
     "criteria": {
       "has_ender_pearl": "2025-03-01 11:51:57 +0000"
@@ -6578,6 +6590,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_stairs_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-03-01 13:21:11 +0000"
     },
     "done": true
   },
@@ -6872,6 +6890,12 @@
   "bhc:recipes/combat/red_heart_patch": {
     "criteria": {
       "has_heart": "2025-03-01 11:40:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-03-01 13:21:11 +0000"
     },
     "done": true
   },
