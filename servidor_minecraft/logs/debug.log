@@ -15588,3 +15588,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [01Mar2025 11:55:58.261] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:00:58.257] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:02:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Seedy Place]
+[01Mar2025 12:05:58.254] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
