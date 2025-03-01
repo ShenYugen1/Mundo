@@ -6316,6 +6316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-01 12:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
@@ -6460,6 +6466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 12:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-01 11:53:55 +0000"
@@ -6568,6 +6580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-01 12:46:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-03-01 11:45:03 +0000"
@@ -6583,6 +6601,12 @@
   "sophisticatedstorage:recipes/misc/limited_iron_barrel_4": {
     "criteria": {
       "has_limited_barrel_4": "2025-03-01 11:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 12:46:22 +0000"
     },
     "done": true
   },

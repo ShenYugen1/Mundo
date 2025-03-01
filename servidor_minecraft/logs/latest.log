@@ -1461,3 +1461,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Mar2025 12:26:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Bone Crusher]
 [01Mar2025 12:43:43.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [01Mar2025 12:44:04.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 800.500000, 79.500000, -15521.500000]
+[01Mar2025 12:54:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]

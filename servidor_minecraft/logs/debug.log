@@ -15923,3 +15923,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Mar2025 12:47:33.803] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=626, y=60, z=-14939} with deep BlockPos{x=626, y=-62, z=-14939}
 [01Mar2025 12:49:20.798] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=677, y=60, z=-14869} with deep BlockPos{x=677, y=-59, z=-14869}
 [01Mar2025 12:49:28.060] [Worker-Main-9/DEBUG] [oritech/]: placing resource node at BlockPos{x=802, y=43, z=-14835} with deep BlockPos{x=802, y=-62, z=-14835}
+[01Mar2025 12:50:58.336] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 12:52:18.570] [Worker-Main-6/DEBUG] [oritech/]: placing resource node at BlockPos{x=1128, y=5, z=-14744} with deep BlockPos{x=1128, y=-61, z=-14744}
+[01Mar2025 12:54:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[01Mar2025 12:55:58.263] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 13:00:58.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
