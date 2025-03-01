@@ -1642,3 +1642,19 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [01Mar2025 20:43:09.359] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [01Mar2025 20:43:09.359] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
 [01Mar2025 20:43:09.360] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[01Mar2025 20:44:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 333.500000, 147.500000, -15500.500000]
+[01Mar2025 20:46:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 20:46:54.242] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[01Mar2025 20:46:54.243] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[01Mar2025 20:46:54.244] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[01Mar2025 20:46:54.244] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[01Mar2025 20:48:13.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 20:48:52.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Postmortal]
+[01Mar2025 20:48:52.095] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 20:48:53.846] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 20:48:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Vex
+[01Mar2025 20:48:58.496] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 20:52:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 20:52:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [What a Deal!]
+[01Mar2025 20:52:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [What a Deal!]
+[01Mar2025 20:53:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]

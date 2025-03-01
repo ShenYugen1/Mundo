@@ -2135,13 +2135,16 @@
       "biomeswevegone:frosted_coniferous_forest": "2025-02-22 17:26:54 +0000",
       "biomeswevegone:shattered_glacier": "2025-02-22 18:29:11 +0000",
       "biomeswevegone:cika_woods": "2025-02-22 20:09:03 +0000",
+      "biomeswevegone:orchard": "2025-03-01 20:47:29 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-02-22 20:36:23 +0000",
+      "biomeswevegone:coconino_meadow": "2025-02-22 23:44:40 +0000",
       "biomeswevegone:maple_taiga": "2025-02-22 21:37:52 +0000",
       "biomeswevegone:pumpkin_valley": "2025-02-22 23:46:00 +0000",
       "biomeswevegone:prairie": "2025-02-22 21:23:43 +0000",
-      "biomeswevegone:weeping_witch_forest": "2025-02-22 20:36:23 +0000",
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:55 +0000",
       "biomeswevegone:zelkova_forest": "2025-02-22 20:36:14 +0000",
-      "biomeswevegone:coconino_meadow": "2025-02-22 23:44:40 +0000",
+      "biomeswevegone:temperate_grove": "2025-03-01 20:42:03 +0000",
+      "biomeswevegone:aspen_boreal": "2025-03-01 20:39:15 +0000",
       "biomeswevegone:dacite_ridges": "2025-02-22 21:44:46 +0000"
     },
     "done": false
@@ -6828,6 +6831,12 @@
     },
     "done": true
   },
+  "bhc:recipes/misc/soul_heart_crystal": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
@@ -6900,6 +6909,18 @@
     },
     "done": true
   },
+  "bhc:recipes/food/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-03-01 20:45:27 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/green_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
@@ -6918,9 +6939,39 @@
     },
     "done": true
   },
+  "bhc:recipes/misc/yellow_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-03-01 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-01 20:48:52 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
       "has_paper": "2025-03-01 20:38:07 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
     },
     "done": true
   },
@@ -6948,9 +6999,45 @@
     },
     "done": true
   },
+  "bhc:recipes/misc/heart_amulet": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/red_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/combat/red_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-01 20:40:12 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2025-03-01 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/soul_heart_canister_smithing": {
+    "criteria": {
+      "has_totem": "2025-03-01 20:48:36 +0000"
     },
     "done": true
   },
