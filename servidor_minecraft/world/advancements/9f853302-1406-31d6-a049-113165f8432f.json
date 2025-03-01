@@ -2271,10 +2271,12 @@
     "criteria": {
       "in_bee_house": "2025-03-01 21:41:32 +0000",
       "in_goliath_honey_fountain": "2025-02-22 17:22:20 +0000",
+      "in_cell_maze": "2025-03-01 21:52:21 +0000",
       "in_mite_fortress": "2025-02-22 17:22:20 +0000",
       "in_ice_monolith": "2025-03-01 21:40:10 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000",
-      "in_dance_floor": "2025-03-01 21:33:49 +0000"
+      "in_dance_floor": "2025-03-01 21:33:49 +0000",
+      "in_honey_cave_room": "2025-03-01 21:44:51 +0000"
     },
     "done": false
   },
@@ -7056,6 +7058,18 @@
   "the_bumblezone:tools/honey_compass_use": {
     "criteria": {
       "honey_compass": "2025-03-01 21:43:44 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-03-01 21:52:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-03-01 21:52:21 +0000"
     },
     "done": true
   },

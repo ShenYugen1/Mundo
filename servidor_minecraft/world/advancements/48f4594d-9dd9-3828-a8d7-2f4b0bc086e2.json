@@ -1821,6 +1821,7 @@
     "criteria": {
       "in_bee_house": "2025-03-01 21:41:26 +0000",
       "in_goliath_honey_fountain": "2025-02-22 17:26:54 +0000",
+      "in_cell_maze": "2025-03-01 21:52:23 +0000",
       "in_mite_fortress": "2025-02-22 17:26:54 +0000",
       "in_ice_monolith": "2025-03-01 21:39:59 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:19 +0000",
@@ -2988,6 +2989,7 @@
       "uncommon_legs": "2025-02-22 17:29:44 +0000",
       "kill_apothic_invader": "2025-02-22 18:42:56 +0000",
       "uncommon_hand": "2025-02-22 17:29:44 +0000",
+      "uncommon_helm": "2025-03-01 21:46:57 +0000",
       "uncommon_feet": "2025-02-22 18:39:48 +0000"
     },
     "done": false
@@ -6830,6 +6832,12 @@
     },
     "done": true
   },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-03-01 21:52:23 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/food/relic_apple_rotated": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
@@ -6857,6 +6865,12 @@
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-03-01 20:22:10 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-03-01 21:53:59 +0000"
     },
     "done": true
   },
@@ -6899,6 +6913,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-01 20:36:56 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-03-01 21:54:00 +0000"
     },
     "done": true
   },
@@ -6989,6 +7009,18 @@
     },
     "done": true
   },
+  "the_bumblezone:tools/obtain_throne_honey_compass": {
+    "criteria": {
+      "obtain_throne_honey_compass": "2025-03-01 21:54:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-01 21:46:34 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-03-01 20:40:06 +0000"
@@ -7001,9 +7033,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-01 21:48:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-03-01 21:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-03-01 20:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-01 21:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-01 21:46:34 +0000"
     },
     "done": true
   },
@@ -7127,6 +7183,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/overenchanted": {
+    "criteria": {
+      "got_overenchanted": "2025-03-01 21:46:51 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_exchanging": {
     "criteria": {
       "has_diamond": "2025-03-01 20:15:01 +0000"
@@ -7148,6 +7210,12 @@
   "bhc:recipes/misc/soul_heart_canister_smithing": {
     "criteria": {
       "has_totem": "2025-03-01 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-01 21:48:54 +0000"
     },
     "done": true
   },

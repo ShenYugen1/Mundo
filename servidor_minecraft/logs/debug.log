@@ -21898,3 +21898,19 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [01Mar2025 21:43:37.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [01Mar2025 21:44:12.587] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Mar2025 21:44:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:44:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:46:13.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:46:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has completed the challenge [Arcane Engineer]
+[01Mar2025 21:49:12.587] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 21:51:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 396.500000, 158.500000, 715.500000]
+[01Mar2025 21:51:47.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:51:56.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 553.500000, 159.500000, 388.500000]
+[01Mar2025 21:52:19.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[01Mar2025 21:52:21.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Lost in the Cells]
+[01Mar2025 21:52:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Lost in the Cells]
+[01Mar2025 21:52:50.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was doomed to fall
+[01Mar2025 21:52:50.013] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:485, y:51, z:462, dim:the_bumblezone:the_bumblezone]
+[01Mar2025 21:52:50.017] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[01Mar2025 21:52:51.354] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[01Mar2025 21:54:10.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[01Mar2025 21:54:12.595] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
