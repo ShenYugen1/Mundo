@@ -3204,12 +3204,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/red_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_red_dye]": "2025-02-22 17:31:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-02-22 17:31:42 +0000"
@@ -4029,12 +4023,6 @@
   "biomeswevegone:biomeswevegone/husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2025-02-22 18:01:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-02-22 18:02:28 +0000"
     },
     "done": true
   },
@@ -6309,111 +6297,63 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/pink_dye_from_bwg_tag": {
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_pink_dye]": "2025-02-23 15:52:28 +0000"
+      "has_golden_knife": "2025-02-23 15:55:58 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_golden_knife": "2025-02-23 15:55:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_mushrooms": "2025-02-23 15:59:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "dungeons_arise:find_illager_fort": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "location0": "2025-02-23 16:11:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_the_recipe": "2025-02-23 16:21:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_stack_upgrade_tier_2": "2025-02-23 16:21:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_the_recipe": "2025-02-23 16:21:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_backpack_stack_upgrade": "2025-02-23 16:21:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
+      "has_receptacle_of_familiar": "2025-02-23 16:37:05 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 19:59:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 16:39:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-23 16:52:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-02-23 19:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_purple_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2025-02-23 16:40:28 +0000"
     },
     "done": true
   },
@@ -6423,9 +6363,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_bone_meal": "2025-02-23 18:34:57 +0000"
+      "has_brown_mushroom": "2025-02-23 16:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-23 16:39:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-02-23 16:40:28 +0000"
     },
     "done": true
   },
@@ -6435,27 +6387,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-02-23 16:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-23 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-23 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-23 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "arsdelight:recipes/decorations/archwood_cabinet": {
+    "criteria": {
+      "has_archwood_slab": "2025-02-23 16:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:oritech/root": {
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
-      "got_nickel": "2025-02-23 17:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/workbench/mason_table": {
-    "criteria": {
-      "has_item": "2025-02-23 17:49:12 +0000"
+      "has_glass": "2025-02-23 16:52:32 +0000"
     },
     "done": true
   },
@@ -6477,87 +6483,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-02-23 17:38:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-02-23 17:10:51 +0000"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
-    "criteria": {
-      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-02-23 17:10:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2025-02-23 16:21:43 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_the_recipe": "2025-02-23 16:21:39 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_the_recipe": "2025-02-23 16:21:43 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-23 16:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-02-23 17:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-02-23 17:18:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-02-23 15:55:58 +0000"
     },
     "done": true
   },
@@ -6573,75 +6501,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_fort": {
-    "criteria": {
-      "location0": "2025-02-23 16:11:15 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/black_sand": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-02-23 17:38:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-02-23 15:59:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-02-23 17:15:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-02-23 17:10:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-23 17:12:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-02-23 17:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-23 18:34:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-23 16:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
-    },
-    "done": true
-  },
-  "arsdelight:recipes/decorations/archwood_cabinet": {
-    "criteria": {
-      "has_archwood_slab": "2025-02-23 16:52:13 +0000"
     },
     "done": true
   },
@@ -6651,75 +6513,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-23 16:49:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-02-23 17:10:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-02-23 16:39:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-02-23 17:48:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-02-23 19:24:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-02-23 17:10:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/purple_sand": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-02-23 16:37:05 +0000"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/raw_nickel_blockblock": {
-    "criteria": {
-      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
     },
     "done": true
   },
@@ -6735,93 +6537,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-02-23 17:48:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/misc/chisel": {
-    "criteria": {
-      "has_chisel": "2025-02-23 17:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-02-23 17:21:14 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/blue_sand": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-23 16:52:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
-    "criteria": {
-      "has_block": "2025-02-23 17:21:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-02-23 17:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-02-23 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-23 17:21:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-02-23 15:55:58 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:paxel": {
-    "criteria": {
-      "any_paxel": "2025-02-23 17:12:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_3_from_backpack_stack_upgrade_tier_2": {
-    "criteria": {
-      "has_backpack_stack_upgrade": "2025-02-23 16:21:43 +0000"
     },
     "done": true
   },
@@ -6837,39 +6561,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/pink_sand": {
-    "criteria": {
-      "has_sand": "2025-02-23 16:48:36 +0000"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
-    "criteria": {
-      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:source_jar": {
     "criteria": {
       "has_source_jar": "2025-02-23 16:52:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-23 17:12:37 +0000"
+      "has_wheat": "2025-02-23 17:10:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_brick": "2025-02-23 17:48:03 +0000"
+      "has_wheat": "2025-02-23 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-23 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-23 17:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-23 17:10:51 +0000"
     },
     "done": true
   },
@@ -6879,9 +6603,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "mekanismtools:paxel": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-23 16:39:20 +0000"
+      "any_paxel": "2025-02-23 17:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-23 17:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-23 17:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-23 17:15:52 +0000"
     },
     "done": true
   },
@@ -6891,11 +6633,258 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-02-23 17:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/root": {
+    "criteria": {
+      "got_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_blasting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/raw_nickel_blockblock": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_ingot_from_smelting_raw_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2025-02-23 17:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-23 17:18:54 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
+    "criteria": {
+      "has_block": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 17:21:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-23 17:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-23 17:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 17:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:48:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-23 17:48:03 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-02-23 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/chisel": {
+    "criteria": {
+      "has_chisel": "2025-02-23 17:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 18:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 18:34:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-23 19:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-23 19:24:56 +0000"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2025-03-01 00:04:25 +0000",
+      "has_carrot": "2025-03-01 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 00:12:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
