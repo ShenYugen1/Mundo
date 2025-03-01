@@ -15928,3 +15928,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Mar2025 12:54:38.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [01Mar2025 12:55:58.263] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Mar2025 13:00:58.264] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 13:01:28.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[01Mar2025 13:05:58.261] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Mar2025 13:06:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Funeral Theft]
+[01Mar2025 13:06:38.177] [Worker-Main-8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [28, -928], pos: BlockPos{x=457, y=60, z=-14848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomeswevegone:swamp_grass_block_delta]
+[01Mar2025 13:06:38.178] [Worker-Main-8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [28, -928], pos: BlockPos{x=457, y=60, z=-14847}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomeswevegone:swamp_grass_block_delta]
+[01Mar2025 13:06:38.179] [Worker-Main-8/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [28, -928], pos: BlockPos{x=458, y=60, z=-14848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / biomeswevegone:swamp_grass_block_delta]
+[01Mar2025 13:06:58.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[01Mar2025 13:10:58.256] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
