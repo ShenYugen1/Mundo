@@ -1825,10 +1825,11 @@
       "in_cell_maze": "2025-03-01 21:52:23 +0000",
       "in_cannon_range": "2025-03-01 22:06:44 +0000",
       "in_mite_fortress": "2025-02-22 17:26:54 +0000",
-      "in_hive_temple": "2025-03-01 22:00:16 +0000",
       "in_ice_monolith": "2025-03-01 21:39:59 +0000",
+      "in_throne_pillar": "2025-03-01 22:16:53 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:19 +0000",
       "in_pirate_ship": "2025-03-01 22:02:16 +0000",
+      "in_hive_temple": "2025-03-01 22:00:16 +0000",
       "in_dance_floor": "2025-03-01 21:33:43 +0000",
       "in_honey_cave_room": "2025-03-01 21:43:27 +0000"
     },
@@ -6830,6 +6831,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-01 22:24:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-03-01 22:12:19 +0000"
@@ -7155,6 +7228,12 @@
   "minecraft:recipes/misc/host_armor_trim_smithing_template": {
     "criteria": {
       "has_host_armor_trim_smithing_template": "2025-03-01 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-03-01 22:16:53 +0000"
     },
     "done": true
   },

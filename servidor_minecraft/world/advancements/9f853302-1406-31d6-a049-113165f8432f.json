@@ -2275,10 +2275,11 @@
       "in_cell_maze": "2025-03-01 21:52:21 +0000",
       "in_cannon_range": "2025-03-01 22:08:43 +0000",
       "in_mite_fortress": "2025-02-22 17:22:20 +0000",
-      "in_hive_temple": "2025-03-01 21:59:55 +0000",
       "in_ice_monolith": "2025-03-01 21:40:10 +0000",
+      "in_throne_pillar": "2025-03-01 22:17:01 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000",
       "in_pirate_ship": "2025-03-01 22:02:09 +0000",
+      "in_hive_temple": "2025-03-01 21:59:55 +0000",
       "in_dance_floor": "2025-03-01 21:33:49 +0000",
       "in_honey_cave_room": "2025-03-01 21:44:51 +0000"
     },
@@ -3872,6 +3873,7 @@
       "minecraft:stray": "2025-02-22 19:33:44 +0000",
       "minecraft:enderman": "2025-03-01 12:39:43 +0000",
       "minecraft:magma_cube": "2025-02-22 22:26:52 +0000",
+      "minecraft:endermite": "2025-03-01 22:16:36 +0000",
       "minecraft:spider": "2025-02-22 19:42:25 +0000",
       "minecraft:piglin_brute": "2025-02-22 22:27:27 +0000",
       "minecraft:zombie": "2025-02-22 19:03:37 +0000",
@@ -7308,6 +7310,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-03-01 22:17:01 +0000"
     },
     "done": true
   },
