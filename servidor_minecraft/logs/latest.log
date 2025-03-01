@@ -1471,3 +1471,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Mar2025 13:16:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Apothic Spawners]
 [01Mar2025 13:20:44.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Crops of the Wild]
 [01Mar2025 13:22:10.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[01Mar2025 13:32:53.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [What a weird metal...]
+[01Mar2025 13:36:31.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen lost connection: Timed out
+[01Mar2025 13:36:31.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen left the game
+[01Mar2025 13:36:31.265] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Mar2025 13:40:06.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShenYugen[/127.97.196.169:46581] logged in with entity id 26056 at (1031.5093893427106, -18.0, -14937.295639530215)
+[01Mar2025 13:40:06.669] [Server thread/INFO] [owo/]: Sending server config values to client
+[01Mar2025 13:40:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
+[01Mar2025 13:40:07.227] [Server thread/INFO] [owo/]: Receiving client config
+[01Mar2025 13:40:32.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
