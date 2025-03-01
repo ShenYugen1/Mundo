@@ -1454,3 +1454,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [01Mar2025 12:02:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [A Seedy Place]
+[01Mar2025 12:25:00.464] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[01Mar2025 12:25:00.465] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Mar2025 12:25:00.465] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Mar2025 12:25:00.582] [Worker-Main-9/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[01Mar2025 12:26:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Bone Crusher]
