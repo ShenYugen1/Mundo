@@ -2281,6 +2281,7 @@
       "in_throne_pillar": "2025-03-01 22:17:01 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000",
       "in_pirate_ship": "2025-03-01 22:02:09 +0000",
+      "in_cherry_veteran_tree": "2025-03-02 14:45:54 +0000",
       "in_hive_temple": "2025-03-01 21:59:55 +0000",
       "in_dance_floor": "2025-03-01 21:33:49 +0000",
       "in_honey_cave_room": "2025-03-01 21:44:51 +0000"
@@ -7058,165 +7059,15 @@
     },
     "done": true
   },
-  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
-    "criteria": {
-      "consume_sugar_water_bottle": "2025-03-01 21:40:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-03-01 22:09:01 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:tools/honey_compass_use": {
-    "criteria": {
-      "honey_compass": "2025-03-01 21:43:44 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2025-03-01 21:52:55 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_cell_maze": {
-    "criteria": {
-      "in_cell_maze": "2025-03-01 21:52:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/drink_royal_jelly_bottle": {
-    "criteria": {
-      "drink_royal_jelly_bottle": "2025-03-01 22:38:37 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
-    "criteria": {
-      "ancient_wax_full_blocks": "2025-03-01 21:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 20:42:03 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-03-01 21:55:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-03-01 23:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-03-01 22:02:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
-    "criteria": {
-      "obtain_sugar_infused_stone": "2025-03-01 22:09:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 20:42:03 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-03-01 21:54:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-03-01 21:32:27 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2025-03-01 21:20:59 +0000"
-    },
-    "done": true
-  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-03-01 20:10:23 +0000"
     },
     "done": true
   },
-  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+  "oritech:recipes/redstone/crafting/techdoor": {
     "criteria": {
-      "stinger_spear_poisoning": "2025-03-01 22:56:39 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
-    "criteria": {
-      "obtain_royal_jelly_bucket": "2025-03-01 22:36:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-03-01 21:38:22 +0000"
+      "has_tech_door": "2025-03-01 20:11:23 +0000"
     },
     "done": true
   },
@@ -7226,9 +7077,159 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_peony": "2025-03-01 22:37:10 +0000"
+      "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-01 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-01 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-01 20:28:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
+    "criteria": {
+      "has_block": "2025-03-01 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-01 20:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 20:42:03 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-03-01 20:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-01 20:52:21 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/soul_heart_canister_smithing": {
+    "criteria": {
+      "has_totem": "2025-03-01 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-01 21:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bistort": {
+    "criteria": {
+      "has_bistort": "2025-03-01 21:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_white_sage": {
+    "criteria": {
+      "has_white_sage": "2025-03-01 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-03-01 21:26:56 +0000"
     },
     "done": true
   },
@@ -7243,69 +7244,15 @@
     },
     "done": false
   },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-03-01 21:26:56 +0000"
+      "has_honey_block": "2025-03-01 21:32:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:adventure/honey_block_slide": {
     "criteria": {
-      "has_lilac": "2025-03-01 22:37:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-03-01 21:42:14 +0000"
-    },
-    "done": true
-  },
-  "oritech:recipes/redstone/crafting/techdoor": {
-    "criteria": {
-      "has_tech_door": "2025-03-01 20:11:23 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:dirt_pellet/dirt_pellet_return_to_sender": {
-    "criteria": {
-      "hurt_rootmin_with_pellet": "2025-03-01 21:37:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-03-01 20:27:13 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-03-01 22:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 20:42:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_bistort": {
-    "criteria": {
-      "has_bistort": "2025-03-01 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_trapdoor": {
-    "criteria": {
-      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-03-01 20:27:13 +0000"
+      "honey_block_slide": "2025-03-01 21:32:55 +0000"
     },
     "done": true
   },
@@ -7323,51 +7270,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "the_bumblezone:dirt_pellet/dirt_pellet_return_to_sender": {
     "criteria": {
-      "traded": "2025-03-01 20:52:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:decor/obtain_all_string_curtains": {
-    "criteria": {
-      "orange_string_curtain": "2025-03-01 22:44:34 +0000"
-    },
-    "done": false
-  },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-03-01 20:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2025-03-01 21:32:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-03-01 20:28:54 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_throne_pillar": {
-    "criteria": {
-      "in_throne_pillar": "2025-03-01 22:17:01 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/dark_oak_log/hollow_dark_oak_log": {
-    "criteria": {
-      "has_block": "2025-03-01 20:36:00 +0000"
+      "hurt_rootmin_with_pellet": "2025-03-01 21:37:36 +0000"
     },
     "done": true
   },
@@ -7377,39 +7282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_door": {
+  "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
-      "has_copper_ingot": "2025-03-01 20:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-03-01 20:36:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-03-01 21:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-01 20:25:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_white_sage": {
-    "criteria": {
-      "has_white_sage": "2025-03-01 21:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-03-01 21:42:14 +0000"
+      "has_red_flower": "2025-03-01 21:38:22 +0000"
     },
     "done": true
   },
@@ -7419,21 +7294,147 @@
     },
     "done": true
   },
+  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
+    "criteria": {
+      "consume_sugar_water_bottle": "2025-03-01 21:40:02 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:tools/craft_honey_compass": {
     "criteria": {
       "obtain_honey_compass": "2025-03-01 21:42:06 +0000"
     },
     "done": true
   },
-  "bhc:recipes/misc/soul_heart_canister_smithing": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_totem": "2025-03-01 20:52:22 +0000"
+      "has_bowl": "2025-03-01 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-01 21:42:14 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-03-01 21:43:44 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-03-01 21:52:21 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-03-01 21:52:55 +0000"
     },
     "done": true
   },
   "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
     "criteria": {
       "obtain_honey_crystal_block": "2025-03-01 21:54:25 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-03-01 21:54:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-03-01 21:55:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_ancient_wax": {
+    "criteria": {
+      "ancient_wax_full_blocks": "2025-03-01 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-03-01 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-03-01 22:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_stone": "2025-03-01 22:09:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-03-01 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
+    "criteria": {
+      "obtain_royal_jelly_bucket": "2025-03-01 22:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-01 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-01 22:37:10 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/drink_royal_jelly_bottle": {
+    "criteria": {
+      "drink_royal_jelly_bottle": "2025-03-01 22:38:37 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "orange_string_curtain": "2025-03-01 22:44:34 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-03-01 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-01 23:00:27 +0000"
     },
     "done": true
   },
