@@ -1541,3 +1541,6 @@ java.lang.IllegalStateException: Invalid block entity the_bumblezone:honey_cocoo
 [02Mar2025 14:41:08.504] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id the_bumblezone:honey_cocoon
 [02Mar2025 14:47:28.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -4.742263623035569,-0.6855136685404588,-9.244084472627037
 [02Mar2025 14:48:23.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -1.771291106194667,2.1950455710511463,-13.16422896338463
+[02Mar2025 14:58:15.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
+[02Mar2025 15:01:15.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -5041.500000, 40.500000, -9220.500000]
+[02Mar2025 15:01:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -5041.500000, 40.500000, -9220.500000]

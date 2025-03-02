@@ -2281,6 +2281,7 @@
       "in_throne_pillar": "2025-03-01 22:17:01 +0000",
       "in_gazebuzz_cluster": "2025-03-01 21:28:28 +0000",
       "in_pirate_ship": "2025-03-01 22:02:09 +0000",
+      "in_sempiternal_sanctum_red": "2025-03-02 15:00:16 +0000",
       "in_cherry_veteran_tree": "2025-03-02 14:45:54 +0000",
       "in_hive_temple": "2025-03-01 21:59:55 +0000",
       "in_dance_floor": "2025-03-01 21:33:49 +0000",
@@ -7435,6 +7436,30 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-03-01 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_rose": {
+    "criteria": {
+      "has_rose": "2025-03-02 15:03:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "thorn_rose": "2025-03-02 15:03:29 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2025-03-02 15:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2025-03-02 15:03:20 +0000"
     },
     "done": true
   },
