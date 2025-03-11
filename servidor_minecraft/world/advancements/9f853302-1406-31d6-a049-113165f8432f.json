@@ -2322,6 +2322,7 @@
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000",
       "biomeswevegone:zelkova_forest": "2025-02-22 20:36:28 +0000",
       "biomeswevegone:temperate_grove": "2025-03-01 20:42:17 +0000",
+      "biomeswevegone:forgotten_forest": "2025-03-09 16:43:39 +0000",
       "biomeswevegone:aspen_boreal": "2025-03-01 20:39:20 +0000",
       "biomeswevegone:bayou": "2025-03-01 13:06:43 +0000"
     },
@@ -3240,6 +3241,7 @@
       "minecraft:stony_shore": "2025-02-22 18:57:01 +0000",
       "minecraft:lush_caves": "2025-02-22 20:08:56 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:41 +0000",
+      "minecraft:dripstone_caves": "2025-03-09 16:50:10 +0000",
       "minecraft:ice_spikes": "2025-02-23 16:03:41 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
@@ -6532,21 +6534,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_crocus": {
-    "criteria": {
-      "has_crocus": "2025-03-01 11:49:58 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-03-01 11:50:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_pink_anemone": {
-    "criteria": {
-      "has_pink_anemone": "2025-03-01 11:50:22 +0000"
     },
     "done": true
   },
@@ -6559,12 +6549,6 @@
   "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-03-01 11:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_white_anemone": {
-    "criteria": {
-      "has_white_anemone": "2025-03-01 11:51:07 +0000"
     },
     "done": true
   },
@@ -6799,12 +6783,6 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-01 12:06:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_foxglove": {
-    "criteria": {
-      "has_foxglove": "2025-03-01 12:26:30 +0000"
     },
     "done": true
   },
@@ -7216,18 +7194,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_bistort": {
-    "criteria": {
-      "has_bistort": "2025-03-01 21:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_white_sage": {
-    "criteria": {
-      "has_white_sage": "2025-03-01 21:24:20 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
     "criteria": {
       "teleport_to_bumblezone_pearl": "2025-03-01 21:26:56 +0000"
@@ -7439,7 +7405,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_rose": {
+  "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-03-02 15:03:20 +0000"
     },
@@ -7457,9 +7423,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/rose_petal_block": {
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
     "criteria": {
-      "has_rose": "2025-03-02 15:03:20 +0000"
+      "has_dye_tag": "2025-03-09 15:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-09 15:50:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-03-09 16:17:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-03-09 16:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-09 16:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-09 16:52:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-03-09 16:53:41 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-03-09 16:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-09 16:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-09 16:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-09 16:57:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "sculk_leech": "2025-03-09 17:00:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-09 17:08:48 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-03-09 17:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-09 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-03-09 18:02:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-09 18:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-09 18:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-09 18:05:09 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-03-09 18:05:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-03-09 18:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-09 18:18:51 +0000"
     },
     "done": true
   },
