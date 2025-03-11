@@ -15613,3 +15613,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Mar2025 20:03:51.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
 [11Mar2025 20:06:44.116] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from apothic_attributes.mixins.json into net.minecraft.world.damagesource.CombatRules
 [11Mar2025 20:07:50.380] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Mar2025 20:12:24.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -909.500000, -50.500000, -15978.500000]
+[11Mar2025 20:12:50.400] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Mar2025 20:17:50.421] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

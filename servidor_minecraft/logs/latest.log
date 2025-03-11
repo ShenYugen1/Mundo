@@ -1459,3 +1459,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Mar2025 19:52:13.332] [Server thread/INFO] [owo/]: Sending server config values to client
 [11Mar2025 19:52:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen joined the game
 [11Mar2025 19:52:33.234] [Server thread/INFO] [owo/]: Receiving client config
+[11Mar2025 20:12:24.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -909.500000, -50.500000, -15978.500000]
