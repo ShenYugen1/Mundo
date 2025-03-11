@@ -15604,3 +15604,12 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Mar2025 19:52:14.440] [Server thread/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:PathContextMixin from mod fabric_content_registries_v0->@Inject::onGetNodeType(IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
 [11Mar2025 19:52:33.234] [Server thread/INFO] [owo/]: Receiving client config
 [11Mar2025 19:52:50.486] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Mar2025 19:57:50.408] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Mar2025 20:02:50.391] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[11Mar2025 20:03:51.509] [Server thread/DEBUG] [mixin/]: Mixing StandardSpellValidatorMixin from ars_controle.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.StandardSpellValidator
+[11Mar2025 20:03:51.510] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[11Mar2025 20:03:51.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[11Mar2025 20:03:51.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[11Mar2025 20:03:51.517] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[11Mar2025 20:06:44.116] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from apothic_attributes.mixins.json into net.minecraft.world.damagesource.CombatRules
+[11Mar2025 20:07:50.380] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
