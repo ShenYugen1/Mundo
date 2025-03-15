@@ -15480,3 +15480,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [15Mar2025 16:47:55.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [15Mar2025 16:50:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Menril Production]
 [15Mar2025 16:51:12.964] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Mar2025 16:56:13.003] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Mar2025 16:57:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[15Mar2025 16:58:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Dinner's Served!]
+[15Mar2025 16:59:08.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Bonfire Lit]
+[15Mar2025 17:01:12.923] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Mar2025 17:01:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[15Mar2025 17:04:45.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[15Mar2025 17:05:54.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [First Age]
+[15Mar2025 17:06:12.923] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[15Mar2025 17:06:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Second Age]
+[15Mar2025 17:11:12.917] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
