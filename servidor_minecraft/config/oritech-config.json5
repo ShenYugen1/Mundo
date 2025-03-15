@@ -52,7 +52,6 @@
 	},
 	"generators": {
 		"animationSpeedMultiplier": 10.0,
-		"rfToSteamRation": 2.0,
 		"basicGeneratorData": {
 			"energyCapacity": 50000,
 			"maxEnergyInsertion": 0,
@@ -79,9 +78,11 @@
 		},
 		"steamEngineData": {
 			"energyCapacity": 100000,
-			"maxEnergyInsertion": 0,
-			"maxEnergyExtraction": 10000,
-			"energyPerTick": 1
+			"maxEnergyExtraction": 50000,
+			"rfToSteamRatio": 2.0,
+			"steamToRfRatio": 1,
+			"stopOnEnergyFull": false,
+			"stopOnWaterFull": true
 		},
 		"solarGeneratorData": {
 			"energyCapacity": 100000,
@@ -228,6 +229,7 @@
 	"pullRange": 16,
 	"idleWaitTicks": 200,
 	"blackHoleTachyonEnergy": 50000,
+	"unstableContainerBaseCapacity": 20000000,
 	"augmenterMaxEnergy": 500000000,
 	"tightMachineAddonHitboxes": true,
 	"tightMachineFrameHitboxes": false,
