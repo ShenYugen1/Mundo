@@ -7357,7 +7357,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "sculk_leech": "2025-03-09 16:52:52 +0000"
+      "sculk_leech": "2025-03-09 16:52:52 +0000",
+      "warden": "2025-03-16 12:55:04 +0000"
     },
     "done": false
   },
@@ -7439,6 +7440,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-16 12:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-16 12:42:57 +0000"
@@ -7499,9 +7506,33 @@
     },
     "done": true
   },
+  "bhc:recipes/combat/blue_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-16 12:55:05 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-16 12:55:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-16 12:55:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-16 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/blue_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-16 12:55:05 +0000"
     },
     "done": true
   },

@@ -7972,6 +7972,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-03-16 12:58:40 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-03-16 12:01:59 +0000"
