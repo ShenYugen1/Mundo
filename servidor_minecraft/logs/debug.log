@@ -21549,3 +21549,39 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [16Mar2025 15:58:57.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [16Mar2025 16:00:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [16Mar2025 16:00:53.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Mighty Stroganoff]
+[16Mar2025 16:01:48.445] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:02:27.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Mighty Stroganoff]
+[16Mar2025 16:03:15.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[16Mar2025 16:04:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:04:53.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2263.500000, 0.500000, -124393.500000]
+[16Mar2025 16:04:55.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:05:09.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was roasted alive by the Hydra
+[16Mar2025 16:05:09.186] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2275, y:0, z:-124384, dim:twilightforest:twilight_forest]
+[16Mar2025 16:05:09.191] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:05:11.015] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 16:06:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was roasted alive by the Hydra
+[16Mar2025 16:06:13.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2266, y:-1, z:-124390, dim:twilightforest:twilight_forest]
+[16Mar2025 16:06:13.738] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 16:06:16.326] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 16:06:22.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:06:35.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was roasted alive by the Hydra
+[16Mar2025 16:06:35.085] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2265, y:0, z:-124385, dim:twilightforest:twilight_forest]
+[16Mar2025 16:06:35.093] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 16:06:36.318] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 16:06:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:06:48.450] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:07:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed
+[16Mar2025 16:07:38.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2258, y:0, z:-124374, dim:twilightforest:twilight_forest]
+[16Mar2025 16:07:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Killed ShenYugen]
+[16Mar2025 16:07:38.852] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:07:41.134] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 16:08:05.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen's skin was ripped off by the Hydra
+[16Mar2025 16:08:05.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2275, y:0, z:-124384, dim:twilightforest:twilight_forest]
+[16Mar2025 16:08:05.597] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:08:06.937] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 16:09:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was roasted alive by the Hydra
+[16Mar2025 16:09:03.283] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2282, y:0, z:-124383, dim:twilightforest:twilight_forest]
+[16Mar2025 16:09:03.294] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:09:04.956] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 16:09:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Hydra Slayer]
+[16Mar2025 16:09:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Hydra Slayer]

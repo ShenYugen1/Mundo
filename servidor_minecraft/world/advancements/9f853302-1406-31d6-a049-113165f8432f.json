@@ -7953,6 +7953,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_brick": {
     "criteria": {
       "has_block": "2025-03-16 14:59:46 +0000"
@@ -8025,6 +8031,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/ironwood_leggings": {
     "criteria": {
       "has_item": "2025-03-16 15:01:32 +0000"
@@ -8060,6 +8072,12 @@
       "has_item": "2025-03-16 14:50:02 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-03-16 16:00:53 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
@@ -8256,6 +8274,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:02:59 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
@@ -8408,9 +8432,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-03-16 16:00:53 +0000",
       "kill_lich": "2025-03-16 14:37:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
     "criteria": {
@@ -8424,6 +8449,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-03-16 16:00:53 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-03-16 12:58:40 +0000"
@@ -8433,6 +8464,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-16 16:00:39 +0000"
     },
     "done": true
   },

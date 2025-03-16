@@ -7967,9 +7967,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-03-16 16:02:27 +0000",
       "kill_lich": "2025-03-16 14:37:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -8268,7 +8269,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_meef": "2025-03-16 15:15:14 +0000"
+      "raw_meef": "2025-03-16 15:15:14 +0000",
+      "meef_stroganoff": "2025-03-16 16:02:27 +0000"
     },
     "done": false
   },
@@ -8277,6 +8279,18 @@
       "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:00:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-03-16 16:02:27 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/decorative_mazestone": {
     "criteria": {
