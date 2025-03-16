@@ -8285,3 +8285,29 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 19:12:49.713] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [16Mar2025 19:13:42.101] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [16Mar2025 19:14:06.599] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:14:43.646] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:14:43.646] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:14:43.653] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:14:43.653] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:14:43.668] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:14:43.668] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:15:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 19:16:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5444.500000, -41.500000, -16366.500000]
+[16Mar2025 19:16:43.471] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.471] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.475] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.476] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.497] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.497] [Worker-Main-12/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:16:43.545] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:16:43.647] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:16:44.541] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:16:51.598] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:16:52.985] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:16:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 19:17:18.360] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:17:18.361] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:17:27.212] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:17:27.212] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 19:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 19:18:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
