@@ -8352,3 +8352,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 19:43:22.494] [Worker-Main-16/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (5228, 57, -16113)
 [16Mar2025 19:43:22.494] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5228, y=57, z=-16113}
 [16Mar2025 19:44:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 19:51:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell from a high place
+[16Mar2025 19:51:38.536] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 19:51:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [World Tier: Ascent]
+[16Mar2025 19:52:48.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 332.500000, 253.500000, -15540.500000]

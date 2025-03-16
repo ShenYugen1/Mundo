@@ -3782,12 +3782,13 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_chest": "2025-02-22 18:26:38 +0000",
+      "uncommon_legs": "2025-03-16 19:51:39 +0000",
       "kill_apothic_invader": "2025-02-23 15:55:00 +0000",
       "uncommon_hand": "2025-02-22 19:06:39 +0000",
       "uncommon_helm": "2025-02-22 20:47:01 +0000",
       "uncommon_feet": "2025-02-22 20:46:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:progression/frontier": {
     "criteria": {
@@ -9756,6 +9757,36 @@
     },
     "done": true
   },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-03-16 19:46:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/allthemodium]_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/allthemodium_spell_book_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_apple": {
+    "criteria": {
+      "has_allthemodium_nugget": "2025-03-16 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-03-16 19:49:19 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:loved_by_piglins": {
     "criteria": {
       "armor": "2025-03-16 19:30:19 +0000"
@@ -9765,6 +9796,102 @@
   "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-03-16 19:03:44 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/elemental_legs_to_allthemodium_leggings_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2025-03-16 19:49:19 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/elemental_hat_to_allthemodium_hat_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:nuggets/allthemodium]_nugget": "2025-03-16 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2025-03-16 19:46:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/elemental_chest_to_allthemodium_robes_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthearcanistgear:recipes/combat/elemental_boots_to_allthemodium_boots_smithing": {
+    "criteria": {
+      "allthearcanistgear:has_ingots/allthemodium_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_ingot_from_raw_smelting": {
+    "criteria": {
+      "has_item": "2025-03-16 19:46:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_carrot": {
+    "criteria": {
+      "has_allthemodium_nugget": "2025-03-16 19:47:00 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/allthemodium]_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/raw_allthemodium_block": {
+    "criteria": {
+      "has_raw_allthemodium": "2025-03-16 19:46:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/allthemodium]_ingot": "2025-03-16 19:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-03-16 19:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-03-16 19:48:59 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/allthemodium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / c:ingots/allthemodium]_ingot": "2025-03-16 19:46:56 +0000"
     },
     "done": true
   },
