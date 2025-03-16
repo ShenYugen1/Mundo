@@ -1320,3 +1320,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 12:04:18.375] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [16Mar2025 12:04:30.546] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [16Mar2025 12:04:30.595] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 843 radius, 14 samples
+[16Mar2025 12:09:56.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 10.61790142501809,-0.2262741672787456,8.558026831302413
+[16Mar2025 12:13:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:13:28.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:14:39.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:14:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:14:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
