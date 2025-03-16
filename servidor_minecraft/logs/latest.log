@@ -1287,3 +1287,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 10:36:40.462] [Server thread/INFO] [owo/]: Receiving client config
 [16Mar2025 10:41:52.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Glittering Prizes]
 [16Mar2025 10:46:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 11:09:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[16Mar2025 11:10:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
