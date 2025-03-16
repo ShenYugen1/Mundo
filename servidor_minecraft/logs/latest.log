@@ -7970,3 +7970,74 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 18:12:43.765] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [16Mar2025 18:12:52.035] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [16Mar2025 18:12:52.085] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 197 radius, 1 samples
+[16Mar2025 18:13:14.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
+[16Mar2025 18:13:15.373] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:13:16.268] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 18:13:16.268] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[16Mar2025 18:13:16.268] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:15:34.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:15:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:15:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was killed while trying to hurt Void Blossom
+[16Mar2025 18:15:54.040] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:16:01.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:16:01.861] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:16:03.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5152.500000, -58.500000, -17342.500000]
+[16Mar2025 18:16:10.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5153.500000, -58.500000, -17336.500000]
+[16Mar2025 18:16:38.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:16:38.145] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:16:42.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5153.500000, -58.500000, -17337.500000]
+[16Mar2025 18:17:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:17:10.848] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:17:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5173.500000, -58.500000, -17334.500000]
+[16Mar2025 18:17:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:17:24.140] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:17:46.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:17:46.798] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:18:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:18:02.443] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:18:09.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:18:09.778] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:18:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:18:32.242] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:19:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:19:36.749] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:19:57.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:19:57.601] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:20:03.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5153.500000, -58.500000, -17340.500000]
+[16Mar2025 18:20:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:20:07.343] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:20:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:20:10.256] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:20:17.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5164.500000, -58.500000, -17351.500000]
+[16Mar2025 18:20:23.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:20:23.397] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:20:35.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:20:35.844] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:20:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:20:48.291] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Stack isn't a backpack
+[16Mar2025 18:20:48.295] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:20:52.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5162.500000, -58.500000, -17343.500000]
+[16Mar2025 18:20:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:20:59.196] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:21:05.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5150.500000, -58.500000, -17335.500000]
+[16Mar2025 18:21:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was killed while trying to hurt Void Blossom
+[16Mar2025 18:21:15.692] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:21:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed while trying to hurt Void Blossom
+[16Mar2025 18:21:23.051] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:21:25.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5153.500000, -58.500000, -17336.500000]
+[16Mar2025 18:21:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:21:37.394] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:21:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:21:43.396] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:21:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5161.500000, -58.500000, -17338.500000]
+[16Mar2025 18:22:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was killed while trying to hurt Void Blossom
+[16Mar2025 18:22:02.792] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:22:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5157.500000, -58.500000, -17339.500000]
+[16Mar2025 18:22:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Void Blossom
+[16Mar2025 18:22:09.398] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:22:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5156.500000, -58.500000, -17320.500000]
+[16Mar2025 18:22:26.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:22:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Void Blossom
+[16Mar2025 18:22:35.793] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:22:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5167.500000, -55.500000, -17319.500000]
+[16Mar2025 18:22:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]

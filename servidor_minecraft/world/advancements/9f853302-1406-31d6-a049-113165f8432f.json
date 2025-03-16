@@ -2329,6 +2329,7 @@
       "biomeswevegone:crimson_tundra": "2025-02-22 17:30:57 +0000",
       "biomeswevegone:zelkova_forest": "2025-02-22 20:36:28 +0000",
       "biomeswevegone:temperate_grove": "2025-03-01 20:42:17 +0000",
+      "biomeswevegone:coniferous_forest": "2025-03-16 18:13:18 +0000",
       "biomeswevegone:forgotten_forest": "2025-03-09 16:43:39 +0000",
       "biomeswevegone:aspen_boreal": "2025-03-01 20:39:20 +0000",
       "biomeswevegone:bayou": "2025-03-01 13:06:43 +0000"
@@ -9325,6 +9326,12 @@
   "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-03-16 18:09:17 +0000"
     },
     "done": true
   },
