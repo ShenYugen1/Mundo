@@ -3232,6 +3232,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-22 18:33:32 +0000",
+      "minecraft:blaze": "2025-03-16 16:50:57 +0000",
       "minecraft:skeleton": "2025-02-22 17:36:32 +0000",
       "minecraft:witch": "2025-02-23 17:12:36 +0000",
       "minecraft:husk": "2025-02-22 17:58:14 +0000",
@@ -3240,6 +3241,7 @@
       "minecraft:vindicator": "2025-02-22 18:05:36 +0000",
       "minecraft:silverfish": "2025-02-22 17:52:23 +0000",
       "minecraft:stray": "2025-02-22 18:42:56 +0000",
+      "minecraft:enderman": "2025-03-16 16:48:30 +0000",
       "minecraft:magma_cube": "2025-02-22 22:07:03 +0000",
       "minecraft:spider": "2025-02-22 17:32:22 +0000",
       "minecraft:vex": "2025-02-22 18:07:48 +0000",
@@ -8275,7 +8277,8 @@
     "criteria": {
       "raw_meef": "2025-03-16 15:15:14 +0000",
       "meef_stroganoff": "2025-03-16 16:02:27 +0000",
-      "hydra_chop": "2025-03-16 16:10:55 +0000"
+      "hydra_chop": "2025-03-16 16:10:55 +0000",
+      "experiment_115": "2025-03-16 16:49:36 +0000"
     },
     "done": false
   },
@@ -8468,6 +8471,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-16 16:50:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/dark_log/hollow_dark_log": {
     "criteria": {
       "has_block": "2025-03-16 16:47:38 +0000"
@@ -8570,6 +8579,12 @@
     },
     "done": true
   },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-03-16 16:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
@@ -8582,9 +8597,27 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-03-16 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-16 16:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-16 16:50:59 +0000"
     },
     "done": true
   },

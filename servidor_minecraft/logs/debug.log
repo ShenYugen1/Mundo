@@ -22917,3 +22917,57 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 16:49:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Mystery Meat?]
 [16Mar2025 16:50:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 16:50:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Into Fire]
+[16Mar2025 16:52:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Carminite Golem
+[16Mar2025 16:52:19.288] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2325, y:62, z:-123353, dim:twilightforest:twilight_forest]
+[16Mar2025 16:52:19.291] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:52:20.836] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 16:52:52.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:52:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:53:02.146] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:53:13.423] [Server thread/DEBUG] [mixin/]: Mixing blocks.PistonStructureResolverMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[16Mar2025 16:53:13.423] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[16Mar2025 16:53:13.433] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V doesn't use it's CallbackInfoReturnable
+[16Mar2025 16:53:13.433] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V has 0 override(s) in child classes
+[16Mar2025 16:53:13.433] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks2(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V won't be passed a CallbackInfoReturnable as a result
+[16Mar2025 16:53:13.433] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V doesn't use it's CallbackInfoReturnable
+[16Mar2025 16:53:13.433] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V has 0 override(s) in child classes
+[16Mar2025 16:53:13.434] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:blocks.PistonStructureResolverMixin from mod the_bumblezone->@Inject::bumblezone$pullableOnlyBlocks3(Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/level/block/state/BlockState;)V won't be passed a CallbackInfoReturnable as a result
+[16Mar2025 16:53:53.137] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:53:53.636] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:54:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[16Mar2025 16:54:46.832] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (2068 | 79 | -123276).
+[16Mar2025 16:54:46.832] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Mar2025 16:54:46.832] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[16Mar2025 16:54:46.832] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Mar2025 16:54:46.832] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 2(9) Nodes and 6(0) Rooms
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(7) Nodes and 6(0) Rooms
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Mar2025 16:54:46.833] [Worker-Main-12/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 7(5) Nodes and 6(0) Rooms
+[16Mar2025 16:54:50.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[16Mar2025 16:55:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:55:57.035] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:55:57.135] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:56:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Something Strange in Towerwood]
+[16Mar2025 16:56:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Something Strange in Towerwood]
+[16Mar2025 16:57:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:58:05.893] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:59:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:59:27.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[16Mar2025 16:59:27.390] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2319, y:193, z:-123346, dim:twilightforest:twilight_forest]
+[16Mar2025 16:59:27.390] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 16:59:29.347] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 17:00:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was scalded by fiery tears
+[16Mar2025 17:00:06.941] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2315, y:203, z:-123322, dim:twilightforest:twilight_forest]
+[16Mar2025 17:00:06.948] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 17:00:08.432] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 17:00:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2305.500000, 227.500000, -123326.500000]
+[16Mar2025 17:00:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[16Mar2025 17:00:30.088] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 17:00:31.168] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 17:00:36.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2305.500000, 198.500000, -123326.500000]
+[16Mar2025 17:00:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 17:00:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 17:01:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]

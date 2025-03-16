@@ -7813,3 +7813,29 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 16:49:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Mystery Meat?]
 [16Mar2025 16:50:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 16:50:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Into Fire]
+[16Mar2025 16:52:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Carminite Golem
+[16Mar2025 16:52:19.291] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 16:52:52.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:52:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:53:53.137] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:53:53.636] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:54:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[16Mar2025 16:54:50.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[16Mar2025 16:55:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:55:57.035] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:55:57.135] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:56:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Something Strange in Towerwood]
+[16Mar2025 16:56:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Something Strange in Towerwood]
+[16Mar2025 16:57:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:59:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:59:27.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[16Mar2025 16:59:27.390] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 17:00:06.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was scalded by fiery tears
+[16Mar2025 17:00:06.948] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 17:00:28.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2305.500000, 227.500000, -123326.500000]
+[16Mar2025 17:00:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 fell from a high place
+[16Mar2025 17:00:30.088] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 17:00:36.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2305.500000, 198.500000, -123326.500000]
+[16Mar2025 17:00:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 17:00:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 17:01:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]

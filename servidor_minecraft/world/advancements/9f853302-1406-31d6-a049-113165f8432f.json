@@ -7426,6 +7426,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "towerwood": "2025-03-16 16:52:36 +0000",
       "thorn_rose": "2025-03-02 15:03:29 +0000"
     },
     "done": false
@@ -9070,9 +9071,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-03-16 16:52:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
       "has_item": "2025-03-16 16:36:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-03-16 16:52:36 +0000"
     },
     "done": true
   },
@@ -9100,6 +9113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-16 16:49:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:39:36 +0000"
@@ -9115,6 +9134,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-03-16 16:56:47 +0000"
     },
     "done": true
   },
