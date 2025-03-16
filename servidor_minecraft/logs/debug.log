@@ -15586,3 +15586,33 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 12:36:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [16Mar2025 12:36:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
 [16Mar2025 12:36:29.099] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:38:12.368] [Worker-Main-10/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2049, y=70, z=-15904} with deep BlockPos{x=-2049, y=-59, z=-15904}
+[16Mar2025 12:38:24.457] [Worker-Main-10/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2012, y=77, z=-15578} with deep BlockPos{x=-2012, y=-62, z=-15578}
+[16Mar2025 12:38:29.335] [Worker-Main-10/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2049, y=66, z=-15569} with deep BlockPos{x=-2049, y=-60, z=-15569}
+[16Mar2025 12:39:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:39:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:40:49.863] [Worker-Main-10/DEBUG] [oritech/]: placing resource node at BlockPos{x=-1606, y=79, z=-15675} with deep BlockPos{x=-1606, y=-60, z=-15675}
+[16Mar2025 12:41:29.135] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:42:02.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 12:43:16.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 12:44:15.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 12:44:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 12:44:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:44:58.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:45:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Strong or Careful]
+[16Mar2025 12:45:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Stalker
+[16Mar2025 12:45:52.856] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:-1756, y:-51, z:-15874, dim:minecraft:overworld]
+[16Mar2025 12:45:52.871] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 12:45:57.163] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 12:46:10.190] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[16Mar2025 12:46:10.190] [Server thread/DEBUG] [mixin/]: the_bumblezone-common.mixins.json:gameplay.CooldownInstanceAccessor from mod the_bumblezone: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[16Mar2025 12:46:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Warden
+[16Mar2025 12:46:25.487] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-1853, y:-48, z:-15964, dim:minecraft:overworld]
+[16Mar2025 12:46:25.495] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 12:46:27.613] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 12:46:29.109] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:46:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Warden
+[16Mar2025 12:46:49.487] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:-1853, y:-48, z:-15964, dim:minecraft:overworld]
+[16Mar2025 12:46:49.503] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 12:46:51.479] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 12:47:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
