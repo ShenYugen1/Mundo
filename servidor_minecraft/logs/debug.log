@@ -21653,3 +21653,50 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [16Mar2025 16:20:11.817] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
 [16Mar2025 16:20:23.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2311.500000, -15.500000, -123699.500000]
 [16Mar2025 16:20:38.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:21:54.151] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:22:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:22:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:24:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:24:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:24:53.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:25:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 16:25:29.023] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 16:25:29.055] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 16:25:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 16:25:29.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15888ms or 317 ticks behind
+[16Mar2025 16:26:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the Knight Phantom's haunt
+[16Mar2025 16:26:57.291] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2278, y:-8, z:-123660, dim:twilightforest:twilight_forest]
+[16Mar2025 16:26:57.294] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 16:26:58.540] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 16:27:09.988] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:27:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2281.500000, -7.500000, -123659.500000]
+[16Mar2025 16:27:41.296] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.296] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.324] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.324] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.896] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.896] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.896] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.921] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:27:41.922] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.426] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.426] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.427] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.427] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.426] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:00.494] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:28:13.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Magic Writing]
+[16Mar2025 16:28:14.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:28:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Back to childhood]
+[16Mar2025 16:28:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Not even afraid of death]
+[16Mar2025 16:28:44.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Strong Undead]
+[16Mar2025 16:28:46.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Your First Receptacle]
+[16Mar2025 16:28:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Carminite Acclimation]
+[16Mar2025 16:28:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Carminite Acclimation]
+[16Mar2025 16:30:13.415] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:13.415] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:13.415] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:13.416] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:13.416] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:13.458] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:30:42.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]

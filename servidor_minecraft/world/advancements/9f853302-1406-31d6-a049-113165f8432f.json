@@ -8537,6 +8537,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 16:26:09 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"

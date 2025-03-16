@@ -8276,77 +8276,48 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_brick": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/decorative_mazestone": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/cut_mazestone": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_mosaic": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "twilightforest:maze_map": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "maze_map": "2025-03-16 15:54:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "has_trophy": "2025-03-16 16:00:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "twilightforest:progress_hydra": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
+      "was_in_fight": "2025-03-16 16:09:54 +0000",
+      "stroganoff": "2025-03-16 16:02:27 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 16:17:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_merge": {
     "criteria": {
@@ -8354,9 +8325,9 @@
     },
     "done": false
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_brick": {
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
-      "has_block": "2025-03-16 15:27:26 +0000"
+      "has_trophy": "2025-03-16 16:10:08 +0000"
     },
     "done": true
   },
@@ -8372,46 +8343,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/hydra_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 16:10:08 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
     "criteria": {
       "has_item": "2025-03-16 16:10:17 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2025-03-16 16:15:52 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 16:00:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_hydra": {
-    "criteria": {
-      "was_in_fight": "2025-03-16 16:09:54 +0000",
-      "stroganoff": "2025-03-16 16:02:27 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
     "criteria": {
       "has_item": "2025-03-16 16:10:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/decorative_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
   },
@@ -8427,27 +8367,45 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/cut_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:27:26 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/fiery_iron_chestplate": {
     "criteria": {
       "has_item": "2025-03-16 16:10:17 +0000"
     },
     "done": true
   },
-  "twilightforest:maze_map": {
+  "twilightforest:progress_knights": {
     "criteria": {
-      "maze_map": "2025-03-16 15:54:54 +0000"
+      "previous_progression": "2025-03-16 16:15:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:21:27 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_mosaic": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "has_block": "2025-03-16 15:27:26 +0000"
+      "has_any_ingredient": "2025-03-16 16:21:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-03-16 16:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:21:27 +0000"
     },
     "done": true
   },
