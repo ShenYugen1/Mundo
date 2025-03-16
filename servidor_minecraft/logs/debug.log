@@ -17475,3 +17475,18 @@ Total weight after counterweights: 10002
 [16Mar2025 13:58:46.042] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2166, y:1, z:-124322, dim:twilightforest:twilight_forest]
 [16Mar2025 13:58:46.050] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [16Mar2025 13:58:49.941] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 14:01:35.746] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:02:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2218.500000, 18.500000, -124249.500000]
+[16Mar2025 14:02:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2211.500000, 12.500000, -124262.500000]
+[16Mar2025 14:03:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2219.500000, 3.500000, -124264.500000]
+[16Mar2025 14:03:35.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 starved to death
+[16Mar2025 14:03:35.291] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2198, y:4, z:-124215, dim:twilightforest:twilight_forest]
+[16Mar2025 14:03:35.296] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:03:37.564] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 14:04:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2184.500000, 5.500000, -124200.500000]
+[16Mar2025 14:06:35.754] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:11:35.751] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:16:10.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! -1.6637760844184868,-13.58456398739282,0.4521283212961862
+[16Mar2025 14:16:35.755] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:17:31.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[16Mar2025 14:17:40.929] [Worker-Main-13/DEBUG] [twilightforest/]: Compiling Stalactite configs for yeti_cave type
