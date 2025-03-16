@@ -7986,6 +7986,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-03-16 14:22:41 +0000"
@@ -7998,11 +8004,29 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-16 14:51:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
@@ -8019,6 +8043,12 @@
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/combat/yellow_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
     },
     "done": true
   },
@@ -8121,6 +8151,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
@@ -8136,6 +8172,12 @@
   "deeperdarker:recipes/misc/resonarium_plate": {
     "criteria": {
       "has_resonarium": "2025-03-16 13:13:35 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
     },
     "done": true
   },
@@ -8385,15 +8427,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 14:51:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-03-16 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-16 14:47:25 +0000"
     },
     "done": true
   },
@@ -8417,9 +8477,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-03-16 14:37:21 +0000"
+      "previous_progression": "2025-03-16 14:37:21 +0000",
+      "was_in_fight": "2025-03-16 14:51:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
@@ -8454,6 +8515,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
     },
     "done": true
   },
