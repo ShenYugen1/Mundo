@@ -7358,7 +7358,8 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "sculk_leech": "2025-03-09 16:52:52 +0000",
-      "warden": "2025-03-16 12:55:04 +0000"
+      "warden": "2025-03-16 12:55:04 +0000",
+      "angler_fish": "2025-03-16 13:13:55 +0000"
     },
     "done": false
   },
@@ -7416,6 +7417,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-03-16 13:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-03-16 12:42:57 +0000"
@@ -7440,9 +7447,21 @@
     },
     "done": true
   },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "blooming_caverns": "2025-03-16 13:10:54 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-03-16 12:55:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-03-16 13:13:24 +0000"
     },
     "done": true
   },
@@ -7533,6 +7552,12 @@
   "bhc:recipes/misc/blue_heart_canister": {
     "criteria": {
       "has_heart": "2025-03-16 12:55:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-03-16 13:12:31 +0000"
     },
     "done": true
   },
