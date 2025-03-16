@@ -22883,3 +22883,37 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 16:40:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [16Mar2025 16:40:56.982] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
 [16Mar2025 16:41:33.783] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[16Mar2025 16:41:41.882] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[16Mar2025 16:41:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Take Aim]
+[16Mar2025 16:42:06.181] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[16Mar2025 16:42:14.881] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[16Mar2025 16:42:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Clear Skies]
+[16Mar2025 16:42:25.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Clear Skies]
+[16Mar2025 16:42:58.393] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:43:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:44:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:45:04.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved too quickly! 6.201088363013696E-4,14.861479537286492,-1.414535133066238
+[16Mar2025 16:45:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2362.500000, 15.500000, -123353.500000]
+[16Mar2025 16:45:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:45:50.084] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:45:51.804] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:45:51.942] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 16:47:45.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 16:47:46.126] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (2068 | 79 | -123276).
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 4(0) Rooms
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 2(9) Nodes and 6(0) Rooms
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(7) Nodes and 6(0) Rooms
+[16Mar2025 16:47:46.127] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Mar2025 16:47:46.128] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 7(5) Nodes and 6(0) Rooms
+[16Mar2025 16:47:49.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
+[16Mar2025 16:48:02.157] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 16:48:42.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:49:23.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:49:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Mystery Meat?]
+[16Mar2025 16:50:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 16:50:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Into Fire]
