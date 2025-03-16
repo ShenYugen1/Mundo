@@ -7942,51 +7942,45 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_mosaic": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
-      "has_block": "2025-03-16 15:02:15 +0000"
+      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
-      "otherside": "2025-03-16 13:10:54 +0000"
+      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "minecraft:oritech/resource_node": {
     "criteria": {
-      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
+      "found_resource_node": "2025-03-16 10:41:52 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_brick": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
+      "has_copper_ore": "2025-03-16 11:50:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+      "has_copper_ore": "2025-03-16 11:50:03 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+      "has_coal_ore": "2025-03-16 11:50:17 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_item": "2025-03-16 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+      "has_coal_ore": "2025-03-16 11:50:17 +0000"
     },
     "done": true
   },
@@ -7996,124 +7990,45 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_border": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
-      "has_block": "2025-03-16 15:02:43 +0000"
+      "has_lapis_ore": "2025-03-16 11:50:47 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/equipment/ironwood_hoe": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
+      "deep_dark": "2025-03-16 11:51:36 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+      "has_warden_carapace": "2025-03-16 12:01:59 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "minecraft:recipes/misc/raw_copper": {
     "criteria": {
-      "hydra": "2025-03-16 16:09:54 +0000"
+      "has_raw_copper_block": "2025-03-16 12:43:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-03-16 12:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
-      "has_item": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-16 16:16:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/ironwood_leggings": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_iron_helmet": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-03-16 14:22:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/cut_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:02:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/ironwood_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/naga_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-16 14:32:28 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:02 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "meef_stroganoff": "2025-03-16 16:00:53 +0000",
-      "hydra_chop": "2025-03-16 16:12:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-03-16 15:08:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2025-03-16 14:59:25 +0000"
-    },
-    "done": true
-  },
-  "bhc:recipes/misc/yellow_heart_melted_from_smelting": {
-    "criteria": {
-      "has_heart": "2025-03-16 14:51:23 +0000"
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
     },
     "done": true
   },
@@ -8123,39 +8038,77 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_iron_leggings": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2025-03-16 14:51:21 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_mosaic": {
-    "criteria": {
-      "has_block": "2025-03-16 15:02:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/hydra_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 16:10:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting": {
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-03-16 13:10:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-03-16 13:22:34 +0000",
+      "blooming_caverns": "2025-03-16 13:10:54 +0000",
+      "echoing_forest": "2025-03-16 13:17:06 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/bloom_planks": {
+    "criteria": {
+      "has_logs": "2025-03-16 13:12:31 +0000"
     },
     "done": true
   },
@@ -8165,52 +8118,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/ironwood_boots": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
-  "bhc:recipes/combat/yellow_heart_patch": {
-    "criteria": {
-      "has_heart": "2025-03-16 14:51:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "was_in_fight": "2025-03-16 14:37:21 +0000",
-      "kill_naga": "2025-03-16 14:30:03 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smoked_meef": {
-    "criteria": {
-      "has_food": "2025-03-16 14:59:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
-    "criteria": {
-      "has_item": "2025-03-16 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
     },
     "done": true
   },
@@ -8226,39 +8136,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2025-03-16 16:15:52 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-03-16 15:00:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_mosaic": {
-    "criteria": {
-      "has_block": "2025-03-16 15:12:55 +0000"
     },
     "done": true
   },
@@ -8268,143 +8148,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-03-16 13:22:34 +0000",
-      "blooming_caverns": "2025-03-16 13:10:54 +0000",
-      "echoing_forest": "2025-03-16 13:17:06 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/decorative_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-03-16 14:24:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 15:02:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2025-03-16 14:30:03 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_sculk_bone": "2025-03-16 13:25:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 16:02:59 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:02 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/resonarium_plate": {
-    "criteria": {
-      "has_resonarium": "2025-03-16 13:13:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone/cut_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:12:55 +0000"
-    },
-    "done": true
-  },
-  "bhc:recipes/misc/yellow_heart_canister": {
-    "criteria": {
-      "has_heart": "2025-03-16 14:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-03-16 11:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:oritech/resource_node": {
-    "criteria": {
-      "found_resource_node": "2025-03-16 10:41:52 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map": {
-    "criteria": {
-      "has_item": "2025-03-16 14:24:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 14:38:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-03-16 11:50:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-03-16 13:37:22 +0000"
     },
     "done": true
   },
@@ -8414,132 +8160,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-03-16 11:51:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_brick": {
-    "criteria": {
-      "has_block": "2025-03-16 15:12:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-03-16 14:37:21 +0000",
-      "trophy_pedestal": "2025-03-16 16:15:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-16 16:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-03-16 11:50:03 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "kobold": "2025-03-16 14:22:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-03-16 14:26:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "meef": "2025-03-16 16:00:53 +0000",
-      "kill_lich": "2025-03-16 14:37:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 15:11:42 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_hydra": {
-    "criteria": {
-      "was_in_fight": "2025-03-16 16:09:54 +0000",
-      "stroganoff": "2025-03-16 16:00:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-03-16 12:58:40 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-03-16 16:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-03-16 13:37:49 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_venison": {
-    "criteria": {
-      "has_the_recipe": "2025-03-16 16:26:09 +0000"
     },
     "done": true
   },
@@ -8549,117 +8172,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 15:12:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-03-16 16:16:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_left": {
-    "criteria": {
-      "has_block": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-03-16 12:01:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_block": "2025-03-16 14:29:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/ironwood_sword": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-03-16 11:50:17 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
-    "criteria": {
-      "has_block": "2025-03-16 15:11:42 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-03-16 14:59:25 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/ironwood_pickaxe": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/ironwood_helmet": {
-    "criteria": {
-      "has_item": "2025-03-16 15:01:32 +0000"
     },
     "done": true
   },
@@ -8681,18 +8202,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
-    "criteria": {
-      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
@@ -8705,63 +8214,129 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
-      "has_item": "2025-03-16 14:50:02 +0000"
+      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_brick": {
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
-      "has_block": "2025-03-16 15:02:43 +0000"
+      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/resonarium_plate": {
+    "criteria": {
+      "has_resonarium": "2025-03-16 13:13:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
     },
     "done": true
   },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone/decorative_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:12:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_iron_boots": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 14:51:33 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-03-16 14:22:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-03-16 14:47:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
-    "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
     },
     "done": true
   },
@@ -8783,9 +8358,162 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
-      "has_block": "2025-03-16 15:11:42 +0000"
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_sculk_bone": "2025-03-16 13:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-03-16 13:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-03-16 13:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-03-16 13:37:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-03-16 13:44:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-03-16 14:22:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-03-16 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-03-16 14:22:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-03-16 14:24:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-03-16 14:24:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-03-16 14:24:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-03-16 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_block": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_block": "2025-03-16 14:29:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "was_in_fight": "2025-03-16 14:37:21 +0000",
+      "kill_naga": "2025-03-16 14:30:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-16 14:30:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/naga_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 14:32:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/naga_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 14:32:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-16 14:37:21 +0000",
+      "trophy_pedestal": "2025-03-16 16:15:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-03-16 16:00:53 +0000",
+      "kill_lich": "2025-03-16 14:37:21 +0000"
     },
     "done": true
   },
@@ -8796,15 +8524,171 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
+  "twilightforest:recipes/misc/naga_banner_pattern": {
     "criteria": {
-      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+      "has_trophy": "2025-03-16 14:38:11 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+      "stone_pickaxe": "2025-03-16 14:47:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-03-16 14:51:21 +0000"
+    },
+    "done": false
+  },
+  "bhc:recipes/misc/yellow_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/combat/yellow_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:51:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 14:51:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:59:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:59:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:59:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/cut_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-03-16 15:00:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/ironwood_hoe": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/ironwood_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/ironwood_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/ironwood_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/ironwood_sword": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/ironwood_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/ironwood_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:32 +0000"
     },
     "done": true
   },
@@ -8820,45 +8704,33 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_mosaic": {
     "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+      "has_block": "2025-03-16 15:02:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
     "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
+      "has_item": "2025-03-16 15:02:15 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
     "criteria": {
-      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
+      "has_item": "2025-03-16 15:02:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/decorative_mazestone": {
     "criteria": {
-      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
+      "has_block": "2025-03-16 15:02:15 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_border": {
     "criteria": {
-      "has_item": "2025-03-16 14:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-16 16:16:25 +0000"
+      "has_block": "2025-03-16 15:02:15 +0000"
     },
     "done": true
   },
@@ -8868,39 +8740,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_border": {
     "criteria": {
-      "has_blaze_rod": "2025-03-16 15:08:25 +0000"
+      "has_block": "2025-03-16 15:02:43 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_iron_chestplate": {
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/cut_mazestone": {
     "criteria": {
-      "has_item": "2025-03-16 16:10:09 +0000"
+      "has_block": "2025-03-16 15:02:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_mosaic": {
     "criteria": {
-      "has_dye_tag": "2025-03-16 13:37:26 +0000"
+      "has_block": "2025-03-16 15:02:43 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/decorative_mazestone": {
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_brick": {
     "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/naga_leggings": {
-    "criteria": {
-      "has_item": "2025-03-16 14:32:28 +0000"
+      "has_block": "2025-03-16 15:02:43 +0000"
     },
     "done": true
   },
@@ -8910,63 +8770,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_cod": "2025-03-16 16:16:25 +0000"
+      "blaze_rod": "2025-03-16 15:08:25 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_block": "2025-03-16 15:11:42 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/gloomslate": {
-    "criteria": {
-      "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/cut_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-03-16 14:24:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:maze_map": {
-    "criteria": {
-      "maze_map": "2025-03-16 15:42:06 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/bloom_planks": {
-    "criteria": {
-      "has_logs": "2025-03-16 13:12:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2025-03-16 13:44:05 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2025-03-16 12:43:37 +0000"
+      "has_blaze_rod": "2025-03-16 15:08:25 +0000"
     },
     "done": true
   },
@@ -8976,15 +8788,241 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/cut_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/ore_map": {
     "criteria": {
       "has_item": "2025-03-16 15:41:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "twilightforest:maze_map": {
     "criteria": {
-      "has_lapis_ore": "2025-03-16 11:50:47 +0000"
+      "maze_map": "2025-03-16 15:42:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-16 16:00:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-03-16 16:00:53 +0000",
+      "maze_wafer": "2025-03-16 16:35:43 +0000",
+      "hydra_chop": "2025-03-16 16:12:47 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "was_in_fight": "2025-03-16 16:09:54 +0000",
+      "stroganoff": "2025-03-16 16:00:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:02:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-03-16 16:09:54 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:10:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-03-16 16:28:51 +0000",
+      "previous_progression": "2025-03-16 16:15:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-03-16 16:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_the_recipe": "2025-03-16 16:26:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 16:28:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-03-16 16:28:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-03-16 16:28:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-16 16:37:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-03-16 16:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-16 16:37:48 +0000"
     },
     "done": true
   },

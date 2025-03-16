@@ -8375,9 +8375,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-03-16 16:28:51 +0000",
       "previous_progression": "2025-03-16 16:15:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
@@ -8391,12 +8392,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-03-16 16:21:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-03-16 16:21:27 +0000"
@@ -8406,6 +8401,132 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-16 16:21:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-03-16 16:21:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-16 16:28:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-16 16:28:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-16 16:28:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-03-16 16:28:51 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-16 16:35:18 +0000"
     },
     "done": true
   },
