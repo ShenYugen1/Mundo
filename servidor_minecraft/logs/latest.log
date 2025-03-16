@@ -8311,3 +8311,9 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 19:17:27.212] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [16Mar2025 19:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [16Mar2025 19:18:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[16Mar2025 19:32:19.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Timed out
+[16Mar2025 19:32:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[16Mar2025 19:33:32.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:54609] logged in with entity id 230733 at (338.7902302580872, 146.0, -15541.46947192632)
+[16Mar2025 19:33:32.767] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 19:33:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 19:33:34.181] [Server thread/INFO] [owo/]: Receiving client config
