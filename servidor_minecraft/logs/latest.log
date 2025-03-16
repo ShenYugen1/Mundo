@@ -1425,3 +1425,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 13:26:37.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 13:28:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 13:28:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 13:30:27.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Timed out
+[16Mar2025 13:30:27.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[16Mar2025 13:30:27.234] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Mar2025 13:34:19.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:34417] logged in with entity id 40174 at (-2477.4187972340037, 28.92159999847412, -15884.987704214434)
+[16Mar2025 13:34:19.754] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 13:34:19.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 13:34:21.283] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 13:34:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 13:35:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1785.500000, 60.500000, -15938.500000]
+[16Mar2025 13:36:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 13:36:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
