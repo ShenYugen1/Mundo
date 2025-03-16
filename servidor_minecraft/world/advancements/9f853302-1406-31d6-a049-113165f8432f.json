@@ -2510,6 +2510,7 @@
       "bread": "2025-03-01 20:33:49 +0000",
       "honey_bottle": "2025-03-01 21:39:51 +0000",
       "rotten_flesh": "2025-02-22 17:30:19 +0000",
+      "enchanted_golden_apple": "2025-03-16 16:09:45 +0000",
       "cooked_mutton": "2025-02-22 17:57:09 +0000",
       "pumpkin_pie": "2025-02-22 18:57:30 +0000"
     },
@@ -8013,6 +8014,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-03-16 16:09:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
@@ -8031,6 +8038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-16 16:00:39 +0000"
@@ -8040,6 +8053,12 @@
   "twilightforest:recipes/combat/equipment/ironwood_leggings": {
     "criteria": {
       "has_item": "2025-03-16 15:01:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
     },
     "done": true
   },
@@ -8075,7 +8094,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "meef_stroganoff": "2025-03-16 16:00:53 +0000"
+      "meef_stroganoff": "2025-03-16 16:00:53 +0000",
+      "hydra_chop": "2025-03-16 16:12:47 +0000"
     },
     "done": false
   },
@@ -8103,6 +8123,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2025-03-16 14:51:21 +0000"
@@ -8112,6 +8138,12 @@
   "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_mosaic": {
     "criteria": {
       "has_block": "2025-03-16 15:02:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 16:10:23 +0000"
     },
     "done": true
   },
@@ -8193,6 +8225,18 @@
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-03-16 16:15:52 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
@@ -8402,9 +8446,16 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-03-16 14:37:21 +0000"
+      "kill_lich": "2025-03-16 14:37:21 +0000",
+      "trophy_pedestal": "2025-03-16 16:15:52 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
@@ -8451,9 +8502,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "was_in_fight": "2025-03-16 16:09:54 +0000",
       "stroganoff": "2025-03-16 16:00:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
@@ -8503,6 +8555,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-03-16 16:16:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_left": {
     "criteria": {
       "has_block": "2025-03-16 14:29:04 +0000"
@@ -8530,6 +8588,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-16 11:50:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
     },
     "done": true
   },
@@ -8659,6 +8723,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fiery_iron_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-03-16 14:51:33 +0000"
@@ -8680,6 +8750,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-16 14:47:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
     },
     "done": true
   },
@@ -8774,6 +8850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/cut_mazestone": {
     "criteria": {
       "has_block": "2025-03-16 15:02:15 +0000"
@@ -8783,6 +8865,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-16 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 16:10:09 +0000"
     },
     "done": true
   },
@@ -8813,6 +8901,12 @@
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2025-03-16 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-16 16:16:25 +0000"
     },
     "done": true
   },
