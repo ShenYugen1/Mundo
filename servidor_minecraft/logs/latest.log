@@ -5045,3 +5045,37 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 14:37:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Bring Out Your Dead]
 [16Mar2025 14:37:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Bring Out Your Dead]
 [16Mar2025 14:37:21.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [Strong Undead]
+[16Mar2025 14:39:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was killed by Diego77 using magic
+[16Mar2025 14:39:44.653] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 14:41:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Skeleton
+[16Mar2025 14:41:18.396] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:41:30.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 2680.500000, 4.500000, -123956.500000]
+[16Mar2025 14:42:32.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Skeleton
+[16Mar2025 14:42:32.495] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:42:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was shot by Skeleton
+[16Mar2025 14:42:46.792] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:43:02.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2796.500000, 4.500000, -123612.500000]
+[16Mar2025 14:43:30.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:45:49.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:47:25.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Getting an Upgrade]
+[16Mar2025 14:47:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:47:45.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:47:49.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Mist Wolf
+[16Mar2025 14:47:49.939] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:48:11.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Disconnected
+[16Mar2025 14:48:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[16Mar2025 14:49:09.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 13.10576430613537,3.024500536390077,5.780855076853186
+[16Mar2025 14:49:15.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! 13.206565277409027,1.4217132678266786,1.8452770293952199
+[16Mar2025 14:49:16.941] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:16.941] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:16.941] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:17.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:50405] logged in with entity id 93172 at (343.5, 147.5, -15545.5)
+[16Mar2025 14:49:17.962] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 14:49:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 14:49:19.468] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:19.468] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:19.468] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:19.517] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 14:49:28.646] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:28.646] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:49:28.646] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]

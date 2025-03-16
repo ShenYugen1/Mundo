@@ -8024,9 +8024,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "was_in_fight": "2025-03-16 14:37:21 +0000",
       "kill_naga": "2025-03-16 14:30:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
@@ -8162,6 +8163,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 14:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-16 11:50:17 +0000"
@@ -8198,6 +8205,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-03-16 14:37:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-16 11:50:03 +0000"
@@ -8221,6 +8234,12 @@
       "magic_map": "2025-03-16 14:26:42 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-03-16 14:37:21 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
@@ -8395,6 +8414,12 @@
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-03-16 14:37:21 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
