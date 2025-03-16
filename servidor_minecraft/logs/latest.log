@@ -8041,3 +8041,20 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 18:22:35.793] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
 [16Mar2025 18:22:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5167.500000, -55.500000, -17319.500000]
 [16Mar2025 18:22:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:23:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5122.500000, -1.500000, -17340.500000]
+[16Mar2025 18:25:00.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:25:34.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:26:19.440] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 18:26:19.511] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 1014 radius, 22 samples
+[16Mar2025 18:26:46.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:27:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Zombie
+[16Mar2025 18:27:33.046] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:28:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:28:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:30:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Under Lock and Key]
+[16Mar2025 18:33:07.375] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:33:07.382] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:33:20.718] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 18:33:20.719] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[16Mar2025 18:33:20.719] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:33:20.901] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'

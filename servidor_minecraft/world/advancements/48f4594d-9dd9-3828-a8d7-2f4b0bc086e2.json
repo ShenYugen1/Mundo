@@ -3241,6 +3241,7 @@
       "minecraft:hoglin": "2025-02-22 23:07:15 +0000",
       "minecraft:cave_spider": "2025-02-22 19:26:20 +0000",
       "minecraft:vindicator": "2025-02-22 18:05:36 +0000",
+      "minecraft:breeze": "2025-03-16 18:28:20 +0000",
       "minecraft:silverfish": "2025-02-22 17:52:23 +0000",
       "minecraft:stray": "2025-02-22 18:42:56 +0000",
       "minecraft:enderman": "2025-03-16 16:48:30 +0000",
@@ -8460,6 +8461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
@@ -8481,6 +8488,12 @@
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-03-16 17:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
     },
     "done": true
   },
@@ -8514,6 +8527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
@@ -8535,6 +8554,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 18:28:21 +0000"
     },
     "done": true
   },
@@ -8676,15 +8701,57 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-03-16 18:30:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:35:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-03-16 18:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-16 18:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-16 18:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
     },
     "done": true
   },
@@ -8733,6 +8800,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-16 18:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-16 18:26:22 +0000"
     },
     "done": true
   },

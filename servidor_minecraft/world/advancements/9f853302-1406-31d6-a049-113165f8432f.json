@@ -9101,6 +9101,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_1": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_2": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_3": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_limited_barrel_4": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9197,6 +9221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9269,6 +9299,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9278,6 +9320,12 @@
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_ghast_tear": "2025-03-16 17:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
     },
     "done": true
   },
@@ -9425,6 +9473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9446,6 +9500,12 @@
   "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
     },
     "done": true
   },
@@ -9491,6 +9551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9512,6 +9578,12 @@
   "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
     },
     "done": true
   },
@@ -9545,6 +9617,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/bamboo_barrel": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
@@ -9554,6 +9638,12 @@
   "undergarden:recipes/transportation/wigglewood_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:27:09 +0000"
     },
     "done": true
   },
