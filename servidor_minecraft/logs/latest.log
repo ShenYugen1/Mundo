@@ -1289,3 +1289,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 10:46:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [16Mar2025 11:09:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
 [16Mar2025 11:10:46.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 11:45:54.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:40481] logged in with entity id 7251 at (343.5, 147.5, -15545.5)
+[16Mar2025 11:45:55.040] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 11:45:55.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 11:45:56.314] [Server thread/INFO] [owo/]: Receiving client config

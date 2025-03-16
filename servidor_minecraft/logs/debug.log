@@ -15456,3 +15456,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 11:26:29.092] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Mar2025 11:31:29.071] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Mar2025 11:36:29.074] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 11:41:29.070] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 11:45:53.340] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@657f27b3 into net.minecraft.network.Connection@207da578
+[16Mar2025 11:45:53.981] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[16Mar2025 11:45:54.874] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@111787bd into net.minecraft.network.Connection@207da578
+[16Mar2025 11:45:54.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:40481] logged in with entity id 7251 at (343.5, 147.5, -15545.5)
+[16Mar2025 11:45:55.040] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 11:45:55.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 11:45:55.067] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2)
+[16Mar2025 11:45:56.314] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 11:46:29.098] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
