@@ -7935,6 +7935,12 @@
     },
     "done": true
   },
+  "minecraft:oritech/resource_node": {
+    "criteria": {
+      "found_resource_node": "2025-03-16 10:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
