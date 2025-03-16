@@ -8317,3 +8317,38 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 19:33:32.767] [Server thread/INFO] [owo/]: Sending server config values to client
 [16Mar2025 19:33:32.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
 [16Mar2025 19:33:34.181] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 19:34:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5444.500000, -41.500000, -16366.500000]
+[16Mar2025 19:34:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 19:35:41.775] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:35:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 19:35:59.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Quite the Renovation]
+[16Mar2025 19:36:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[16Mar2025 19:36:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5444.500000, -41.500000, -16366.500000]
+[16Mar2025 19:38:07.933] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:38:13.751] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:38:13.752] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:38:13.756] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:38:13.757] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:38:13.771] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:38:13.771] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:39:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 19:39:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5444.500000, -41.500000, -16366.500000]
+[16Mar2025 19:41:16.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Disconnected
+[16Mar2025 19:41:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[16Mar2025 19:42:00.634] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.634] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.639] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.640] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.654] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.654] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Mar2025 19:42:00.733] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:42:37.109] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5228, y=57, z=-16113}
+[16Mar2025 19:42:37.109] [Worker-Main-16/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (5228, 57, -16113)
+[16Mar2025 19:42:37.109] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5228, y=57, z=-16113}
+[16Mar2025 19:42:54.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 19:43:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5341.500000, -50.500000, -16289.500000]
+[16Mar2025 19:43:18.966] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 19:43:22.494] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5228, y=57, z=-16113}
+[16Mar2025 19:43:22.494] [Worker-Main-16/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (5228, 57, -16113)
+[16Mar2025 19:43:22.494] [Worker-Main-16/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=5228, y=57, z=-16113}
+[16Mar2025 19:44:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
