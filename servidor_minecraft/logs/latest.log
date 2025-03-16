@@ -7946,3 +7946,27 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 18:02:23.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was blown up by Night Lich
 [16Mar2025 18:02:23.299] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [16Mar2025 18:02:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 18:03:10.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Phantom
+[16Mar2025 18:03:10.067] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:03:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:03:20.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5126.500000, 82.500000, -17053.500000]
+[16Mar2025 18:03:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 344.500000, 146.500000, -15542.500000]
+[16Mar2025 18:04:39.995] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:04:40.001] [Worker-Main-15/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:05:09.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was blown up by Night Lich
+[16Mar2025 18:05:09.903] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:05:27.989] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:05:27.996] [Worker-Main-16/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
+[16Mar2025 18:06:38.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5150.500000, 83.500000, -17067.500000]
+[16Mar2025 18:08:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Phantom
+[16Mar2025 18:08:26.692] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:08:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5146.500000, 85.500000, -17083.500000]
+[16Mar2025 18:08:39.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was blown up by Night Lich
+[16Mar2025 18:08:39.155] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:09:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Night Vanquisher]
+[16Mar2025 18:10:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:12:00.622] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 18:12:00.633] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 261 radius, 1 samples
+[16Mar2025 18:12:43.765] [Worker-Main-16/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[16Mar2025 18:12:52.035] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 18:12:52.085] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 197 radius, 1 samples

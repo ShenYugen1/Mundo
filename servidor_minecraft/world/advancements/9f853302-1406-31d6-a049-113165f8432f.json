@@ -3881,6 +3881,7 @@
       "minecraft:pillager": "2025-02-22 18:42:01 +0000",
       "minecraft:blaze": "2025-02-23 18:42:25 +0000",
       "minecraft:skeleton": "2025-02-22 19:28:29 +0000",
+      "minecraft:phantom": "2025-03-16 18:07:21 +0000",
       "minecraft:zombified_piglin": "2025-02-22 22:18:36 +0000",
       "minecraft:witch": "2025-02-22 20:45:45 +0000",
       "minecraft:husk": "2025-03-11 20:21:25 +0000",
@@ -7507,6 +7508,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2025-03-16 13:25:45 +0000",
+      "phantom": "2025-03-16 18:07:21 +0000",
       "sculk_leech": "2025-03-09 17:00:06 +0000",
       "angler_fish": "2025-03-16 13:16:32 +0000"
     },

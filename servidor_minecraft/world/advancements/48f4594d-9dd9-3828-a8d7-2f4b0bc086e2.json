@@ -8547,9 +8547,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-16 18:00:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
       "has_item": "2025-03-16 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-16 18:05:15 +0000"
     },
     "done": true
   },
@@ -8571,9 +8583,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-16 18:05:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-03-16 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-16 18:00:45 +0000"
     },
     "done": true
   },
@@ -8667,6 +8691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-16 18:00:45 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2025-03-16 16:56:47 +0000"
@@ -8676,6 +8706,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-16 16:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-16 18:05:15 +0000"
     },
     "done": true
   },
