@@ -17490,3 +17490,1011 @@ Total weight after counterweights: 10002
 [16Mar2025 14:16:35.755] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Mar2025 14:17:31.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
 [16Mar2025 14:17:40.929] [Worker-Main-13/DEBUG] [twilightforest/]: Compiling Stalactite configs for yeti_cave type
+[16Mar2025 14:19:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:20:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 1518.500000, 32.500000, -124139.500000]
+[16Mar2025 14:20:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:21:35.752] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:21:49.049] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:21:49.094] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:21:49.195] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:21:49.195] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:21:51.242] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:22:05.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:22:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [The Silence of the Forest]
+[16Mar2025 14:22:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2263.500000, 0.500000, -124393.500000]
+[16Mar2025 14:22:44.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:22:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:22:59.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77's skin was ripped off by the Hydra
+[16Mar2025 14:22:59.886] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2267, y:0, z:-124377, dim:twilightforest:twilight_forest]
+[16Mar2025 14:22:59.891] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 14:23:01.694] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 14:23:16.782] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.782] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.785] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.786] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.782] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.785] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.787] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.787] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.787] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.788] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:16.787] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen burned to death
+[16Mar2025 14:23:17.604] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2226, y:3, z:-124469, dim:twilightforest:twilight_forest]
+[16Mar2025 14:23:17.605] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 14:23:19.245] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 14:23:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2223.500000, 1.500000, -124323.500000]
+[16Mar2025 14:23:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:23:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 2680.500000, 4.500000, -123956.500000]
+[16Mar2025 14:23:42.683] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:42.699] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:42.997] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:43.153] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:43.360] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:43.360] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:23:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2170.500000, 4.500000, -124218.500000]
+[16Mar2025 14:23:47.493] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=347, y=149, z=-15484}
+[16Mar2025 14:23:54.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:23:57.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved too quickly! -3.148067234481914,-2.4952008770059138,-9.307035414769416
+[16Mar2025 14:23:57.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[16Mar2025 14:24:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [With Fire It Writes]
+[16Mar2025 14:24:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [With Fire It Writes]
+[16Mar2025 14:25:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:26:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: 1 slots of type feet have been added to Diego77]
+[16Mar2025 14:26:37.732] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=2679, y=3, z=-123952}
+[16Mar2025 14:26:38.935] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=2679, y=3, z=-123952}
+[16Mar2025 14:26:39.198] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 14:26:39.395] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:39.409] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:39.431] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:39.728] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:39.745] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:39.745] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:26:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [I Can See Forever]
+[16Mar2025 14:27:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [I Can See Forever]
+[16Mar2025 14:27:30.955] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:30.955] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:30.956] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:30.961] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.122] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.258] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.393] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.393] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.394] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.393] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.432] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.669] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.891] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.891] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.892] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.892] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.893] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:31.976] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.324] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.324] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.324] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.325] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.325] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:32.627] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.023] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.023] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.023] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.024] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.025] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.243] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.285] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.286] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.287] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.288] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.289] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.290] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.290] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.290] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.290] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.293] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.294] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.295] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.296] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.297] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.298] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.299] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.300] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.301] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.302] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.303] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.404] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.404] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.404] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.404] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.406] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.407] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.408] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.409] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.410] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.412] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.413] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.415] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.416] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.418] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.419] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.420] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.421] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.422] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.424] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.425] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.426] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.426] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.426] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.428] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.429] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.430] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.431] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.432] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.437] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.437] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.437] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.437] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.438] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.439] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.440] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.441] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.444] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.445] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.446] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.723] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.724] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.724] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.724] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.724] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.736] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.926] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.927] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.928] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.929] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.930] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.931] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.932] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.933] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.934] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.935] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.936] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.937] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.937] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.937] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.938] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.938] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.939] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:33.940] [Worker-Main-12/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.017] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.018] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.019] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.020] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.021] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.022] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.023] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.024] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.025] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.026] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.027] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.028] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.028] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.028] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.031] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.032] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.034] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.035] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.036] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.036] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.036] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.036] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.037] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.038] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.039] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.039] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.039] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.039] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:27:34.039] [Worker-Main-8/INFO] [twilightforest/]: ComponentTFTowerWing#getRandomWallSpot - We didn't find a valid random spot on the wall.
+[16Mar2025 14:28:02.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:28:21.798] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.798] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.798] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.799] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.799] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.799] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:21.799] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:46.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 14:28:50.305] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.305] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.305] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.306] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.306] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.306] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:50.306] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.089] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.090] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.090] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.090] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.090] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.091] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:28:58.091] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.536] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.536] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.536] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.536] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.537] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.537] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]
+[16Mar2025 14:29:04.537] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.DensityFunctions$TwoArgumentSimpleFunction/]: Creating a MAX function between two non-overlapping inputs: Constant[value=0.0] and Constant[value=0.0]

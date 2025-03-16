@@ -7980,6 +7980,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-03-16 14:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-16 13:09:07 +0000"
@@ -8072,6 +8078,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-03-16 14:24:41 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_sculk_bone": "2025-03-16 13:25:46 +0000"
@@ -8120,6 +8132,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-03-16 14:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-16 11:50:17 +0000"
@@ -8159,6 +8177,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-03-16 11:50:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-03-16 14:22:27 +0000"
     },
     "done": true
   },
@@ -8288,6 +8312,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-03-16 14:22:41 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
@@ -8363,6 +8393,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-03-16 14:24:16 +0000"
     },
     "done": true
   },
