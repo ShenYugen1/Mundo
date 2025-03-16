@@ -7749,27 +7749,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-03-15 16:55:37 +0000"
-    },
-    "done": true
-  },
   "integrateddynamics:meneglin_basics/menril_production": {
     "criteria": {
       "criteria_0": "2025-03-15 16:50:53 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_acacia_plank": "2025-03-15 16:55:37 +0000"
+      "has_planks": "2025-03-15 16:55:37 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
-      "campfire": "2025-03-15 16:59:08 +0000"
+      "has_acacia_plank": "2025-03-15 16:55:37 +0000"
     },
     "done": true
   },
@@ -7788,12 +7782,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-03-15 16:55:37 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:second_age": {
-    "criteria": {
-      "criteria_0": "2025-03-15 17:06:57 +0000"
     },
     "done": true
   },
@@ -7821,18 +7809,6 @@
     },
     "done": true
   },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2025-03-15 17:05:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-03-15 16:58:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-15 16:55:37 +0000"
@@ -7857,27 +7833,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-03-15 17:00:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-15 16:55:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-03-15 16:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-15 17:00:51 +0000"
     },
     "done": true
   },
@@ -7887,9 +7845,51 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-03-15 16:58:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-03-15 16:59:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-15 16:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-15 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-15 17:00:51 +0000"
+    },
+    "done": true
+  },
   "arsdelight:recipes/cooking/cooking/source_berry_jam": {
     "criteria": {
       "has_the_recipe": "2025-03-15 17:03:15 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-03-15 17:05:54 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-03-15 17:06:57 +0000"
     },
     "done": true
   },
