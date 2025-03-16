@@ -19529,3 +19529,27 @@ Total weight after counterweights: 10002
 [16Mar2025 15:07:41.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [16Mar2025 15:08:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
 [16Mar2025 15:08:25.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Into Fire]
+[16Mar2025 15:11:20.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[16Mar2025 15:11:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen blew up
+[16Mar2025 15:11:20.389] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2317, y:-15, z:-124175, dim:twilightforest:twilight_forest]
+[16Mar2025 15:11:20.394] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:11:22.220] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:11:43.849] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:12:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:13:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:16:15.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Maze Slime
+[16Mar2025 15:16:15.137] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2275, y:-13, z:-124171, dim:twilightforest:twilight_forest]
+[16Mar2025 15:16:15.138] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 15:16:16.323] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 15:16:27.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2278.500000, -12.500000, -124168.500000]
+[16Mar2025 15:16:34.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Maze Slime
+[16Mar2025 15:16:34.888] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 15:16:36.763] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage
+[16Mar2025 15:16:43.853] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:16:46.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 2274.500000, -12.500000, -124169.500000]
+[16Mar2025 15:19:33.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:19:49.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[16Mar2025 15:19:57.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was squeezed to death by Pinch Beetle
+[16Mar2025 15:19:57.188] [Server thread/DEBUG] [tombstone/]: A new grave of the player Diego77 was created at position [x:2301, y:-13, z:-124183, dim:twilightforest:twilight_forest]
+[16Mar2025 15:19:57.194] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 15:19:58.389] [Server thread/DEBUG] [twilightforest/]: Player Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2) respawned and received items held in storage

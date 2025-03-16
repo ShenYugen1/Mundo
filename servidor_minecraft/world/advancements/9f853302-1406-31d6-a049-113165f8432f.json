@@ -8058,6 +8058,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-16 15:08:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
       "has_food": "2025-03-16 14:59:25 +0000"
@@ -8185,6 +8191,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-03-16 13:12:43 +0000"
@@ -8271,6 +8283,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/cut_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "bhc:recipes/misc/yellow_heart_canister": {
     "criteria": {
       "has_heart": "2025-03-16 14:51:23 +0000"
@@ -8349,6 +8367,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2025-03-16 14:37:21 +0000"
@@ -8384,6 +8408,12 @@
       "kill_lich": "2025-03-16 14:37:21 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
+    },
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
@@ -8427,6 +8457,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/etched_nagastone/nagastone_stairs_left": {
     "criteria": {
       "has_block": "2025-03-16 14:29:04 +0000"
@@ -8454,6 +8490,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-16 11:50:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
     },
     "done": true
   },
@@ -8571,6 +8613,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:12:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-03-16 14:51:33 +0000"
@@ -8610,6 +8658,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_brick_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-03-16 13:23:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
     },
     "done": true
   },
@@ -8686,6 +8740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-16 15:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-03-16 13:37:26 +0000"
@@ -8707,6 +8767,18 @@
   "twilightforest:recipes/combat/equipment/naga_leggings": {
     "criteria": {
       "has_item": "2025-03-16 14:32:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-16 15:08:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:11:42 +0000"
     },
     "done": true
   },
@@ -8749,6 +8821,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-03-16 12:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-16 15:08:25 +0000"
     },
     "done": true
   },
