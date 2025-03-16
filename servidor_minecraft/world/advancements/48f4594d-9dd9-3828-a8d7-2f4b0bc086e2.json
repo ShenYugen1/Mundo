@@ -8014,6 +8014,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 15:06:43 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-03-16 14:50:12 +0000"
@@ -8029,6 +8101,12 @@
   "twilightforest:recipes/combat/equipment/arctic_leggings": {
     "criteria": {
       "has_item": "2025-03-16 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:58:59 +0000"
     },
     "done": true
   },
@@ -8050,15 +8128,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/yeti_leggings": {
     "criteria": {
       "has_item": "2025-03-16 14:51:34 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:58:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-03-16 15:00:33 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_chestplate": {
     "criteria": {
       "has_item": "2025-03-16 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:58:59 +0000"
     },
     "done": true
   },
@@ -8074,9 +8200,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2025-03-16 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
     },
     "done": true
   },

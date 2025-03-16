@@ -5094,3 +5094,17 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 14:56:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 14:57:34.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
 [16Mar2025 14:58:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 14:59:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was blown up by Creeper
+[16Mar2025 14:59:59.299] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 15:00:06.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 15:01:57.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 moved wrongly!
+[16Mar2025 15:03:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:03:32.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was chopped up by Minotaur
+[16Mar2025 15:03:32.892] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 15:03:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 15:05:00.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 15:05:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 2680.500000, 4.500000, -123956.500000]
+[16Mar2025 15:07:01.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:07:41.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:08:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:08:25.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has made the advancement [Into Fire]
