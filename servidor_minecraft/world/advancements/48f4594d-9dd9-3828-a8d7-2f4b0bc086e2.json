@@ -4225,6 +4225,7 @@
       "minecraft:taiga": "2025-02-22 20:08:06 +0000",
       "minecraft:deep_ocean": "2025-02-22 21:24:14 +0000",
       "minecraft:lush_caves": "2025-03-01 20:36:44 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-16 17:40:33 +0000",
       "minecraft:ice_spikes": "2025-02-23 16:03:39 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:20 +0000",
       "minecraft:frozen_river": "2025-02-22 18:12:58 +0000",
@@ -8522,6 +8523,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 17:47:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/carminite_builder": {
     "criteria": {
       "has_item": "2025-03-16 17:02:52 +0000"
@@ -8537,6 +8544,12 @@
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
       "has_item": "2025-03-16 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-16 17:47:10 +0000"
     },
     "done": true
   },

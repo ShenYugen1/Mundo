@@ -3245,6 +3245,7 @@
       "minecraft:taiga": "2025-02-22 20:08:06 +0000",
       "minecraft:deep_ocean": "2025-02-22 21:23:51 +0000",
       "minecraft:lush_caves": "2025-02-22 20:08:56 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-16 17:40:20 +0000",
       "minecraft:ice_spikes": "2025-02-23 16:03:41 +0000",
       "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
       "minecraft:desert": "2025-03-16 15:39:52 +0000",
@@ -9013,6 +9014,78 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 17:48:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
@@ -9040,6 +9113,12 @@
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-16 17:47:08 +0000"
     },
     "done": true
   },
@@ -9109,9 +9188,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-16 17:43:15 +0000"
     },
     "done": true
   },
@@ -9160,6 +9251,12 @@
   "undergarden:recipes/transportation/grongle_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
     },
     "done": true
   },
@@ -9253,9 +9350,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/carminite_reactor": {
     "criteria": {
       "has_item": "2025-03-16 17:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
     },
     "done": true
   },
@@ -9319,6 +9428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9337,15 +9452,33 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-03-16 17:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-16 16:49:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-16 17:47:08 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-16 17:47:08 +0000"
     },
     "done": true
   },
@@ -9409,6 +9542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-16 17:47:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-16 17:18:21 +0000"
@@ -9442,6 +9581,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-03-16 17:47:11 +0000"
     },
     "done": true
   },
