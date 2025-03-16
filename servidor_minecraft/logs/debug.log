@@ -22992,3 +22992,6 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 17:07:47.431] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=347, y=149, z=-15484}
 [16Mar2025 17:07:54.540] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=347, y=149, z=-15484}
 [16Mar2025 17:08:05.898] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:13:05.895] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:18:05.900] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:18:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Arcane Engineer]
