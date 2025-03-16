@@ -15506,3 +15506,36 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 11:49:27.862] [Worker-Main-9/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
 [16Mar2025 11:51:29.075] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Mar2025 11:56:29.077] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 11:58:10.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 11:59:01.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 130.500000, -31.500000, -15730.500000]
+[16Mar2025 11:59:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:00:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:00:05.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 130.500000, -31.500000, -15730.500000]
+[16Mar2025 12:00:50.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:01:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 130.500000, -31.500000, -15730.500000]
+[16Mar2025 12:01:29.123] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:02:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:03:39.182] [Worker-Main-8/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[16Mar2025 12:03:39.183] [Worker-Main-8/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[16Mar2025 12:03:43.188] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=1106, y=4, z=-14657} with deep BlockPos{x=1106, y=-60, z=-14657}
+[16Mar2025 12:03:48.577] [Worker-Main-9/DEBUG] [oritech/]: placing resource node at BlockPos{x=910, y=72, z=-14634} with deep BlockPos{x=910, y=-60, z=-14634}
+[16Mar2025 12:03:51.986] [Worker-Main-9/DEBUG] [oritech/]: placing resource node at BlockPos{x=1111, y=3, z=-14620} with deep BlockPos{x=1111, y=-61, z=-14620}
+[16Mar2025 12:03:52.010] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:03:52.013] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:03:55.177] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:03:59.482] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 12:03:59.713] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 2498 radius, 54 samples
+[16Mar2025 12:04:05.682] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=976, y=49, z=-14588} with deep BlockPos{x=976, y=-61, z=-14588}
+[16Mar2025 12:04:06.126] [Worker-Main-10/DEBUG] [oritech/]: placing resource node at BlockPos{x=920, y=56, z=-14578} with deep BlockPos{x=920, y=-61, z=-14578}
+[16Mar2025 12:04:06.172] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:08.105] [Worker-Main-9/DEBUG] [oritech/]: placing resource node at BlockPos{x=989, y=48, z=-14575} with deep BlockPos{x=989, y=-61, z=-14575}
+[16Mar2025 12:04:08.689] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:09.106] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:13.874] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:13.876] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:14.451] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -2483.500000, 82.500000, -16396.500000]
+[16Mar2025 12:04:18.375] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 12:04:30.546] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 12:04:30.595] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 843 radius, 14 samples
+[16Mar2025 12:06:29.082] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
