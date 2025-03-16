@@ -8014,117 +8014,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 15:24:44 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_mosaic": {
-    "criteria": {
-      "has_block": "2025-03-16 15:14:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_brick": {
-    "criteria": {
-      "has_block": "2025-03-16 15:10:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
-    "criteria": {
-      "has_item": "2025-03-16 15:14:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 15:14:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
     "criteria": {
       "has_item": "2025-03-16 14:50:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/cut_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 15:14:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/yeti_helmet": {
-    "criteria": {
-      "has_item": "2025-03-16 14:51:34 +0000"
     },
     "done": true
   },
@@ -8134,21 +8026,21 @@
     },
     "done": true
   },
-  "twilightforest:twilight_dinner": {
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
     "criteria": {
-      "raw_meef": "2025-03-16 15:15:14 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2025-03-16 14:58:59 +0000"
+      "has_item": "2025-03-16 14:50:12 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/yeti_chestplate": {
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
-      "has_item": "2025-03-16 14:51:34 +0000"
+      "has_item": "2025-03-16 14:50:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 14:50:12 +0000"
     },
     "done": true
   },
@@ -8158,9 +8050,15 @@
     },
     "done": false
   },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_mosaic": {
+  "twilightforest:recipes/combat/equipment/yeti_helmet": {
     "criteria": {
-      "has_block": "2025-03-16 15:14:36 +0000"
+      "has_item": "2025-03-16 14:51:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/yeti_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 14:51:34 +0000"
     },
     "done": true
   },
@@ -8170,21 +8068,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/yeti_leggings": {
     "criteria": {
       "has_item": "2025-03-16 14:51:34 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
-      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
+      "has_trophy": "2025-03-16 14:52:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-03-16 14:58:59 +0000"
     },
     "done": true
   },
@@ -8194,15 +8092,129 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+  "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
-      "has_item": "2025-03-16 15:14:55 +0000"
+      "has_food": "2025-03-16 14:58:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 14:59:46 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/misc/maze_map": {
     "criteria": {
       "has_item": "2025-03-16 15:00:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-16 15:01:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-03-16 15:01:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:10:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:10:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/decorative_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:10:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/cut_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:10:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_border": {
+    "criteria": {
+      "has_block": "2025-03-16 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/cut_mazestone": {
+    "criteria": {
+      "has_block": "2025-03-16 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/mazestone_mosaic": {
+    "criteria": {
+      "has_block": "2025-03-16 15:14:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-03-16 15:14:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-03-16 15:14:55 +0000"
     },
     "done": true
   },
@@ -8224,21 +8236,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:12 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone/cut_mazestone": {
     "criteria": {
       "has_block": "2025-03-16 15:14:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2025-03-16 15:01:17 +0000"
     },
     "done": true
   },
@@ -8248,39 +8248,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone/mazestone_border": {
     "criteria": {
       "has_block": "2025-03-16 15:14:55 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_mosaic": {
-    "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-03-16 14:58:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:12 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/decorative_mazestone/mazestone_brick": {
-    "criteria": {
-      "has_block": "2025-03-16 15:14:36 +0000"
     },
     "done": true
   },
@@ -8290,57 +8260,39 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-03-16 14:52:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/mazestone_border": {
-    "criteria": {
-      "has_block": "2025-03-16 15:10:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/decorative_mazestone": {
-    "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
-    "criteria": {
-      "has_item": "2025-03-16 14:50:12 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone_brick/cut_mazestone": {
     "criteria": {
       "has_block": "2025-03-16 15:14:55 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/decorative_mazestone": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "has_block": "2025-03-16 15:10:48 +0000"
+      "raw_meef": "2025-03-16 15:15:14 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_brick": {
+    "criteria": {
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/decorative_mazestone": {
     "criteria": {
-      "has_item": "2025-03-16 15:01:22 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/cut_mazestone/mazestone_brick": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/cut_mazestone": {
     "criteria": {
-      "has_block": "2025-03-16 14:59:46 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/stonecutting/mazestone_mosaic/cut_mazestone": {
+  "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_mosaic": {
     "criteria": {
-      "has_block": "2025-03-16 15:10:48 +0000"
+      "has_block": "2025-03-16 15:27:26 +0000"
     },
     "done": true
   },
