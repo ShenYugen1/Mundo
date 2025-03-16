@@ -8475,6 +8475,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-03-16 17:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
@@ -8640,6 +8646,12 @@
   "twilightforest:experiment_115": {
     "criteria": {
       "eat_experiment_115": "2025-03-16 16:49:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-03-16 17:54:29 +0000"
     },
     "done": true
   },
