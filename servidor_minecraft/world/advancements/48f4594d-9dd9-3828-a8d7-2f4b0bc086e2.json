@@ -8290,6 +8290,12 @@
     },
     "done": true
   },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-03-16 15:54:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/stonecutting/mazestone_border/mazestone_mosaic": {
     "criteria": {
       "has_block": "2025-03-16 15:27:26 +0000"

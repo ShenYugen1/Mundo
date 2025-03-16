@@ -21541,3 +21541,11 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [16Mar2025 15:49:00.990] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
 [16Mar2025 15:49:02.215] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
 [16Mar2025 15:50:07.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
+[16Mar2025 15:51:48.446] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:54:51.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 15:54:54.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has reached the goal [And Now, to Find the Exit]
+[16Mar2025 15:56:48.447] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:58:13.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:58:57.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:00:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 16:00:53.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [Mighty Stroganoff]
