@@ -15566,3 +15566,23 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 12:24:00.075] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2049, y=70, z=-15904} with deep BlockPos{x=-2049, y=-59, z=-15904}
 [16Mar2025 12:24:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
 [16Mar2025 12:26:29.073] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:27:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:29:19.645] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1e8310e1 into net.minecraft.network.Connection@1485446f
+[16Mar2025 12:29:20.387] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[16Mar2025 12:29:21.296] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5345729b into net.minecraft.network.Connection@1485446f
+[16Mar2025 12:29:21.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego77[/127.242.196.192:50221] logged in with entity id 19047 at (343.5, 147.5, -15545.5)
+[16Mar2025 12:29:21.444] [Server thread/INFO] [owo/]: Sending server config values to client
+[16Mar2025 12:29:21.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
+[16Mar2025 12:29:21.464] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Diego77 (48f4594d-9dd9-3828-a8d7-2f4b0bc086e2)
+[16Mar2025 12:29:21.929] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 12:31:00.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Made Diego77 a server operator]
+[16Mar2025 12:31:12.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 12:31:29.100] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 12:31:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:31:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:33:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:33:25.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:34:10.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 12:36:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 12:36:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1802.500000, -43.500000, -15923.500000]
+[16Mar2025 12:36:29.099] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
