@@ -7893,27 +7893,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-03-16 09:44:23 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
-    "criteria": {
-      "has_shear": "2025-03-16 10:10:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-03-16 09:44:36 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/storage_link": {
     "criteria": {
       "has_repeater": "2025-03-16 09:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-16 09:44:23 +0000"
     },
     "done": true
   },
@@ -7926,6 +7914,36 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-16 09:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-16 09:44:36 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2025-03-16 10:10:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-03-16 10:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-16 10:38:39 +0000"
     },
     "done": true
   },
