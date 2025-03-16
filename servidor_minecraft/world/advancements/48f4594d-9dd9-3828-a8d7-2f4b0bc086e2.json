@@ -7703,6 +7703,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 14:36:39 +0000"
+    },
+    "done": false
+  },
   "twilightforest:arborist": {
     "criteria": {
       "mangrove_sapling": "2025-03-16 13:56:42 +0000",
@@ -7722,9 +7794,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/naga_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 14:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-03-16 14:19:40 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart_melted_from_smelting": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:30:06 +0000"
     },
     "done": true
   },
@@ -7752,11 +7836,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-16 14:29:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/firefly_particle_spawner": {
     "criteria": {
       "has_jar": "2025-03-16 14:07:21 +0000"
     },
     "done": true
+  },
+  "bhc:recipes/combat/yellow_heart_patch": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:30:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-03-16 14:30:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
@@ -7782,9 +7884,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-16 14:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-03-16 14:30:03 +0000"
+    },
+    "done": true
+  },
+  "bhc:recipes/misc/yellow_heart_canister": {
+    "criteria": {
+      "has_heart": "2025-03-16 14:30:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map": {
     "criteria": {
       "has_item": "2025-03-16 14:24:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 14:31:50 +0000"
     },
     "done": true
   },
@@ -7803,6 +7929,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "hostile_wolf": "2025-03-16 13:45:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-03-16 14:27:00 +0000"
     },
     "done": true
   },
@@ -7842,9 +7974,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-16 14:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-03-16 13:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-16 14:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/naga_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 14:31:52 +0000"
     },
     "done": true
   },
