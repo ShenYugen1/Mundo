@@ -22997,3 +22997,33 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 17:18:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has completed the challenge [Arcane Engineer]
 [16Mar2025 17:23:05.887] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [16Mar2025 17:28:05.897] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:33:05.892] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:36:37.233] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 17:36:37.627] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 5059 radius, 27 samples
+[16Mar2025 17:38:05.896] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 17:38:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 17:39:25.950] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 17:39:25.984] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 5056 radius, 27 samples
+[16Mar2025 17:39:27.720] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 17:39:27.734] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 5032 radius, 27 samples
+[16Mar2025 17:39:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 477.500000, 79.500000, -16013.500000]
+[16Mar2025 17:40:04.557] [Worker-Main-15/DEBUG] [oritech/]: placing resource node at BlockPos{x=701, y=2, z=-16223} with deep BlockPos{x=701, y=-60, z=-16223}
+[16Mar2025 17:40:08.577] [Worker-Main-15/DEBUG] [oritech/]: placing resource node at BlockPos{x=828, y=-2, z=-16144} with deep BlockPos{x=828, y=-61, z=-16144}
+[16Mar2025 17:40:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 17:40:38.676] [Worker-Main-16/DEBUG] [oritech/]: placing resource node at BlockPos{x=916, y=1, z=-16289} with deep BlockPos{x=916, y=-61, z=-16289}
+[16Mar2025 17:41:00.690] [Worker-Main-16/DEBUG] [oritech/]: placing resource node at BlockPos{x=1054, y=1, z=-16152} with deep BlockPos{x=1054, y=-60, z=-16152}
+[16Mar2025 17:41:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 17:41:22.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen fell from a high place
+[16Mar2025 17:41:22.335] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:872, y:62, z:-16208, dim:minecraft:overworld]
+[16Mar2025 17:41:22.336] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 17:41:22.671] [Worker-Main-12/DEBUG] [oritech/]: placing resource node at BlockPos{x=1060, y=1, z=-16158} with deep BlockPos{x=1060, y=-59, z=-16158}
+[16Mar2025 17:41:23.872] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 17:41:30.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 872.500000, 62.500000, -16207.500000]
+[16Mar2025 17:41:48.250] [Worker-Main-16/DEBUG] [oritech/]: placing resource node at BlockPos{x=1092, y=48, z=-16328} with deep BlockPos{x=1092, y=-59, z=-16328}
+[16Mar2025 17:41:52.581] [Worker-Main-15/DEBUG] [oritech/]: placing resource node at BlockPos{x=1162, y=0, z=-16150} with deep BlockPos{x=1162, y=-62, z=-16150}
+[16Mar2025 17:41:57.169] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 17:41:57.169] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 17:42:01.157] [Worker-Main-12/DEBUG] [oritech/]: placing resource node at BlockPos{x=1192, y=3, z=-16326} with deep BlockPos{x=1192, y=-60, z=-16326}
+[16Mar2025 17:42:19.827] [Worker-Main-12/DEBUG] [oritech/]: placing resource node at BlockPos{x=1311, y=1, z=-16173} with deep BlockPos{x=1311, y=-61, z=-16173}
+[16Mar2025 17:42:19.943] [Worker-Main-16/DEBUG] [oritech/]: placing resource node at BlockPos{x=1303, y=-3, z=-16098} with deep BlockPos{x=1303, y=-59, z=-16098}
+[16Mar2025 17:42:21.126] [Worker-Main-15/DEBUG] [oritech/]: placing resource node at BlockPos{x=1311, y=-3, z=-16020} with deep BlockPos{x=1311, y=-62, z=-16020}
