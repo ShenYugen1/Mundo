@@ -8898,9 +8898,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-03-16 16:09:54 +0000",
-      "snow_queen": "2025-03-16 16:42:25 +0000"
+      "snow_queen": "2025-03-16 16:42:25 +0000",
+      "ur_ghast": "2025-03-16 17:05:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/combat/equipment/fiery_iron_helmet": {
     "criteria": {
@@ -9007,15 +9008,22 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-03-16 16:28:51 +0000"
+      "previous_progression": "2025-03-16 16:28:51 +0000",
+      "was_in_fight": "2025-03-16 17:05:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 16:39:36 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-03-16 17:05:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
@@ -9083,6 +9091,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-03-16 17:07:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-03-16 16:52:36 +0000"
@@ -9110,6 +9124,12 @@
   "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:39:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-03-16 17:07:12 +0000"
     },
     "done": true
   },

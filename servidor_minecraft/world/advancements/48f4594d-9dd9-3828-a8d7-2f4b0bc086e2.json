@@ -7739,6 +7739,7 @@
     "criteria": {
       "dark_log": "2025-03-16 16:47:38 +0000",
       "canopy_chest": "2025-03-16 14:52:09 +0000",
+      "encased_towerwood": "2025-03-16 17:02:45 +0000",
       "mangrove_sapling": "2025-03-16 13:56:42 +0000",
       "canopy_log": "2025-03-16 14:43:48 +0000",
       "towerwood": "2025-03-16 16:47:14 +0000",
@@ -8328,9 +8329,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-03-16 16:09:54 +0000",
-      "snow_queen": "2025-03-16 16:42:25 +0000"
+      "snow_queen": "2025-03-16 16:42:25 +0000",
+      "ur_ghast": "2025-03-16 17:05:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
@@ -8437,9 +8439,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-03-16 16:28:51 +0000"
+      "previous_progression": "2025-03-16 16:28:51 +0000",
+      "was_in_fight": "2025-03-16 17:05:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
     "criteria": {
@@ -8456,6 +8459,18 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-03-16 17:05:56 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-03-16 17:06:07 +0000"
     },
     "done": true
   },
@@ -8507,6 +8522,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-03-16 17:02:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-16 16:35:18 +0000"
@@ -8525,9 +8546,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-03-16 17:03:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
     "criteria": {
       "has_item": "2025-03-16 16:47:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-03-16 17:02:52 +0000"
     },
     "done": true
   },
@@ -8564,6 +8597,18 @@
   "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
     "criteria": {
       "has_birch_plank": "2025-03-16 16:35:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-03-16 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-03-16 17:03:19 +0000"
     },
     "done": true
   },
