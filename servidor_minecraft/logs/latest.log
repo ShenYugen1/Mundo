@@ -1293,3 +1293,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Mar2025 11:45:55.040] [Server thread/INFO] [owo/]: Sending server config values to client
 [16Mar2025 11:45:55.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 joined the game
 [16Mar2025 11:45:56.314] [Server thread/INFO] [owo/]: Receiving client config
+[16Mar2025 11:46:57.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego77 lost connection: Disconnected
+[16Mar2025 11:46:57.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 left the game
+[16Mar2025 11:48:39.018] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[16Mar2025 11:48:39.037] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6611ebc4: RandomSpreadSearchWorker succeeded with 262 radius, 1 samples
