@@ -2314,10 +2314,12 @@
       "biomeswevegone:cika_woods": "2025-02-22 20:09:16 +0000",
       "biomeswevegone:orchard": "2025-03-01 20:48:25 +0000",
       "biomeswevegone:ironwood_gour": "2025-03-15 16:31:16 +0000",
+      "biomeswevegone:windswept_desert": "2025-03-16 15:40:10 +0000",
       "biomeswevegone:crag_gardens": "2025-03-01 21:24:35 +0000",
       "biomeswevegone:howling_peaks": "2025-03-11 20:34:22 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-02-22 20:38:12 +0000",
       "biomeswevegone:skyrise_vale": "2025-03-01 12:25:15 +0000",
+      "biomeswevegone:dead_sea": "2025-03-16 15:38:58 +0000",
       "biomeswevegone:allium_shrubland": "2025-03-11 20:38:03 +0000",
       "biomeswevegone:coconino_meadow": "2025-02-22 23:45:12 +0000",
       "biomeswevegone:maple_taiga": "2025-03-01 12:25:24 +0000",
@@ -3237,27 +3239,28 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-02-22 20:07:00 +0000",
       "minecraft:snowy_slopes": "2025-03-11 20:34:15 +0000",
-      "minecraft:beach": "2025-02-22 20:41:36 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-22 20:09:31 +0000",
       "minecraft:forest": "2025-02-22 20:06:19 +0000",
       "minecraft:taiga": "2025-02-22 20:08:06 +0000",
       "minecraft:deep_ocean": "2025-02-22 21:23:51 +0000",
+      "minecraft:lush_caves": "2025-02-22 20:08:56 +0000",
+      "minecraft:ice_spikes": "2025-02-23 16:03:41 +0000",
+      "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
+      "minecraft:desert": "2025-03-16 15:39:52 +0000",
+      "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
+      "minecraft:ocean": "2025-02-22 21:21:14 +0000",
+      "minecraft:windswept_hills": "2025-02-22 23:42:59 +0000",
+      "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000",
+      "minecraft:beach": "2025-02-22 20:41:36 +0000",
       "minecraft:river": "2025-02-22 20:52:57 +0000",
       "minecraft:snowy_plains": "2025-02-22 18:36:55 +0000",
       "minecraft:stony_shore": "2025-02-22 18:57:01 +0000",
-      "minecraft:lush_caves": "2025-02-22 20:08:56 +0000",
       "minecraft:snowy_taiga": "2025-02-22 18:13:41 +0000",
       "minecraft:dripstone_caves": "2025-03-09 16:50:10 +0000",
-      "minecraft:ice_spikes": "2025-02-23 16:03:41 +0000",
-      "minecraft:frozen_ocean": "2025-02-22 18:12:18 +0000",
-      "minecraft:frozen_river": "2025-02-22 18:12:54 +0000",
-      "minecraft:deep_frozen_ocean": "2025-02-22 18:53:11 +0000",
       "minecraft:deep_dark": "2025-03-16 11:51:36 +0000",
-      "minecraft:ocean": "2025-02-22 21:21:14 +0000",
       "minecraft:swamp": "2025-02-22 23:43:02 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-22 23:42:51 +0000",
-      "minecraft:windswept_hills": "2025-02-22 23:42:59 +0000",
-      "minecraft:snowy_beach": "2025-02-22 18:12:08 +0000",
       "minecraft:plains": "2025-02-22 21:31:51 +0000"
     },
     "done": false
@@ -8800,6 +8803,12 @@
     },
     "done": true
   },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-03-16 15:42:06 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
       "has_logs": "2025-03-16 13:12:31 +0000"
@@ -8827,6 +8836,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-16 15:08:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ore_map": {
+    "criteria": {
+      "has_item": "2025-03-16 15:41:51 +0000"
     },
     "done": true
   },

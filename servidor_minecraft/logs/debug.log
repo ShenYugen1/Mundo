@@ -21230,3 +21230,314 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [16Mar2025 15:40:23.636] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [16Mar2025 15:40:23.636] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [16Mar2025 15:40:25.126] [Worker-Main-13/DEBUG] [oritech/]: placing resource node at BlockPos{x=-2929, y=80, z=-16440} with deep BlockPos{x=-2929, y=-61, z=-16440}
+[16Mar2025 15:40:48.164] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:48.561] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=-3289, y=80, z=-16482} with deep BlockPos{x=-3289, y=-61, z=-16482}
+[16Mar2025 15:40:52.545] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:53.276] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+[16Mar2025 15:40:53.277] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+[16Mar2025 15:40:53.278] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.279] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+[16Mar2025 15:40:53.280] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+[16Mar2025 15:40:53.281] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+[16Mar2025 15:40:53.282] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+[16Mar2025 15:40:53.283] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+[16Mar2025 15:40:53.284] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.285] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+[16Mar2025 15:40:53.285] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+[16Mar2025 15:40:53.285] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+[16Mar2025 15:40:53.285] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[16Mar2025 15:40:53.305] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[16Mar2025 15:40:53.307] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@6cee903a
+[16Mar2025 15:40:53.307] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@639fee48
+[16Mar2025 15:40:53.320] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[16Mar2025 15:40:53.320] [Worker-Main-8/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[16Mar2025 15:40:53.322] [Worker-Main-8/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mss:frozen_pond
+net.minecraft.nbt.ReportedNbtException: Loading NBT data
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:519) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/mss@1.2.8-1.21/com.finndog.mss.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:108) ~[mss-1.2.8-1.21.jar%23385!/:?]
+	at TRANSFORMER/mss@1.2.8-1.21/com.finndog.mss.world.structures.GenericJigsawStructure.findGenerationPoint(GenericJigsawStructure.java:213) ~[mss-1.2.8-1.21.jar%23385!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:489) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.applyStep(ChunkMap.java:628) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.GenerationChunkHolder.applyStep(GenerationChunkHolder.java:64) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleChunkInLayer(ChunkGenerationTask.java:143) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleLayer(ChunkGenerationTask.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleNextLayer(ChunkGenerationTask.java:74) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.runUntilWait(ChunkGenerationTask.java:59) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$runGenerationTask$21(ChunkMap.java:657) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.lambda$message$1(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollTask(ProcessorMailbox.java:91) [server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollUntil(ProcessorMailbox.java:146) [server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.io.IOException: Invalid tag id: 115
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.createException(TagType.java:58) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.load(TagType.java:63) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.TagType$1.load(TagType.java:56) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
+	... 55 more
+[16Mar2025 15:40:54.618] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:55.101] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:56.164] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:56.274] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:56.784] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3628 | 80 | -16700).
+[16Mar2025 15:40:56.786] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Mar2025 15:40:56.788] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[16Mar2025 15:40:56.788] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Mar2025 15:40:56.788] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[16Mar2025 15:40:56.788] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Mar2025 15:40:56.789] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(2) Nodes and 5(0) Rooms
+[16Mar2025 15:40:56.789] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Mar2025 15:40:56.789] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(0) Nodes and 6(0) Rooms
+[16Mar2025 15:40:56.789] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Mar2025 15:40:56.789] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[16Mar2025 15:40:57.860] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:57.929] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:57.929] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:59.300] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:40:59.301] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:00.012] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:00.016] [Worker-Main-13/DEBUG] [oritech/]: placing resource node at BlockPos{x=-3402, y=78, z=-16780} with deep BlockPos{x=-3402, y=-61, z=-16780}
+[16Mar2025 15:41:01.777] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:02.372] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:02.373] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:02.530] [Worker-Main-12/DEBUG] [oritech/]: placing resource node at BlockPos{x=-3307, y=65, z=-16863} with deep BlockPos{x=-3307, y=-62, z=-16863}
+[16Mar2025 15:41:03.396] [Worker-Main-13/DEBUG] [oritech/]: placing resource node at BlockPos{x=-3387, y=96, z=-16841} with deep BlockPos{x=-3387, y=-59, z=-16841}
+[16Mar2025 15:41:04.432] [Worker-Main-8/DEBUG] [oritech/]: placing resource node at BlockPos{x=-3367, y=103, z=-16578} with deep BlockPos{x=-3367, y=-60, z=-16578}
+[16Mar2025 15:41:05.528] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 15:41:05.528] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[16Mar2025 15:41:05.528] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 15:41:08.423] [Worker-Main-12/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 15:41:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 333.500000, 147.500000, -15500.500000]
+[16Mar2025 15:41:48.457] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:41:56.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 15:42:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen has reached the goal [And Now, to Find the Exit]
+[16Mar2025 15:45:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was chopped up by Minotaur
+[16Mar2025 15:45:48.939] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2101, y:-13, z:-124467, dim:twilightforest:twilight_forest]
+[16Mar2025 15:45:48.942] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:45:50.683] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:46:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was chopped up by Minotaur
+[16Mar2025 15:46:05.237] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2099, y:-13, z:-124462, dim:twilightforest:twilight_forest]
+[16Mar2025 15:46:05.245] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:46:06.404] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:46:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was chopped up by Minotaur
+[16Mar2025 15:46:45.238] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2102, y:-17, z:-124460, dim:twilightforest:twilight_forest]
+[16Mar2025 15:46:45.240] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:46:46.363] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:46:48.452] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 15:47:05.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was chopped up by Minotaur
+[16Mar2025 15:47:05.136] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2103, y:-17, z:-124464, dim:twilightforest:twilight_forest]
+[16Mar2025 15:47:05.146] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:47:06.307] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:49:00.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was chopped up by Minotaur
+[16Mar2025 15:49:00.987] [Server thread/DEBUG] [tombstone/]: A new grave of the player ShenYugen was created at position [x:2104, y:-17, z:-124461, dim:twilightforest:twilight_forest]
+[16Mar2025 15:49:00.990] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 15:49:02.215] [Server thread/DEBUG] [twilightforest/]: Player ShenYugen (9f853302-1406-31d6-a049-113165f8432f) respawned and received items held in storage
+[16Mar2025 15:50:07.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShenYugen moved wrongly!
