@@ -8058,3 +8058,134 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [16Mar2025 18:33:20.719] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [16Mar2025 18:33:20.719] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [16Mar2025 18:33:20.901] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:33:41.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:35:11.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:35:28.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:36:01.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:36:22.554] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:22.554] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:22.554] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.478] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.481] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.481] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.481] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.481] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.482] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.482] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.482] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.482] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.482] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.483] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.483] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.483] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.483] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.483] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.484] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.484] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.484] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.484] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.484] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.485] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.485] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.485] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.546] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.547] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.548] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.548] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.549] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.549] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.549] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.550] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.550] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.550] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.550] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.550] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.551] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.551] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.551] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.551] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.551] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.552] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.552] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.552] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:29.553] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.116] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.117] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.301] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.302] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.302] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.302] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.302] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.303] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.303] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.303] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.303] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.304] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:36:51.304] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.570] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.571] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.571] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.573] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.573] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.573] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.574] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.574] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.574] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.575] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.576] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.576] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.576] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.576] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.576] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.577] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.577] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.577] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.577] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.577] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.578] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.578] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.675] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.675] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.676] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:37:18.676] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:38:33.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 has made the advancement [Apothic Spawners]
+[16Mar2025 18:39:12.766] [Worker-Main-12/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:39:14.927] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 18:39:14.927] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[16Mar2025 18:39:14.927] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:39:50.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:39:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Spectral Wolf
+[16Mar2025 18:39:52.561] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:39:59.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was doomed to fall
+[16Mar2025 18:39:59.805] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:40:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was shot by Skeleton
+[16Mar2025 18:40:27.992] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:40:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was slain by Zombie
+[16Mar2025 18:40:37.449] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:40:47.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5279.500000, 21.500000, -17173.500000]
+[16Mar2025 18:40:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:41:00.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[16Mar2025 18:41:00.790] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:41:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5279.500000, 21.500000, -17174.500000]
+[16Mar2025 18:41:17.995] [Worker-Main-16/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:41:17.996] [Worker-Main-16/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:41:17.996] [Worker-Main-16/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:41:17.996] [Worker-Main-16/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[16Mar2025 18:41:17.997] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[16Mar2025 18:41:17.997] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[16Mar2025 18:41:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShenYugen was shot by Skeleton
+[16Mar2025 18:41:52.492] [Server thread/INFO] [tombstone/]: The player ShenYugen has successfully been saved
+[16Mar2025 18:41:58.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5272.500000, 10.500000, -17203.500000]
+[16Mar2025 18:42:16.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to Diego77]
+[16Mar2025 18:42:43.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 was slain by Zombie
+[16Mar2025 18:42:43.191] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:42:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5277.500000, 21.500000, -17176.500000]
+[16Mar2025 18:43:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to ShenYugen]
+[16Mar2025 18:43:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego77 froze to death
+[16Mar2025 18:43:16.949] [Server thread/INFO] [tombstone/]: The player Diego77 has successfully been saved
+[16Mar2025 18:43:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego77: Teleported Diego77 to 5297.500000, 21.500000, -17126.500000]
