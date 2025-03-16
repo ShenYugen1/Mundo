@@ -15472,3 +15472,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23286!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [16Mar2025 09:58:09.463] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 10:03:09.459] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[16Mar2025 10:08:09.460] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
