@@ -235,5 +235,6 @@
 	"tightMachineFrameHitboxes": false,
 	"tightCableHitboxes": true,
 	"machineVolumeMultiplier": 1.0,
-	"showMachinePreview": true
+	"showMachinePreview": true,
+	"enableHelpButton": true
 }
