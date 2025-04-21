@@ -3778,12 +3778,6 @@
     },
     "done": true
   },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "tick": "2025-04-20 17:37:55 +0000"
-    },
-    "done": true
-  },
   "apotheosis:progression/haven": {
     "criteria": {
       "affixed": "2025-02-22 18:26:36 +0000"
@@ -13032,6 +13026,12 @@
   "dimensionalpocketsii:pocket/pocket_enhanced": {
     "criteria": {
       "pocket": "2025-04-09 00:39:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-04-20 17:37:55 +0000"
     },
     "done": true
   },
