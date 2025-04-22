@@ -16576,3 +16576,17 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Apr2025 23:41:31.517] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [21Apr2025 23:41:31.522] [Worker-Main-1/WARN] [net.minecraft.world.entity.npc.AbstractVillager/]: Failed to load offers: Failed to get element cyclic:reach missed input: {"cyclic:reach":1} missed input: {"minecraft:stored_enchantments":{levels:{"cyclic:reach":1}}}
 [21Apr2025 23:45:47.307] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Apr2025 23:49:24.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[21Apr2025 23:50:49.274] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Apr2025 23:51:01.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to -1055.500000, 17.500000, -20086.500000]
+[21Apr2025 23:51:08.178] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$3dd0ed7109dc4aa6878e56dde74680c3 (originally net/caffeinemc/mods/lithium/mixin/ai/poi/SectionStorageMixin$1)
+[21Apr2025 23:51:29.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 5444.500000, -41.500000, -16366.500000]
+[21Apr2025 23:51:41.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 302.500000, 118.500000, -15416.500000]
+[21Apr2025 23:52:44.114] [Server thread/DEBUG] [mixin/]: Mixing StandardSpellValidatorMixin from ars_controle.mixins.json into com.hollingsworth.arsnouveau.common.spell.validation.StandardSpellValidator
+[21Apr2025 23:52:44.115] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[21Apr2025 23:52:44.123] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[21Apr2025 23:52:44.123] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[21Apr2025 23:52:44.123] [Server thread/DEBUG] [mixin/]: ars_controle.mixins.json:StandardSpellValidatorMixin from mod ars_controle->@Inject::injectValidators(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[21Apr2025 23:53:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 355.500000, 253.500000, -15542.500000]
+[21Apr2025 23:55:49.272] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[21Apr2025 23:56:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
