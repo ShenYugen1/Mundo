@@ -13035,5 +13035,11 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/backpack_stack_upgrade_omega_tier_from_storage_stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_storage_stack_upgrade": "2025-04-22 00:10:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

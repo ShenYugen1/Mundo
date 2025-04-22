@@ -16590,3 +16590,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Apr2025 23:53:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 355.500000, 253.500000, -15542.500000]
 [21Apr2025 23:55:49.272] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [21Apr2025 23:56:08.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShenYugen: Teleported ShenYugen to 338.500000, 146.500000, -15528.500000]
+[22Apr2025 00:00:49.310] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Apr2025 00:05:49.240] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[22Apr2025 00:10:49.247] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
